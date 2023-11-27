@@ -1,4 +1,5 @@
 import requests
+import pandas as pd
 
 base_url = "http://bechdeltest.com/api/v1/"
 
@@ -30,5 +31,7 @@ def get_movies_by_title(title):
 
 # Example use
 # legally_blonde_id = "0250494"
-get_movie_by_imdb_id("0111161")
-get_movies_by_title("Titanic")
+#get_movie_by_imdb_id("0111161")
+#get_movies_by_title("Titanic")
+df1 = pd.read_csv("action.csv")
+print(df1)

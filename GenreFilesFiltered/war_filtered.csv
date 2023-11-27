@@ -1,0 +1,427 @@
+imdbid,movie_name,year,certificate,runtime,genre,rating,description,director,director_id,star,star_id,votes,gross(in $),bechdel
+tt1016150,All Quiet on the Western Front,2022,R,148 min,"Action, Drama, War",7.8,A young German soldier's terrifying experiences and distress on the western front during World War I.,Edward Berger,/name/nm0074163/,"Felix Kammerer, 
+Albrecht Schuch, 
+Aaron Hilmer, 
+Moritz Klaus","/name/nm0436835/,/name/nm3477129/,/name/nm6037256/,/name/nm2714111/",139754.0,,0
+tt2584384,Jojo Rabbit,2019,PG-13,108 min,"Comedy, Drama, War",7.9,A young German boy in the Hitler Youth whose hero and imaginary friend is the country's dictator is shocked to discover that his mother is hiding a Jewish girl in their home.,Taika Waititi,/name/nm0169806/,"Roman Griffin Davis, 
+Thomasin McKenzie, 
+Scarlett Johansson, 
+Taika Waititi","/name/nm9877392/,/name/nm5057169/,/name/nm0424060/,/name/nm0169806/",399264.0,33370906.0,3
+tt5013056,Dunkirk,2017,PG-13,106 min,"Action, Drama, History",7.8,"Allied soldiers from Belgium, the British Commonwealth and Empire, and France are surrounded by the German Army and evacuated during a fierce battle in World War II.",Christopher Nolan,/name/nm0634240/,"Fionn Whitehead, 
+Barry Keoghan, 
+Mark Rylance, 
+Tom Hardy","/name/nm7887725/,/name/nm4422686/,/name/nm0753314/,/name/nm0362766/",669727.0,188373161.0,0
+tt1631867,Edge of Tomorrow,2014,PG-13,113 min,"Action, Adventure, Sci-Fi",7.9,"A soldier fighting aliens gets to relive the same day over and over again, the day restarting every time he dies.",Doug Liman,/name/nm0510731/,"Tom Cruise, 
+Emily Blunt, 
+Bill Paxton, 
+Brendan Gleeson","/name/nm0000129/,/name/nm1289434/,/name/nm0000200/,/name/nm0322407/",687691.0,100206256.0,1
+tt8579674,1917,2019,R,119 min,"Action, Drama, War",8.2,"April 6th, 1917. As an infantry battalion assembles to wage war deep in enemy territory, two soldiers are assigned to race against time and deliver a message that will stop 1,600 men from walking straight into a deadly trap.",Sam Mendes,/name/nm0005222/,"Dean-Charles Chapman, 
+George MacKay, 
+Daniel Mays, 
+Colin Firth","/name/nm2835616/,/name/nm1126657/,/name/nm0990547/,/name/nm0000147/",603093.0,159227644.0,0
+tt2119532,Hacksaw Ridge,2016,R,139 min,"Biography, Drama, History",8.1,"World War II American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes the first man in American history to receive the Medal of Honor without firing a shot.",Mel Gibson,/name/nm0000154/,"Andrew Garfield, 
+Sam Worthington, 
+Luke Bracey, 
+Teresa Palmer","/name/nm1940449/,/name/nm0941777/,/name/nm3478396/,/name/nm1954240/",535776.0,67209615.0,1
+tt2713180,Fury,2014,R,134 min,"Action, Drama, War",7.5,"A grizzled tank commander makes tough decisions as he and his crew fight their way across Germany in April, 1945.",David Ayer,/name/nm0043742/,"Brad Pitt, 
+Shia LaBeouf, 
+Logan Lerman, 
+Michael Peña","/name/nm0000093/,/name/nm0479471/,/name/nm0503567/,/name/nm0671567/",500926.0,85817906.0,1
+tt7984766,The King,2019,R,140 min,"Biography, Drama, History",7.3,"Hal, wayward prince and heir to the English throne, is crowned King Henry V after his tyrannical father dies. Now the young king must navigate palace politics, the war his father left behind, and the emotional strings of his past life.",David Michôd,/name/nm2391575/,"Tom Glynn-Carney, 
+Gábor Czap, 
+Tom Fisher, 
+Edward Ashley","/name/nm6077951/,/name/nm5994557/,/name/nm1433660/,/name/nm5361352/",134316.0,,1
+tt2084970,The Imitation Game,2014,PG-13,114 min,"Biography, Drama, Thriller",8.0,"During World War II, the English mathematical genius Alan Turing tries to crack the German Enigma code with help from fellow mathematicians while attempting to come to terms with his troubled private life.",Morten Tyldum,/name/nm0878763/,"Benedict Cumberbatch, 
+Keira Knightley, 
+Matthew Goode, 
+Allen Leech","/name/nm1212722/,/name/nm0461136/,/name/nm0328828/,/name/nm1395602/",778565.0,91125683.0,2
+tt4172430,13 Hours,2016,R,144 min,"Action, Drama, History",7.3,"During an attack on a U.S. compound in Libya, a security team struggles to make sense out of the chaos.",Michael Bay,/name/nm0000881/,"John Krasinski, 
+Pablo Schreiber, 
+James Badge Dale, 
+David Denman","/name/nm1024677/,/name/nm1032567/,/name/nm0197647/,/name/nm0219292/",147124.0,52853219.0,2
+tt1790885,Zero Dark Thirty,2012,R,157 min,"Drama, History, Thriller",7.4,"A chronicle of the decade-long hunt for al-Qaeda terrorist leader Osama bin Laden after the September 2001 attacks, and his death at the hands of the Navy S.E.A.L.s Team 6 in May 2011.",Kathryn Bigelow,/name/nm0000941/,"Jessica Chastain, 
+Joel Edgerton, 
+Chris Pratt, 
+Mark Strong","/name/nm1567113/,/name/nm0249291/,/name/nm0695435/,/name/nm0835016/",305795.0,95720716.0,3
+tt6048922,Greyhound,2020,PG-13,91 min,"Action, Drama, History",7.0,"Several months after the U.S. entry into World War II, an inexperienced U.S. Navy commander must lead an Allied convoy being stalked by a German submarine wolf pack.",Aaron Schneider,/name/nm0773689/,"Tom Hanks, 
+Elisabeth Shue, 
+Stephen Graham, 
+Matt Helm","/name/nm0000158/,/name/nm0000223/,/name/nm0334318/,/name/nm5090093/",100356.0,,0
+tt1091191,Lone Survivor,2013,R,121 min,"Action, Biography, Drama",7.5,"Marcus Luttrell and his team set out on a mission to capture or kill notorious Taliban leader Ahmad Shah, in late June 2005. Marcus and his team are left to fight for their lives in one of the most valiant efforts of modern warfare.",Peter Berg,/name/nm0000916/,"Mark Wahlberg, 
+Taylor Kitsch, 
+Emile Hirsch, 
+Ben Foster","/name/nm0000242/,/name/nm2018237/,/name/nm0386472/,/name/nm0004936/",292050.0,125095601.0,0
+tt6294822,The Post,2017,PG-13,116 min,"Biography, Drama, History",7.2,A cover-up spanning four U.S. Presidents pushes the country's first female newspaper publisher and her editor to join an unprecedented battle between press and government.,Steven Spielberg,/name/nm0000229/,"Meryl Streep, 
+Tom Hanks, 
+Sarah Paulson, 
+Bob Odenkirk","/name/nm0000658/,/name/nm0000158/,/name/nm0005299/,/name/nm0644022/",154096.0,81903458.0,3
+tt1809398,Unbroken,2014,PG-13,137 min,"Action, Biography, Drama",7.2,"After a near-fatal plane crash in WWII, Olympian Louis Zamperini spends a harrowing 47 days in a raft with two fellow crewmen before he's caught by the Japanese navy and sent to a prisoner-of-war camp.",Angelina Jolie,/name/nm0001401/,"Jack O'Connell, 
+Miyavi, 
+Domhnall Gleeson, 
+Garrett Hedlund","/name/nm1925239/,/name/nm2032193/,/name/nm1727304/,/name/nm1330560/",171382.0,115637895.0,0
+tt2179136,American Sniper,2014,R,133 min,"Action, Biography, Drama",7.3,"Navy S.E.A.L. sniper Chris Kyle's pinpoint accuracy saves countless lives on the battlefield and turns him into a legend. Back home with his family after four tours of duty, however, Chris finds that it is the war he can't leave behind.",Clint Eastwood,/name/nm0000142/,"Bradley Cooper, 
+Sienna Miller, 
+Kyle Gallner, 
+Cole Konis","/name/nm0177896/,/name/nm1092227/,/name/nm0973177/,/name/nm6518675/",495061.0,350126372.0,1
+tt6924650,Midway,2019,PG-13,138 min,"Action, Drama, History",6.7,"The story of the Battle of Midway, told by the leaders and the sailors who fought it.",Roland Emmerich,/name/nm0000386/,"Ed Skrein, 
+Patrick Wilson, 
+Woody Harrelson, 
+Luke Evans","/name/nm4534098/,/name/nm0933940/,/name/nm0000437/,/name/nm1812656/",87889.0,56846802.0,1
+tt2005151,War Dogs,2016,R,114 min,"Biography, Comedy, Crime",7.1,"Loosely based on the true story of two young men, David Packouz and Efraim Diveroli, who won a three hundred million dollar contract from the Pentagon to arm America's allies in Afghanistan.",Todd Phillips,/name/nm0680846/,"Jonah Hill, 
+Miles Teller, 
+Steve Lantz, 
+Gregg Weiner","/name/nm1706767/,/name/nm1886602/,/name/nm3111373/,/name/nm1816775/",225913.0,43034523.0,1
+tt3682448,Bridge of Spies,2015,PG-13,142 min,"Drama, History, Thriller",7.6,"During the Cold War, an American lawyer is recruited to defend an arrested Soviet spy in court, and then help the CIA facilitate an exchange of the spy for the Soviet captured American U2 spy plane pilot, Francis Gary Powers.",Steven Spielberg,/name/nm0000229/,"Tom Hanks, 
+Mark Rylance, 
+Alan Alda, 
+Amy Ryan","/name/nm0000158/,/name/nm0753314/,/name/nm0000257/,/name/nm0752407/",314994.0,72313754.0,1
+tt4555426,Darkest Hour,2017,PG-13,125 min,"Biography, Drama, War",7.4,"In May 1940, the fate of World War II hangs on Winston Churchill, who must decide whether to negotiate with Adolf Hitler, or fight on knowing that it could mean the end of the British Empire.",Joe Wright,/name/nm0942504/,"Gary Oldman, 
+Lily James, 
+Kristin Scott Thomas, 
+Ben Mendelsohn","/name/nm0000198/,/name/nm4141252/,/name/nm0000218/,/name/nm0578853/",205927.0,56468410.0,2
+tt1034303,Defiance,2008,R,137 min,"Action, Drama, History",7.1,"Jewish brothers in German-occupied Eastern Europe escape into a Belorussian forest, where they join Russian resistance fighters, and endeavor to build a village, in order to protect themselves and about one thousand Jewish non-combatants.",Edward Zwick,/name/nm0001880/,"Daniel Craig, 
+Liev Schreiber, 
+Jamie Bell, 
+Alexa Davalos","/name/nm0185819/,/name/nm0000630/,/name/nm0068260/,/name/nm1111968/",150566.0,28644813.0,3
+tt8368512,The Courier,2020,PG-13,112 min,"Drama, History, Thriller",7.2,Businessman Greville Wynne is asked by a Russian source to try to help put an end to the Cuban Missile Crisis.,Dominic Cooke,/name/nm4315078/,"Benedict Cumberbatch, 
+Merab Ninidze, 
+Rachel Brosnahan, 
+Vladimir Chuprikov","/name/nm1212722/,/name/nm0632457/,/name/nm3014031/,/name/nm1078491/",64354.0,,3
+tt3640424,Allied,2016,R,124 min,"Action, Drama, Romance",7.1,"In 1942, a Canadian intelligence officer in North Africa encounters a female French Resistance fighter on a deadly mission behind enemy lines. When they reunite in London, their relationship is tested by the pressures of war.",Robert Zemeckis,/name/nm0000709/,"Brad Pitt, 
+Marion Cotillard, 
+Jared Harris, 
+Vincent Ebrahim","/name/nm0000093/,/name/nm0182839/,/name/nm0364813/,/name/nm1081121/",160287.0,40098064.0,3
+tt1289403,The Guernsey Literary and Potato Peel Pie Society,2018,TV-14,124 min,"Drama, Romance, War",7.3,"In the aftermath of World War II, a writer forms an unexpected bond with the residents of Guernsey Island when she decides to write a book about their experiences during the war.",Mike Newell,/name/nm0001565/,"Jessica Brown Findlay, 
+Tom Courtenay, 
+Michiel Huisman, 
+Katherine Parkinson","/name/nm3726887/,/name/nm0183822/,/name/nm0401264/,/name/nm1817670/",48257.0,,3
+tt2582576,Sand Castle,2017,TV-MA,113 min,"Action, Drama, War",6.3,"The story follows a young soldier, and his introduction into the 2003 invasion of Iraq. Based on true events, it bears witness to the destruction, and horrors of war.",Fernando Coimbra,/name/nm2036500/,"Nicholas Hoult, 
+Logan Marshall-Green, 
+Henry Cavill, 
+Glen Powell","/name/nm0396558/,/name/nm1334869/,/name/nm0147147/,/name/nm1412974/",24546.0,,0
+tt1327194,The Lucky One,2012,PG-13,101 min,"Drama, Mystery, Romance",6.4,A Marine travels to Louisiana after serving three tours in Iraq and searches for the unknown woman he believes was his good luck charm during the war.,Scott Hicks,/name/nm0382956/,"Zac Efron, 
+Taylor Schilling, 
+Blythe Danner, 
+Riley Thomas Stewart","/name/nm1374980/,/name/nm2279940/,/name/nm0001100/,/name/nm2546716/",110256.0,60457138.0,3
+tt3361792,Tolkien,2019,PG-13,112 min,"Biography, Drama, Romance",6.8,"The formative years of the orphaned author J.R.R. Tolkien as he finds friendship, love and artistic inspiration among a group of fellow outcasts at school.",Dome Karukoski,/name/nm1933648/,"Nicholas Hoult, 
+Lily Collins, 
+Colm Meaney, 
+Derek Jacobi","/name/nm0396558/,/name/nm2934314/,/name/nm0000538/,/name/nm0001394/",42426.0,4535154.0,2
+tt3553442,Whiskey Tango Foxtrot,2016,R,112 min,"Biography, Comedy, Drama",6.6,A journalist recounts her wartime coverage in Afghanistan.,"Glenn Ficarra, 
+John Requa",/name/nm0275629/,"Tina Fey, 
+Margot Robbie, 
+Martin Freeman, 
+Alfred Molina","/name/nm0720135/,/name/nm0275486/,/name/nm3053338/,/name/nm0293509/,/name/nm0000547/",53670.0,23049575.0,3
+tt1894476,How I Live Now,2013,R,101 min,"Action, Adventure, Drama",6.4,"An American girl, sent to the English countryside to stay with relatives, finds love and purpose while fighting for her survival as war envelops the world around her.",Kevin Macdonald,/name/nm0531817/,"Saoirse Ronan, 
+Tom Holland, 
+George MacKay, 
+Harley Bird","/name/nm1519680/,/name/nm4043618/,/name/nm1126657/,/name/nm3897655/",30986.0,60213.0,3
+tt2396589,Mudbound,2017,R,134 min,"Drama, War",7.4,"Two men return home from World War II to work on a farm in rural Mississippi, where they struggle to deal with racism and adjusting to life after war.",Dee Rees,/name/nm2011696/,"Jason Mitchell, 
+Carey Mulligan, 
+Jason Clarke, 
+Mary J. Blige","/name/nm4207146/,/name/nm1659547/,/name/nm0164809/,/name/nm0004763/",50813.0,,3
+tt4530422,Overlord,2018,R,110 min,"Action, Horror, Sci-Fi",6.6,A small group of American soldiers find horror behind enemy lines on the eve of D-Day.,Julius Avery,/name/nm1170339/,"Jovan Adepo, 
+Wyatt Russell, 
+Mathilde Ollivier, 
+Pilou Asbæk","/name/nm5381254/,/name/nm0751518/,/name/nm7230577/,/name/nm1561982/",101165.0,21704844.0,0
+tt5208252,Operation Finale,2018,PG-13,122 min,"Biography, Drama, History",6.6,A team of secret agents set out to track down the Nazi officer who masterminded the Holocaust.,Chris Weitz,/name/nm0919363/,"Oscar Isaac, 
+Ben Kingsley, 
+Mélanie Laurent, 
+Lior Raz","/name/nm1209966/,/name/nm0001426/,/name/nm0491259/,/name/nm2443797/",43964.0,17612099.0,1
+tt7698468,A Call to Spy,2019,PG-13,123 min,"Biography, Crime, Drama",6.6,"In the beginning of WWII, with Britain becoming desperate, Churchill orders his new spy agency - SOE - to recruit and train women as spies.",Lydia Dean Pilcher,/name/nm0212990/,"Sarah Megan Thomas, 
+Stana Katic, 
+Radhika Apte, 
+Linus Roache","/name/nm2353338/,/name/nm1065664/,/name/nm2331000/,/name/nm0730070/",8420.0,,3
+tt1234548,The Men Who Stare at Goats,2009,R,94 min,"Comedy, War",6.2,"A reporter in Iraq might just have the story of a lifetime when he meets Lyn Cassady, a guy who claims to be a former member of the U.S. Army's New Earth Army, a unit that employs paranormal powers in their missions.",Grant Heslov,/name/nm0381416/,"Ewan McGregor, 
+George Clooney, 
+Kevin Spacey, 
+Jeff Bridges","/name/nm0000191/,/name/nm0000123/,/name/nm0000228/,/name/nm0000313/",134084.0,32428195.0,0
+tt2057392,Eye in the Sky,2015,R,102 min,"Action, Drama, Thriller",7.3,"Col. Katherine Powell, a military officer in command of an operation to capture terrorists in Kenya, sees her mission escalate when a girl enters the kill zone triggering an international dispute over the implications of modern warfare.",Gavin Hood,/name/nm0004303/,"Helen Mirren, 
+Aaron Paul, 
+Alan Rickman, 
+Barkhad Abdi","/name/nm0000545/,/name/nm0666739/,/name/nm0000614/,/name/nm5831542/",87690.0,18700837.0,3
+tt2177771,The Monuments Men,2014,PG-13,118 min,"Comedy, Drama, History",6.1,An unlikely World War II platoon is tasked to rescue art masterpieces from German thieves and return them to their owners.,George Clooney,/name/nm0000123/,"George Clooney, 
+Matt Damon, 
+Bill Murray, 
+Cate Blanchett","/name/nm0000123/,/name/nm0000354/,/name/nm0000195/,/name/nm0000949/",133673.0,78031620.0,0
+tt5592248,The Beguiled,2017,R,93 min,"Drama, Thriller, War",6.3,The unexpected arrival of a wounded Union soldier at a girls school in Virginia during the American Civil War leads to jealousy and betrayal.,Sofia Coppola,/name/nm0001068/,"Nicole Kidman, 
+Kirsten Dunst, 
+Elle Fanning, 
+Colin Farrell","/name/nm0000173/,/name/nm0000379/,/name/nm1102577/,/name/nm0268199/",58725.0,10576669.0,3
+tt9691136,Shadow in the Cloud,2020,R,83 min,"Action, Horror, War",5.0,A female WWII pilot traveling with top secret documents on a B-17 Flying Fortress encounters an evil presence on board the flight.,Roseanne Liang,/name/nm1755396/,"Chloë Grace Moretz, 
+Nick Robinson, 
+Beulah Koale, 
+Taylor John Smith","/name/nm1631269/,/name/nm3538718/,/name/nm3872230/,/name/nm4973896/",28010.0,,0
+tt1568911,War Horse,2011,PG-13,146 min,"Action, Adventure, Drama",7.2,Young Albert enlists to serve in World War I after his beloved horse is sold to the cavalry. Albert's hopeful journey takes him out of England and to the front lines as the war rages on.,Steven Spielberg,/name/nm0000229/,"Jeremy Irvine, 
+Emily Watson, 
+David Thewlis, 
+Benedict Cumberbatch","/name/nm3528539/,/name/nm0001833/,/name/nm0000667/,/name/nm1212722/",159925.0,79884879.0,1
+tt2058107,The Railway Man,2013,R,116 min,"Biography, Drama, Romance",7.1,"A former British Army officer, who was tortured as a prisoner of war at a Japanese labor camp during World War II, discovers that the man responsible for much of his treatment is still alive and sets out to confront him.",Jonathan Teplitzky,/name/nm0855300/,"Colin Firth, 
+Nicole Kidman, 
+Stellan Skarsgård, 
+Jeremy Irvine","/name/nm0000147/,/name/nm0000173/,/name/nm0001745/,/name/nm3528539/",41094.0,4438438.0,0
+tt4758646,War Machine,2017,TV-MA,122 min,"Comedy, Drama, War",6.0,"An idiosyncratic general confronts opposition from enemies, allies, and bureaucrats while leading a massive rebuilding operation in Afghanistan.",David Michôd,/name/nm2391575/,"Brad Pitt, 
+Daniel Betts, 
+John Magaro, 
+Emory Cohen","/name/nm0000093/,/name/nm0079418/,/name/nm1910274/,/name/nm1710309/",47785.0,,0
+tt3296908,The Man with the Iron Heart,2017,R,120 min,"Action, Biography, Thriller",6.4,"As the German Fascists expand their borders, scorching Europe from end to end, two brave Czechs of the Resistance prepare for a suicide mission to assassinate Reinhard Heydrich, the hideous mastermind behind the ""Final Solution"".",Cédric Jimenez,/name/nm1473428/,"Jason Clarke, 
+Rosamund Pike, 
+Jack O'Connell, 
+Jack Reynor","/name/nm0164809/,/name/nm0683253/,/name/nm1925239/,/name/nm2930503/",17397.0,,1
+tt2013293,The Wind Rises,2013,PG-13,126 min,"Animation, Biography, Drama",7.7,"A look at the life of Jiro Horikoshi, the man who designed Japanese fighter planes during World War II.",Hayao Miyazaki,/name/nm0594503/,"Hideaki Anno, 
+Hidetoshi Nishijima, 
+Miori Takimoto, 
+Masahiko Nishimura","/name/nm0030417/,/name/nm0632689/,/name/nm3768523/,/name/nm0632761/",88332.0,5209580.0,3
+tt2884018,Macbeth,2015,R,113 min,"Drama, History, War",6.6,"Macbeth, the Thane of Glamis, receives a prophecy from a trio of witches that one day he will become King of Scotland. Consumed by ambition and spurred to action by his wife, Macbeth murders his king and takes the throne for himself.",Justin Kurzel,/name/nm0997291/,"Michael Fassbender, 
+Marion Cotillard, 
+Jack Madigan, 
+Frank Madigan","/name/nm1055413/,/name/nm0182839/,/name/nm7752797/,/name/nm7752798/",57702.0,1108247.0,1
+tt1365050,Beasts of No Nation,2015,TV-MA,137 min,"Drama, War",7.7,"A drama based on the experiences of Agu, a child soldier fighting in the civil war of an unnamed African country.",Cary Joji Fukunaga,/name/nm1560977/,"Abraham Attah, 
+Emmanuel Affadzi, 
+Ricky Adelayitor, 
+Andrew Adote","/name/nm6781688/,/name/nm7636995/,/name/nm7636996/,/name/nm7636997/",82987.0,83861.0,0
+tt4218696,The Wall,2017,R,88 min,"Action, Drama, Thriller",6.2,"Two American Soldiers are trapped by a lethal sniper, with only an unsteady wall between them.",Doug Liman,/name/nm0510731/,"Aaron Taylor-Johnson, 
+John Cena, 
+Laith Nakli","/name/nm1093951/,/name/nm1078479/,/name/nm1821298/",28111.0,1803064.0,0
+tt1456941,"Tomorrow, When the War Began",2010,R,104 min,"Action, Adventure, Drama",6.1,"When their country is invaded and their families are taken, eight unlikely teenagers band together to fight.",Stuart Beattie,/name/nm0064181/,"Caitlin Stasey, 
+Rachel Hurd-Wood, 
+Lincoln Lewis, 
+Deniz Akdeniz","/name/nm1466205/,/name/nm1248393/,/name/nm2089884/,/name/nm2727714/",31438.0,,3
+tt1020558,Centurion,2010,R,97 min,"Action, Drama, History",6.3,A splinter group of Roman soldiers fight for their lives behind enemy lines after their legion is devastated in a guerrilla attack.,Neil Marshall,/name/nm0551076/,"Michael Fassbender, 
+Dominic West, 
+Olga Kurylenko, 
+Andreas Wisniewski","/name/nm1055413/,/name/nm0922035/,/name/nm1385871/,/name/nm0936591/",83894.0,122288.0,1
+tt2614684,'71,2014,R,99 min,"Action, Crime, Drama",7.2,"In 1971, a young and disoriented British soldier is accidentally abandoned by his unit following a riot on the deadly streets of Belfast.",Yann Demange,/name/nm1312919/,"Jack O'Connell, 
+Sam Reid, 
+Sean Harris, 
+Paul Popplewell","/name/nm1925239/,/name/nm2730580/,/name/nm0365317/,/name/nm0691586/",57529.0,1268760.0,0
+tt3922798,The Siege of Jadotville,2016,TV-MA,108 min,"Action, Drama, History",7.2,Irish Commandant Pat Quinlan leads a stand off with troops against French and Belgian Mercenaries in the Congo during the early 1960s.,Richie Smyth,/name/nm1100217/,"Richard Lukunku, 
+Danny Sapani, 
+Andrew Stock, 
+Mark Strong","/name/nm3827844/,/name/nm0764527/,/name/nm3003862/,/name/nm0835016/",41082.0,,1
+tt1372686,Coriolanus,2011,R,123 min,"Drama, Thriller, War",6.1,A banished hero of Rome allies with a sworn enemy to take his revenge on the city.,Ralph Fiennes,/name/nm0000146/,"Ralph Fiennes, 
+Gerard Butler, 
+Brian Cox, 
+Lubna Azabal","/name/nm0000146/,/name/nm0124930/,/name/nm0004051/,/name/nm0044073/",32607.0,756452.0,2
+tt1979319,Rurouni Kenshin Part I: Origins,2012,TV-MA,134 min,"Action, Adventure, Drama",7.4,A former assassin who has resolved to never kill again has his vow sorely tested.,Keishi Otomo,/name/nm3311094/,"Takeru Satoh, 
+Emi Takei, 
+Yû Aoi, 
+Munetaka Aoki","/name/nm2615398/,/name/nm3191754/,/name/nm1066974/,/name/nm1328568/",27151.0,,3
+tt1124037,Free State of Jones,2016,R,139 min,"Action, Biography, Drama",6.9,A disillusioned Confederate army deserter returns to Mississippi and leads a militia of fellow deserters and women in an uprising against the corrupt local Confederate government.,Gary Ross,/name/nm0002657/,"Matthew McConaughey, 
+Gugu Mbatha-Raw, 
+Mahershala Ali, 
+Keri Russell","/name/nm0000190/,/name/nm1813221/,/name/nm0991810/,/name/nm0005392/",59094.0,20758378.0,2
+tt1591479,Act of Valor,2012,R,110 min,"Action, Adventure, Thriller",6.4,An elite team of Navy SEALs embark on a covert mission to recover a kidnapped CIA agent.,"Mike McCoy, 
+Scott Waugh",/name/nm0566788/,"Alex Veadov, 
+Roselyn Sanchez, 
+Nestor Serrano, 
+Rorke Denver","/name/nm0915304/,/name/nm0891514/,/name/nm0761052/,/name/nm0785594/,/name/nm4918786/",69975.0,70012847.0,0
+tt1415283,Nanny McPhee Returns,2010,PG,109 min,"Comedy, Family, Fantasy",6.1,"Nanny McPhee arrives to help a harried young mother who is trying to run the family farm while her husband is away at war, though she uses her magic to teach the woman's children and their two spoiled cousins five new lessons.",Susanna White,/name/nm1264352/,"Emma Thompson, 
+Maggie Gyllenhaal, 
+Ralph Fiennes, 
+Oscar Steer","/name/nm0000668/,/name/nm0350454/,/name/nm0000146/,/name/nm3489031/",34073.0,29197642.0,3
+tt1410063,The Flowers of War,2011,R,146 min,"Drama, History, Romance",7.5,"An American finds refuge during the 1937 Japanese invasion of Nanking in a church with a group of women. Posing as a priest, he attempts to lead the women to safety.",Yimou Zhang,/name/nm0955443/,"Christian Bale, 
+Ni Ni, 
+Xinyi Zhang, 
+Tianyuan Huang","/name/nm0000288/,/name/nm4809043/,/name/nm5149048/,/name/nm4823002/",53727.0,9213.0,3
+tt6841122,Summerland,2020,PG,99 min,"Drama, Romance, War",7.0,"During World War II, an Englishwoman opens her heart to an evacuee after initially resolving to be rid of him in this moving journey of womanhood, love and friendship.",Jessica Swale,/name/nm7328140/,"Gemma Arterton, 
+Gugu Mbatha-Raw, 
+Penelope Wilton, 
+Tom Courtenay","/name/nm2605345/,/name/nm1813221/,/name/nm0934362/,/name/nm0183822/",7794.0,,1
+tt1034389,The Eagle,2011,PG-13,114 min,"Action, Adventure, Drama",6.2,"In Roman-ruled Britain, a young Roman soldier endeavors to honor his father's memory by finding his lost legion's golden emblem.",Kevin Macdonald,/name/nm0531817/,"Channing Tatum, 
+Jamie Bell, 
+Donald Sutherland, 
+István Göz","/name/nm1475594/,/name/nm0068260/,/name/nm0000661/,/name/nm0351495/",71457.0,19490041.0,0
+tt1233301,Ironclad,2011,R,121 min,"Action, Drama, History",6.1,"In thirteenth-century England, a Knights Templar and a few of the Barons men fight to defend Rochester Castle against the tyrannical King John.",Jonathan English,/name/nm0257646/,"Paul Giamatti, 
+Jason Flemyng, 
+Brian Cox, 
+James Purefoy","/name/nm0316079/,/name/nm0002076/,/name/nm0004051/,/name/nm0700856/",42622.0,,1
+tt1966566,Stalingrad,2013,R,131 min,"Action, Drama, War",5.6,"A group of Russian soldiers fight to hold a strategic building in their devastated city against a ruthless German army, and in the process become deeply connected to two Russian women who have been living there.",Fedor Bondarchuk,/name/nm0094080/,"Mariya Smolnikova, 
+Yanina Studilina, 
+Pyotr Fyodorov, 
+Thomas Kretschmann","/name/nm5176076/,/name/nm3331125/,/name/nm1215228/,/name/nm0470981/",17162.0,1013945.0,1
+tt4899370,Megan Leavey,2017,PG-13,116 min,"Action, Biography, Drama",7.1,Based on the true life story of a young Marine corporal whose unique discipline and bond with her military combat dog saved many lives during their deployment in Iraq.,Gabriela Cowperthwaite,/name/nm1363250/,"Kate Mara, 
+Ramón Rodríguez, 
+Tom Felton, 
+Bradley Whitford","/name/nm0544718/,/name/nm1913125/,/name/nm0271657/,/name/nm0925966/",24659.0,13406304.0,3
+tt3735246,Bajirao Mastani,2015,Not Rated,158 min,"Action, Drama, History",7.2,"An account of the romance between the Maratha general, Baji Rao I and Mastani, princess of Bundelkhand.",Sanjay Leela Bhansali,/name/nm0080220/,"Ranveer Singh, 
+Deepika Padukone, 
+Priyanka Chopra Jonas, 
+Tanvi Azmi","/name/nm3828984/,/name/nm2138653/,/name/nm1231899/,/name/nm0044343/",36315.0,6557047.0,2
+tt1462900,The Grandmaster,2013,PG-13,130 min,"Action, Biography, Drama",6.5,"The story of martial-arts master Ip Man, the man who trained Bruce Lee.",Kar-Wai Wong,/name/nm0939182/,"Tony Chiu-Wai Leung, 
+Ziyi Zhang, 
+Jin Zhang, 
+Chang Chen","/name/nm0504897/,/name/nm0955471/,/name/nm1018221/,/name/nm0151654/",35134.0,6594959.0,1
+tt2368254,A Private War,2018,R,110 min,"Biography, Drama, War",6.7,"One of the most celebrated war correspondents of our time, Marie Colvin is an utterly fearless and rebellious spirit, driven to the frontline of conflicts across the globe to give voice to the voiceless.",Matthew Heineman,/name/nm1292648/,"Rosamund Pike, 
+Alexandra Moen, 
+Tom Hollander, 
+Faye Marsay","/name/nm0683253/,/name/nm1752186/,/name/nm0390903/,/name/nm3849670/",19908.0,1633208.0,1
+tt3901826,The Breadwinner,2017,PG-13,94 min,"Animation, Drama, Family",7.7,"In 2001, Afghanistan is under the control of the Taliban. When her father is captured, a determined young girl disguises herself as a boy in order to provide for her family.",Nora Twomey,/name/nm1316072/,"Saara Chaudry, 
+Soma Chhaya, 
+Noorin Gulamgaus, 
+Laara Sadiq","/name/nm4740113/,/name/nm6154971/,/name/nm6225541/,/name/nm0755499/",26375.0,312381.0,3
+tt4084744,Battle for Sevastopol,2015,,110 min,"Action, Biography, Drama",7.0,"A story of Lyudmila Pavlichenko, the most successful female sniper in history.",Sergey Mokritskiy,/name/nm0596364/,"Yuliya Peresild, 
+Evgeniy Tsyganov, 
+Oleg Vasilkov, 
+Nikita Tarasov","/name/nm2099738/,/name/nm1142921/,/name/nm0890548/,/name/nm1649967/",12914.0,,3
+tt2493486,Last Knights,2015,R,115 min,"Action, Drama, History",6.1,A fallen warrior rises against a corrupt and sadistic ruler to avenge his dishonored master.,Kazuaki Kiriya,/name/nm1589546/,"Clive Owen, 
+Morgan Freeman, 
+Aksel Hennie, 
+Payman Maadi","/name/nm0654110/,/name/nm0000151/,/name/nm0377336/,/name/nm1818216/",43985.0,,1
+tt6733874,America: The Motion Picture,2021,TV-MA,98 min,"Animation, Action, Adventure",5.6,A chainsaw-wielding George Washington teams with beer-loving bro Sam Adams to take down the Brits in a tongue-in-cheek riff on the American Revolution.,Matt Thompson,/name/nm0860483/,"Channing Tatum, 
+Jason Mantzoukas, 
+Olivia Munn, 
+Bobby Moynihan","/name/nm1475594/,/name/nm1727621/,/name/nm1601397/,/name/nm1293885/",6768.0,,3
+tt1441953,Testament of Youth,2014,PG-13,129 min,"Biography, Drama, History",7.2,"A British woman recalls coming of age during World War I - a story of young love, the futility of war, and how to make sense of the darkest times.",James Kent,/name/nm0448757/,"Alicia Vikander, 
+Kit Harington, 
+Taron Egerton, 
+Dominic West","/name/nm2539953/,/name/nm3229685/,/name/nm5473782/,/name/nm0922035/",29394.0,1822030.0,3
+tt3577624,A Perfect Day,2015,R,106 min,"Comedy, Drama, War",6.8,A group of aid workers work to resolve a crisis in an armed conflict zone.,Fernando León de Aranoa,/name/nm0508208/,"Benicio Del Toro, 
+Tim Robbins, 
+Olga Kurylenko, 
+Mélanie Thierry","/name/nm0001125/,/name/nm0000209/,/name/nm1385871/,/name/nm0858048/",22690.0,,2
+tt1661275,Their Finest,2016,R,117 min,"Comedy, Drama, Romance",6.7,"A former secretary, newly appointed as a scriptwriter for propaganda films, joins the cast and crew of a major production while the Blitz rages around them.",Lone Scherfig,/name/nm0771054/,"Gemma Arterton, 
+Sam Claflin, 
+Bill Nighy, 
+Richard E. Grant","/name/nm2605345/,/name/nm3510471/,/name/nm0631490/,/name/nm0001290/",20517.0,3595841.0,3
+tt4273292,Under the Shadow,2016,PG-13,84 min,"Drama, Fantasy, Horror",6.8,"As a mother and daughter struggle to cope with the terrors of the post-revolution, war-torn Tehran of the 1980s, a mysterious evil begins to haunt their home.",Babak Anvari,/name/nm2035118/,"Narges Rashidi, 
+Avin Manshadi, 
+Bobby Naderi, 
+Arash Marandi","/name/nm1735235/,/name/nm7321254/,/name/nm2373989/,/name/nm4256281/",28427.0,30999.0,3
+tt1813757,Who Killed Captain Alex?,2010,Not Rated,64 min,"Action, Crime, Mystery",7.9,"Uganda's president gives Captain Alex the mission to defeat the Tiger Maffia, but Alex gets killed in the process. Upon hearing the tragic news, his brother investigates to avenge Alex.",Nabwana I.G.G.,/name/nm4254419/,"Kakule William, 
+Sserunya Ernest, 
+G. Puffs, 
+Kavubu Muhammed","/name/nm4257098/,/name/nm4256868/,/name/nm4256326/,/name/nm4255719/",9725.0,,3
+tt3369806,Max,2015,PG,111 min,"Adventure, Drama, Family",6.6,A military dog that helped American Marines in Afghanistan returns to the United States and is adopted by his handler's family after suffering a traumatic experience.,Boaz Yakin,/name/nm0945026/,"Thomas Haden Church, 
+Josh Wiggins, 
+Luke Kleintank, 
+Lauren Graham","/name/nm0002006/,/name/nm5946818/,/name/nm3312554/,/name/nm0334179/",27307.0,42652003.0,3
+tt1046997,Miracle at St. Anna,2008,R,160 min,"Action, Drama, War",6.1,"Set in 1944 Italy, the story of four black American soldiers who get trapped in a Tuscan village during WWII.",Spike Lee,/name/nm0000490/,"Derek Luke, 
+Michael Ealy, 
+Laz Alonso, 
+Omar Benson Miller","/name/nm1035682/,/name/nm1013003/,/name/nm0022306/,/name/nm0589077/",18795.0,7916887.0,2
+tt4065552,The Unknown Soldier,2017,,132 min,"Drama, War",7.7,"A film adaptation of Väinö Linna's best selling novel The Unknown Soldier (1954) and the novel's unedited manuscript version, Sotaromaani.",Aku Louhimies,/name/nm0521803/,"Eero Aho, 
+Johannes Holopainen, 
+Jussi Vatanen, 
+Aku Hirviniemi","/name/nm0014247/,/name/nm2921197/,/name/nm1948103/,/name/nm1715025/",11777.0,,3
+tt2991224,Tangerines,2013,Not Rated,87 min,"Drama, War",8.1,"In 1992, war rages in Abkhazia, a breakaway region of Georgia. An Estonian man Ivo has decided to stay behind and harvest his crops of tangerines. In a bloody conflict at his door, a wounded man is left behind, and Ivo takes him in.",Zaza Urushadze,/name/nm0882203/,"Lembit Ulfsak, 
+Elmo Nüganen, 
+Giorgi Nakashidze, 
+Misha Meskhi","/name/nm0880407/,/name/nm0639297/,/name/nm0620351/,/name/nm2067091/",47045.0,144501.0,0
+tt4104054,Dad's Army,2016,Not Rated,100 min,"Comedy, War",5.2,The Walmington-on-Sea Home Guard platoon deal with a visiting female journalist and a German spy as World War II draws to its conclusion.,Oliver Parker,/name/nm0662529/,"Mark Tandy, 
+Russell Balogh, 
+Andrew Havill, 
+Heinz","/name/nm0849214/,/name/nm4095121/,/name/nm0369854/,/name/nm8193990/",8228.0,,3
+tt1235187,Where Hands Touch,2018,PG-13,122 min,"Drama, Romance, War",6.5,A rites of passage story of a bi-racial teen struggling for survival in Nazi Germany.,Amma Asante,/name/nm1392994/,"Abbie Cornish, 
+Amandla Stenberg, 
+George MacKay, 
+Christopher Eccleston","/name/nm0180411/,/name/nm3964350/,/name/nm1126657/,/name/nm0001172/",4816.0,67743.0,3
+tt1996310,Lore,2012,Not Rated,109 min,"Drama, Romance, War",7.1,"As the Allies sweep across Germany, Lore leads her siblings on a journey that exposes them to the truth of their parents' beliefs. An encounter with a mysterious refugee forces Lore to rely on a person she has always been taught to hate.",Cate Shortland,/name/nm0795153/,"Saskia Rosendahl, 
+Kai-Peter Malina, 
+Nele Trebs, 
+Ursina Lardi","/name/nm4551978/,/name/nm2837587/,/name/nm3047077/,/name/nm0488053/",15483.0,968879.0,3
+tt4738360,The Last King,2016,R,99 min,"Action, Drama, History",6.1,"In the year 1206 Norway is raged by civil war. The King's illegitimate infant son, Håkon Håkonsson, which half the kingdom wants killed off, is guarded in secrecy by two men. A story which changed the course of the country's history.",Nils Gaup,/name/nm0310168/,"Jakob Oftebro, 
+Kristofer Hivju, 
+Torkel Dommersnes Soldal, 
+Ane Ulimoen Øverli","/name/nm1939580/,/name/nm1970465/,/name/nm6406428/,/name/nm7364828/",7401.0,8550.0,1
+tt1701210,Day of the Falcon,2011,R,130 min,"Action, Drama, History",6.6,"Set in the 1930s Arab states at the dawn of the oil boom, the story centers on a young Arab prince torn between allegiance to his conservative father and his modern, liberal father-in-law.",Jean-Jacques Annaud,/name/nm0000269/,"Tahar Rahim, 
+Antonio Banderas, 
+Mark Strong, 
+Freida Pinto","/name/nm2588665/,/name/nm0000104/,/name/nm0835016/,/name/nm2951768/",12226.0,,0
+tt1135952,White Material,2009,Not Rated,106 min,"Drama, War",6.9,"Amidst turmoil and racial conflict in a Francophone African state, a white French woman fights for her coffee crop, her family and ultimately for her life.",Claire Denis,/name/nm0219136/,"Isabelle Huppert, 
+Christopher Lambert, 
+Isaach De Bankolé, 
+Nicolas Duvauchelle","/name/nm0001376/,/name/nm0000483/,/name/nm0207218/,/name/nm0245164/",7993.0,302819.0,3
+tt1668200,Elle s'appelait Sarah,2010,PG-13,111 min,"Drama, War",7.5,"In modern-day Paris, a journalist finds her life becoming entwined with a young girl whose family was torn apart during the notorious Vel' d'Hiv Roundup in 1942.",Gilles Paquet-Brenner,/name/nm0660707/,"Kristin Scott Thomas, 
+Mélusine Mayance, 
+Niels Arestrup, 
+Frédéric Pierrot","/name/nm0000218/,/name/nm3274621/,/name/nm0034390/,/name/nm0682692/",17451.0,7691700.0,3
+tt7131870,Wolf Warrior 2,2017,Not Rated,123 min,"Action, Adventure, Drama",5.9,"China's deadliest special forces operative settles into a quiet life on the sea. When sadistic mercenaries begin targeting nearby civilians, he must leave his newfound peace behind and return to his duties as a soldier and protector.",Jing Wu,/name/nm0943104/,"Jing Wu, 
+Frank Grillo, 
+Celina Jade, 
+Gang Wu","/name/nm0943104/,/name/nm0342029/,/name/nm3018796/,/name/nm2518711/",8352.0,2721100.0,1
+tt5314190,Sgt. Stubby: An American Hero,2018,PG,84 min,"Animation, Adventure, Family",6.9,"The true story of a stray dog who joins his new master on the battlefields of the First World War. For his valorous actions, Sgt. Stubby is still recognized as the most decorated dog in American history.",Richard Lanni,/name/nm4175844/,"Logan Lerman, 
+Helena Bonham Carter, 
+Gérard Depardieu, 
+Jordan Beck","/name/nm0503567/,/name/nm0000307/,/name/nm0000367/,/name/nm7793337/",2357.0,3140677.0,0
+tt6162808,Miss Saigon: 25th Anniversary,2016,R,141 min,"Drama, Musical, Romance",8.1,"A filmed production of the musical 'Miss Saigon' for its 25th anniversary, performed live at London's Prince Edward Theatre, in London's West End. Including the 2hr 20minute production and a bonus 35-minute ""25th Anniversary Gala"" which included stars of the original cast, Jonathan Pryce, Lea Salonga and Simon Bowman.",Brett Sullivan,/name/nm3614151/,"Jon Jon Briones, 
+Eva Noblezada, 
+Alistair Brammer, 
+Kwang-Ho Hong","/name/nm1490183/,/name/nm8405300/,/name/nm4337810/,/name/nm3225014/",1799.0,,2
+tt1308138,Mulan: Rise of a Warrior,2009,Not Rated,114 min,"Adventure, Drama, Romance",6.6,"The epic story of the Chinese girl-warrior, Mulan, who fights to defend her father.","Jingle Ma, 
+Wei Dong",/name/nm0155598/,"Wei Zhao, 
+Jaycee Chan, 
+Kun Chen, 
+Rongguang Yu","/name/nm3461127/,/name/nm0955505/,/name/nm1548493/,/name/nm1179512/,/name/nm0950552/",6642.0,,3
+tt1561768,Essential Killing,2010,R,83 min,"Action, Thriller, War",6.1,An Afghan POW attempts his escape.,Jerzy Skolimowski,/name/nm0804592/,"Vincent Gallo, 
+Emmanuelle Seigner, 
+Zach Cohen, 
+Iftach Ophir","/name/nm0001252/,/name/nm0782561/,/name/nm1686684/,/name/nm3144567/",7926.0,,0
+tt1486193,5 Days of War,2011,R,113 min,"Action, Drama, War",5.5,"A drama set centered around the war between Russia and Georgia, and focused on an American journalist, his cameraman, and a Georgian native who become caught in the crossfire.",Renny Harlin,/name/nm0001317/,"Rupert Friend, 
+Emmanuelle Chriqui, 
+Richard Coyle, 
+Heather Graham","/name/nm1670029/,/name/nm0004825/,/name/nm0185404/,/name/nm0001287/",14050.0,17149.0,1
+tt1043842,Appleseed: Ex Machina,2007,PG-13,105 min,"Animation, Action, Adventure",7.0,"With Brialeos convalescing after a mission, Deunan is assigned a new and remarkably familiar partner as a strange wave of terrorist attacks plague Olympus.",Shinji Aramaki,/name/nm0032925/,"Ai Kobayashi, 
+Kôichi Yamadera, 
+Yûji Kishi, 
+Kong Kuwata","/name/nm0461981/,/name/nm0945290/,/name/nm0457213/,/name/nm0476679/",9702.0,,3
+tt2387413,Captain Battle: Legacy War,2013,,90 min,"Action, Sci-Fi, War",1.2,"SAM BATTLE is injured during his tour of duty in the Gulf War. He loses an eye and is near death. His good friend, BRANDON STORM, who is a scientist, injects him with a secret serum that he...                See full summary »",David Palmieri,/name/nm0658571/,"Cuyle Carvin, 
+Andrew J McGuinness, 
+Marlene Mc'Cohen, 
+Jenny Allford","/name/nm2255441/,/name/nm3917690/,/name/nm2556054/,/name/nm3025407/",544.0,,3
+tt1447479,A Marine Story,2010,Not Rated,98 min,"Crime, Drama, Romance",6.0,"An ex-marine returns to her hometown after Iraq and helps a 20 year old woman, who is otherwise facing prison, prepare for military boot camp.",Ned Farr,/name/nm0268051/,"Dreya Weber, 
+Paris P. Pickard, 
+Anthony Michael Jones, 
+Christine Mourad","/name/nm1170121/,/name/nm3028961/,/name/nm0427503/,/name/nm0609948/",2367.0,,3
+tt3622332,Sword of Vengeance,2015,Not Rated,87 min,"Action, Adventure, Drama",4.4,Vengeance is the driving force behind a shadow walker's return to Norman conquered Saxon lands after the Battle of Hastings and a brutal repression of it's people by a cruel lord.,Jim Weedon,/name/nm6406593/,"Stanley Weber, 
+Annabelle Wallis, 
+Karel Roden, 
+Ed Skrein","/name/nm2720118/,/name/nm1834115/,/name/nm0734558/,/name/nm4534098/",2458.0,,0
+tt1744641,Ramayana: The Epic,2010,,98 min,"Animation, Adventure, Family",5.8,"Lord Rama, son of King Dashrath is sent for exile for 14 years. His wife Sita and brother Laxman accompanies him. But she is deceitfully kidnapped by Ravana, The King of Lanka. Thus a might...                See full summary »",Chetan Desai,/name/nm2709116/,"Manoj Bajpayee, 
+Juhi Chawla, 
+Ashutosh Rana, 
+Mukesh Rishi","/name/nm0048075/,/name/nm0004487/,/name/nm0709359/,/name/nm0728262/",580.0,,2
+tt1172963,Lemon Tree,2008,Not Rated,106 min,"Drama, War",7.3,The story of a Palestinian widow who must defend her lemontree field when a new Israeli Defense Minister moves next to her and threatens to have her lemon grove torn down.,Eran Riklis,/name/nm0726954/,"Hiam Abbass, 
+Rona Lipaz-Michael, 
+Ali Suliman, 
+Doron Tavory","/name/nm0007814/,/name/nm2991024/,/name/nm1846124/,/name/nm0851785/",6672.0,566052.0,3
+tt1229381,Outside the Law,2010,R,138 min,"Crime, Drama, War",6.6,A drama about the Algerian struggle for independence from France after WWII.,Rachid Bouchareb,/name/nm0098953/,"Jamel Debbouze, 
+Roschdy Zem, 
+Sami Bouajila, 
+Chafia Boudraa","/name/nm0213354/,/name/nm0954704/,/name/nm0098793/,/name/nm0099174/",3976.0,,1
+tt1483831,Lebanon,2009,R,93 min,"Drama, War",6.9,"During the First Lebanon War in 1982, a lone tank and a paratroopers platoon are dispatched to search a hostile town.",Samuel Maoz,/name/nm1413443/,"Yoav Donat, 
+Itay Tiran, 
+Oshri Cohen, 
+Michael Moshonov","/name/nm2935952/,/name/nm1553954/,/name/nm1025983/,/name/nm0615688/",11690.0,367798.0,0
+tt8669356,Joan of Arc,2019,Not Rated,137 min,"Drama, History, War",5.9,"In the 15th century, both France and England stake a blood claim for the French throne. Believing that God had chosen her, the young Joan (Lise Leplat Prudhomme) leads the army of the King ...                See full summary »",Bruno Dumont,/name/nm0241622/,"Lise Leplat Prudhomme, 
+Annick Lavieville, 
+Justine Herbez, 
+Benoît Robail","/name/nm9075831/,/name/nm10977117/,/name/nm10977118/,/name/nm10977119/",689.0,,3
+tt1056437,The Sky Crawlers,2008,PG-13,122 min,"Animation, Drama, Sci-Fi",6.7,"The Kildren, a group of eternally young fighter pilots, experience the sudden loss of innocence as they battle the enemy in astonishing dogfights above the clouds.",Mamoru Oshii,/name/nm0651900/,"Rinko Kikuchi, 
+Ryô Kase, 
+Shôsuke Tanihara, 
+Megumi Yamaguchi","/name/nm0452860/,/name/nm1076976/,/name/nm0849477/,/name/nm4212310/",5713.0,,3
+tt9507276,Saga of Tanya the Evil - The Movie,2019,Not Rated,115 min,"Animation, Action, Adventure",7.5,"Tanya Degurechaff continues her misadventures, avoiding death and being sent to hell, while battling the forces of the Republic Army.",Yutaka Uemura,/name/nm4805576/,"Tesshô Genda, 
+Daiki Hamano, 
+Takaya Hashi, 
+Saori Hayami","/name/nm0312656/,/name/nm7124125/,/name/nm0354490/,/name/nm2977461/",1326.0,288460.0,3
+tt1699185,Les hommes libres,2011,Unrated,99 min,"Drama, History, Romance",6.6,"In Paris during WWII, an Algerian immigrant is inspired to join the resistance by his unexpected friendship with a Jewish man.",Ismaël Ferroukhi,/name/nm0275044/,"Tahar Rahim, 
+Michael Lonsdale, 
+Mahmud Shalaby, 
+Lubna Azabal","/name/nm2588665/,/name/nm0003909/,/name/nm3218796/,/name/nm0044073/",1390.0,53810.0,1
+tt2401711,Time and the Wind,2013,,115 min,"Drama, Romance, War",6.7,The history of Brazil's southern occupation and the Anna Terra descendants.,Jayme Monjardim,/name/nm0598173/,"Fernanda Montenegro, 
+Thiago Lacerda, 
+Marjorie Estiano, 
+Janaína Kremer Motta","/name/nm0005244/,/name/nm0479895/,/name/nm1597010/,/name/nm1132887/",864.0,,3
+tt3838802,Blood Stripe,2016,TV-MA,92 min,"Drama, Thriller, War",6.2,The trials and tribulations of a female combat veteran and her battle with vigorous PTSD.,Remy Auberjonois,/name/nm0041280/,"Rene Auberjonois, 
+Chris Sullivan, 
+Rusty Schwimmer, 
+Tom Lipinski","/name/nm0041281/,/name/nm2884388/,/name/nm0005404/,/name/nm2906174/",210.0,,1
+tt3817188,My Good Hans,2015,,110 min,"Drama, War",6.0,"It is a story of love and friendship, proclaiming the triumph of the universal human values. Unaware of the approaching war, Russian and German engineers find themselves united by one common goal at the glass manufacturing plant in USSR.",Aleksandr Mindadze,/name/nm0591046/,"Sebastyan Anton, 
+Andryus Daryala, 
+Jakob Diehl, 
+Marc Hosemann","/name/nm5534861/,/name/nm7099587/,/name/nm2428413/,/name/nm0395926/",199.0,,1
+tt2142955,Stars Above,2012,,101 min,"Drama, History, Romance",6.5,A story of a house and three women of different generations who inhabit it through the years.,Saara Cantell,/name/nm0134503/,"Elin Petersdottir, 
+Meri Nenonen, 
+Irina Björklund, 
+Senja Mäkiaho","/name/nm2890502/,/name/nm0626076/,/name/nm0084950/,/name/nm4846905/",258.0,,3

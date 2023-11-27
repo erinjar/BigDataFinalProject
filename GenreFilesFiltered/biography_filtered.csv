@@ -1,0 +1,1066 @@
+imdbid,movie_name,year,certificate,runtime,genre,rating,description,director,director_id,star,star_id,votes,gross(in $),bechdel
+tt3704428,Elvis,2022,PG-13,159 min,"Biography, Drama, Music",7.3,"The life of American music icon Elvis Presley, from his childhood to becoming a rock and movie star in the 1950s while maintaining a complex relationship with his manager, Colonel Tom Parker.",Baz Luhrmann,/name/nm0525303/,"Tom Hanks, 
+Austin Butler, 
+Olivia DeJonge, 
+Helen Thomson","/name/nm0000158/,/name/nm2581521/,/name/nm4609822/,/name/nm0861013/",189732.0,151040048.0,1
+tt15398776,Oppenheimer,2023,,,"Biography, Drama, History",,The story of American scientist J. Robert Oppenheimer and his role in the development of the atomic bomb.,Christopher Nolan,/name/nm0634240/,"Cillian Murphy, 
+Emily Blunt, 
+Matt Damon, 
+Robert Downey Jr.","/name/nm0614165/,/name/nm1289434/,/name/nm0000354/,/name/nm0000375/",,,2
+tt1655389,Blonde,2022,NC-17,167 min,"Biography, Drama, Romance",5.5,"The story of American actress Marilyn Monroe, covering her love and professional lives.",Andrew Dominik,/name/nm0231596/,"Ana de Armas, 
+Lily Fisher, 
+Julianne Nicholson, 
+Tygh Runyan","/name/nm1869101/,/name/nm8720624/,/name/nm0629855/,/name/nm0750353/",62265.0,,2
+tt2119532,Hacksaw Ridge,2016,R,139 min,"Biography, Drama, History",8.1,"World War II American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes the first man in American history to receive the Medal of Honor without firing a shot.",Mel Gibson,/name/nm0000154/,"Andrew Garfield, 
+Sam Worthington, 
+Luke Bracey, 
+Teresa Palmer","/name/nm1940449/,/name/nm0941777/,/name/nm3478396/,/name/nm1954240/",538844.0,67209615.0,1
+tt6966692,Green Book,2018,PG-13,130 min,"Biography, Comedy, Drama",8.2,A working-class Italian-American bouncer becomes the driver for an African-American classical pianist on a tour of venues through the 1960s American South.,Peter Farrelly,/name/nm0268380/,"Viggo Mortensen, 
+Mahershala Ali, 
+Linda Cardellini, 
+Sebastian Maniscalco","/name/nm0001557/,/name/nm0991810/,/name/nm0004802/,/name/nm1724319/",506000.0,85080171.0,1
+tt4846340,Hidden Figures,2016,PG,127 min,"Biography, Drama, History",7.8,The story of a team of female African-American mathematicians who served a vital role in NASA during the early years of the U.S. space program.,Theodore Melfi,/name/nm0577647/,"Taraji P. Henson, 
+Octavia Spencer, 
+Janelle Monáe, 
+Kevin Costner","/name/nm0378245/,/name/nm0818055/,/name/nm1847117/,/name/nm0000126/",236635.0,169607287.0,3
+tt17076046,Weird: The Al Yankovic Story,2022,TV-14,108 min,"Biography, Comedy, Music",7.0,"Explores every facet of Yankovic's life, from his meteoric rise to fame with early hits like 'Eat It' and 'Like a Surgeon' to his torrid celebrity love affairs and famously depraved lifestyle.",Eric Appel,/name/nm1926903/,"Diedrich Bader, 
+Daniel Radcliffe, 
+Lin-Manuel Miranda, 
+Richard Aaron Anderson","/name/nm0046033/,/name/nm0705356/,/name/nm0592135/,/name/nm10735537/",26532.0,,1
+tt4273800,The Good Nurse,2022,R,121 min,"Biography, Crime, Drama",6.8,An infamous caregiver is implicated in the deaths of hundreds of hospital patients.,Tobias Lindholm,/name/nm2105585/,"Eddie Redmayne, 
+Jessica Chastain, 
+Denise Pillott, 
+Dartel McRae","/name/nm1519666/,/name/nm1567113/,/name/nm3236205/,/name/nm2869419/",63755.0,,3
+tt1485796,The Greatest Showman,2017,PG,105 min,"Biography, Drama, Musical",7.5,Celebrates the birth of show business and tells of a visionary who rose from nothing to create a spectacle that became a worldwide sensation.,Michael Gracey,/name/nm1243905/,"Hugh Jackman, 
+Michelle Williams, 
+Zac Efron, 
+Zendaya","/name/nm0413168/,/name/nm0931329/,/name/nm1374980/,/name/nm3918035/",288430.0,174340174.0,3
+tt3263904,Sully,2016,PG-13,96 min,"Biography, Drama",7.4,"When pilot Chesley ""Sully"" Sullenberger lands his damaged plane on the Hudson River in order to save the flight's passengers and crew, some consider him a hero while others think he was reckless.",Clint Eastwood,/name/nm0000142/,"Tom Hanks, 
+Aaron Eckhart, 
+Laura Linney, 
+Valerie Mahaffey","/name/nm0000158/,/name/nm0001173/,/name/nm0001473/,/name/nm0536723/",278841.0,125070033.0,1
+tt1950186,Ford v Ferrari,2019,PG-13,152 min,"Action, Biography, Drama",8.1,American car designer Carroll Shelby and driver Ken Miles battle corporate interference and the laws of physics to build a revolutionary race car for Ford in order to defeat Ferrari at the 24 Hours of Le Mans in 1966.,James Mangold,/name/nm0003506/,"Matt Damon, 
+Christian Bale, 
+Jon Bernthal, 
+Caitríona Balfe","/name/nm0000354/,/name/nm0000288/,/name/nm1256532/,/name/nm1495520/",406637.0,117624028.0,0
+tt1302006,The Irishman,2019,R,209 min,"Biography, Crime, Drama",7.8,"An illustration of Frank Sheeran's life, from WWII veteran, to hitman for the Bufalino crime family and his alleged assassination of close friend, Jimmy Hoffa.",Martin Scorsese,/name/nm0000217/,"Robert De Niro, 
+Al Pacino, 
+Joe Pesci, 
+Harvey Keitel","/name/nm0000134/,/name/nm0000199/,/name/nm0000582/,/name/nm0000172/",397173.0,7000000.0,1
+tt1285016,The Social Network,2010,PG-13,120 min,"Biography, Drama",7.8,"As Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, he is sued by the twins who claimed he stole their idea and by the co-founder who was later squeezed out of the business.",David Fincher,/name/nm0000399/,"Jesse Eisenberg, 
+Andrew Garfield, 
+Justin Timberlake, 
+Rooney Mara","/name/nm0251986/,/name/nm1940449/,/name/nm0005493/,/name/nm1913734/",714684.0,96962694.0,1
+tt1596363,The Big Short,2015,R,130 min,"Biography, Comedy, Drama",7.8,"In 2006-2007 a group of investors bet against the United States mortgage market. In their research, they discover how flawed and corrupt the market is.",Adam McKay,/name/nm0570912/,"Christian Bale, 
+Steve Carell, 
+Ryan Gosling, 
+Brad Pitt","/name/nm0000288/,/name/nm0136797/,/name/nm0331516/,/name/nm0000093/",440449.0,70259870.0,1
+tt5208252,Operation Finale,2018,PG-13,122 min,"Biography, Drama, History",6.6,A team of secret agents set out to track down the Nazi officer who masterminded the Holocaust.,Chris Weitz,/name/nm0919363/,"Oscar Isaac, 
+Ben Kingsley, 
+Mélanie Laurent, 
+Lior Raz","/name/nm1209966/,/name/nm0001426/,/name/nm0491259/,/name/nm2443797/",44314.0,17612099.0,1
+tt8503618,Hamilton,2020,PG-13,160 min,"Biography, Drama, History",8.4,"The real life of one of America's foremost founding fathers and first Secretary of the Treasury, Alexander Hamilton. Captured live on Broadway from the Richard Rodgers Theater with the original Broadway cast.",Thomas Kail,/name/nm2371802/,"Lin-Manuel Miranda, 
+Phillipa Soo, 
+Leslie Odom Jr., 
+Renée Elise Goldsberry","/name/nm0592135/,/name/nm5623883/,/name/nm1502434/,/name/nm0325989/",98525.0,,3
+tt7984766,The King,2019,R,140 min,"Biography, Drama, History",7.3,"Hal, wayward prince and heir to the English throne, is crowned King Henry V after his tyrannical father dies. Now the young king must navigate palace politics, the war his father left behind, and the emotional strings of his past life.",David Michôd,/name/nm2391575/,"Tom Glynn-Carney, 
+Gábor Czap, 
+Tom Fisher, 
+Edward Ashley","/name/nm6077951/,/name/nm5994557/,/name/nm1433660/,/name/nm5361352/",135321.0,,1
+tt1675434,The Intouchables,2011,R,112 min,"Biography, Comedy, Drama",8.5,"After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caregiver.","Olivier Nakache, 
+Éric Toledano",/name/nm0619923/,"François Cluzet, 
+Omar Sy, 
+Anne Le Ny, 
+Audrey Fleurot","/name/nm0865918/,/name/nm0167388/,/name/nm1082477/,/name/nm0494504/,/name/nm1109153/",870382.0,13182281.0,1
+tt12758060,Tetris,2023,R,120 min,"Biography, Drama, History",,"The story of how one of the world's most popular video games found its way to players around the globe. Businessman Henk Rogers and Tetris inventor Alexey Pajitnov join forces in the USSR, risking it all to bring Tetris to the masses.",Jon S. Baird,/name/nm1580671/,"Taron Egerton, 
+Toby Jones, 
+Roger Allam, 
+Mezi Atwood","/name/nm5473782/,/name/nm0429363/,/name/nm0019885/,/name/nm12564036/",,,3
+tt11214590,House of Gucci,2021,R,158 min,"Biography, Crime, Drama",6.6,"When Patrizia Reggiani, an outsider from humble beginnings, marries into the Gucci family, her unbridled ambition begins to unravel their legacy and triggers a reckless spiral of betrayal, decadence, revenge, and ultimately...murder.",Ridley Scott,/name/nm0000631/,"Lady Gaga, 
+Adam Driver, 
+Al Pacino, 
+Jeremy Irons","/name/nm3078932/,/name/nm3485845/,/name/nm0000199/,/name/nm0000460/",141932.0,53809574.0,2
+tt2084970,The Imitation Game,2014,PG-13,114 min,"Biography, Drama, Thriller",8.0,"During World War II, the English mathematical genius Alan Turing tries to crack the German Enigma code with help from fellow mathematicians while attempting to come to terms with his troubled private life.",Morten Tyldum,/name/nm0878763/,"Benedict Cumberbatch, 
+Keira Knightley, 
+Matthew Goode, 
+Allen Leech","/name/nm1212722/,/name/nm0461136/,/name/nm0328828/,/name/nm1395602/",781046.0,91125683.0,2
+tt1210166,Moneyball,2011,PG-13,133 min,"Biography, Drama, Sport",7.6,Oakland A's general manager Billy Beane's successful attempt to assemble a baseball team on a lean budget by employing computer-generated analysis to acquire new players.,Bennett Miller,/name/nm0587955/,"Brad Pitt, 
+Robin Wright, 
+Jonah Hill, 
+Philip Seymour Hoffman","/name/nm0000093/,/name/nm0000705/,/name/nm1706767/,/name/nm0000450/",432326.0,75605492.0,1
+tt2024544,12 Years a Slave,2013,R,134 min,"Biography, Drama, History",8.1,"In the antebellum United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery.",Steve McQueen,/name/nm2588606/,"Chiwetel Ejiofor, 
+Michael Kenneth Williams, 
+Michael Fassbender, 
+Brad Pitt","/name/nm0252230/,/name/nm0931324/,/name/nm1055413/,/name/nm0000093/",709153.0,56671993.0,3
+tt1727824,Bohemian Rhapsody,2018,PG-13,134 min,"Biography, Drama, Music",7.9,"The story of the legendary British rock band Queen and lead singer Freddie Mercury, leading up to their famous performance at Live Aid (1985).",Bryan Singer,/name/nm0001741/,"Rami Malek, 
+Lucy Boynton, 
+Gwilym Lee, 
+Ben Hardy","/name/nm1785339/,/name/nm2377903/,/name/nm3152605/,/name/nm5228887/",548244.0,216428042.0,2
+tt3224458,A Beautiful Day in the Neighborhood,2019,PG,109 min,"Biography, Drama",7.2,Based on the true story of a real-life friendship between Fred Rogers and journalist Lloyd Vogel.,Marielle Heller,/name/nm1716636/,"Matthew Rhys, 
+Tom Hanks, 
+Chris Cooper, 
+Susan Kelechi Watson","/name/nm0722629/,/name/nm0000158/,/name/nm0177933/,/name/nm1635244/",82908.0,61704055.0,2
+tt8745676,The Swimmers,2022,PG-13,134 min,"Biography, Drama, Sport",7.4,"From war-torn Syria to the 2016 Rio Olympics, two young sisters embark on a harrowing journey as refugees, putting both their hearts and champion swimming skills to heroic use.",Sally El Hosaini,/name/nm2260751/,"Matthias Schweighöfer, 
+Manal Issa, 
+Ali Suliman, 
+Nathalie Issa","/name/nm0777788/,/name/nm6997839/,/name/nm1846124/,/name/nm9060226/",26744.0,,3
+tt1895587,Spotlight,2015,R,129 min,"Biography, Crime, Drama",8.1,"The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core.",Tom McCarthy,/name/nm0565336/,"Mark Ruffalo, 
+Michael Keaton, 
+Rachel McAdams, 
+Liev Schreiber","/name/nm0749263/,/name/nm0000474/,/name/nm1046097/,/name/nm0000630/",476636.0,45055776.0,1
+tt3569230,Legend,2015,R,132 min,"Biography, Crime, Drama",6.9,Identical twin gangsters Ronald and Reginald Kray terrorize London during the 1960s.,Brian Helgeland,/name/nm0001338/,"Tom Hardy, 
+Emily Browning, 
+Taron Egerton, 
+Paul Anderson","/name/nm0362766/,/name/nm0115161/,/name/nm5473782/,/name/nm2167957/",188077.0,1872994.0,3
+tt5083738,The Favourite,2018,R,119 min,"Biography, Comedy, Drama",7.5,"In early 18th-century England, the status quo at the court is upset when a new servant arrives and endears herself to a frail Queen Anne.",Yorgos Lanthimos,/name/nm0487166/,"Olivia Colman, 
+Emma Stone, 
+Rachel Weisz, 
+Nicholas Hoult","/name/nm1469236/,/name/nm1297015/,/name/nm0001838/,/name/nm0396558/",205297.0,34366783.0,3
+tt1504320,The King's Speech,2010,R,118 min,"Biography, Drama, History",8.0,"The story of King George VI, his impromptu ascension to the throne of the British Empire in 1936, and the speech therapist who helped the unsure monarch overcome his stammer.",Tom Hooper,/name/nm0393799/,"Colin Firth, 
+Geoffrey Rush, 
+Helena Bonham Carter, 
+Derek Jacobi","/name/nm0000147/,/name/nm0001691/,/name/nm0000307/,/name/nm0001394/",687056.0,138797449.0,3
+tt12262116,Thirteen Lives,2022,PG-13,147 min,"Action, Adventure, Biography",7.8,A rescue mission is assembled in Thailand where a group of young boys and their soccer coach are trapped in a system of underground caves that are flooding.,Ron Howard,/name/nm0000165/,"Viggo Mortensen, 
+Colin Farrell, 
+Joel Edgerton, 
+Tom Bateman","/name/nm0001557/,/name/nm0268199/,/name/nm0249291/,/name/nm5290643/",57990.0,,0
+tt2179136,American Sniper,2014,R,133 min,"Action, Biography, Drama",7.3,"Navy S.E.A.L. sniper Chris Kyle's pinpoint accuracy saves countless lives on the battlefield and turns him into a legend. Back home with his family after four tours of duty, however, Chris finds that it is the war he can't leave behind.",Clint Eastwood,/name/nm0000142/,"Bradley Cooper, 
+Sienna Miller, 
+Kyle Gallner, 
+Cole Konis","/name/nm0177896/,/name/nm1092227/,/name/nm0973177/,/name/nm6518675/",496596.0,350126372.0,1
+tt6394270,Bombshell,2019,R,109 min,"Biography, Drama",6.8,A group of women take on Fox News head Roger Ailes and the toxic atmosphere he presided over at the network.,Jay Roach,/name/nm0005366/,"Charlize Theron, 
+Nicole Kidman, 
+Margot Robbie, 
+John Lithgow","/name/nm0000234/,/name/nm0000173/,/name/nm3053338/,/name/nm0001475/",118521.0,,3
+tt12789558,Belfast,2021,PG-13,98 min,"Biography, Drama",7.3,A young boy and his working-class Belfast family experience the tumultuous late 1960s.,Kenneth Branagh,/name/nm0000110/,"Jude Hill, 
+Lewis McAskie, 
+Caitríona Balfe, 
+Jamie Dornan","/name/nm11879379/,/name/nm11888099/,/name/nm1495520/,/name/nm1946193/",78557.0,,1
+tt6294822,The Post,2017,PG-13,116 min,"Biography, Drama, History",7.2,A cover-up spanning four U.S. Presidents pushes the country's first female newspaper publisher and her editor to join an unprecedented battle between press and government.,Steven Spielberg,/name/nm0000229/,"Meryl Streep, 
+Tom Hanks, 
+Sarah Paulson, 
+Bob Odenkirk","/name/nm0000658/,/name/nm0000158/,/name/nm0005299/,/name/nm0644022/",154656.0,81903458.0,3
+tt2066051,Rocketman,2019,R,121 min,"Biography, Drama, Musical",7.3,A musical fantasy about the fantastical human story of Elton John's breakthrough years.,Dexter Fletcher,/name/nm0002077/,"Taron Egerton, 
+Jamie Bell, 
+Richard Madden, 
+Bryce Dallas Howard","/name/nm5473782/,/name/nm0068260/,/name/nm0534635/,/name/nm0397171/",179456.0,96368160.0,3
+tt4916630,Just Mercy,2019,PG-13,137 min,"Biography, Crime, Drama",7.6,World-renowned civil rights defense attorney Bryan Stevenson works to free a wrongly condemned death row prisoner.,Destin Daniel Cretton,/name/nm2308774/,"Michael B. Jordan, 
+Jamie Foxx, 
+Brie Larson, 
+Charlie Pye Jr.","/name/nm0430107/,/name/nm0004937/,/name/nm0488953/,/name/nm11324875/",70214.0,,2
+tt1226837,Beautiful Boy,2018,R,120 min,"Biography, Drama",7.3,"Based on the best-selling pair of memoirs from father and son David and Nic Sheff, Beautiful Boy chronicles the heartbreaking and inspiring experience of survival, relapse and recovery in a family coping with addiction over many years.",Felix van Groeningen,/name/nm0886976/,"Steve Carell, 
+Maura Tierney, 
+Jack Dylan Grazer, 
+Oakley Bull","/name/nm0136797/,/name/nm0005491/,/name/nm6244013/,/name/nm7294937/",83207.0,7649973.0,1
+tt1979320,Rush,2013,R,123 min,"Action, Biography, Drama",8.1,The merciless 1970s rivalry between Formula One rivals James Hunt and Niki Lauda.,Ron Howard,/name/nm0000165/,"Daniel Brühl, 
+Chris Hemsworth, 
+Olivia Wilde, 
+Alexandra Maria Lara","/name/nm0117709/,/name/nm1165110/,/name/nm1312575/,/name/nm0487884/",486224.0,26947624.0,1
+tt1024648,Argo,2012,R,120 min,"Biography, Drama, Thriller",7.7,"Acting under the cover of a Hollywood producer scouting a location for a science fiction film, a CIA agent launches a dangerous operation to rescue six Americans in Tehran during the U.S. hostage crisis in Iran in 1979.",Ben Affleck,/name/nm0000255/,"Ben Affleck, 
+Bryan Cranston, 
+John Goodman, 
+Alan Arkin","/name/nm0000255/,/name/nm0186505/,/name/nm0000422/,/name/nm0000273/",620287.0,136025503.0,3
+tt3741834,Lion,2016,PG-13,118 min,"Biography, Drama",8.0,"A five-year-old Indian boy is adopted by an Australian couple after getting lost hundreds of kilometers from home. 25 years later, he sets out to find his lost family.",Garth Davis,/name/nm0204628/,"Dev Patel, 
+Nicole Kidman, 
+Rooney Mara, 
+Sunny Pawar","/name/nm2353862/,/name/nm0000173/,/name/nm1913734/,/name/nm8061218/",240478.0,51739495.0,2
+tt4209788,Molly's Game,2017,R,140 min,"Biography, Crime, Drama",7.4,"The true story of Molly Bloom, an Olympic-class skier who ran the world's most exclusive high-stakes poker game and became an FBI target.",Aaron Sorkin,/name/nm0815070/,"Jessica Chastain, 
+Idris Elba, 
+Kevin Costner, 
+Michael Cera","/name/nm1567113/,/name/nm0252961/,/name/nm0000126/,/name/nm0148418/",176967.0,28780744.0,3
+tt6266538,Vice,2018,R,132 min,"Biography, Comedy, Drama",7.2,"The story of Dick Cheney, an unassuming bureaucratic Washington insider, who quietly wielded immense power as Vice President to George W. Bush, reshaping the country and the globe in ways that are still felt today.",Adam McKay,/name/nm0570912/,"Christian Bale, 
+Amy Adams, 
+Steve Carell, 
+Sam Rockwell","/name/nm0000288/,/name/nm0010736/,/name/nm0136797/,/name/nm0005377/",151743.0,47836282.0,2
+tt7349662,BlacKkKlansman,2018,R,135 min,"Biography, Comedy, Crime",7.5,"Ron Stallworth, an African American police officer from Colorado Springs, CO, successfully manages to infiltrate the local Ku Klux Klan branch with the help of a Jewish surrogate who eventually becomes its leader. Based on actual events.",Spike Lee,/name/nm0000490/,"John David Washington, 
+Adam Driver, 
+Laura Harrier, 
+Topher Grace","/name/nm0913475/,/name/nm3485845/,/name/nm5637553/,/name/nm0333410/",270346.0,49275340.0,3
+tt1091191,Lone Survivor,2013,R,121 min,"Action, Biography, Drama",7.5,"Marcus Luttrell and his team set out on a mission to capture or kill notorious Taliban leader Ahmad Shah, in late June 2005. Marcus and his team are left to fight for their lives in one of the most valiant efforts of modern warfare.",Peter Berg,/name/nm0000916/,"Mark Wahlberg, 
+Taylor Kitsch, 
+Emile Hirsch, 
+Ben Foster","/name/nm0000242/,/name/nm2018237/,/name/nm0386472/,/name/nm0004936/",292731.0,125095601.0,0
+tt6823148,Benedetta,2021,Unrated,131 min,"Biography, Drama, History",6.7,"A 17th-century nun in Italy suffers from disturbing religious and erotic visions. She is assisted by a companion, and the relationship between the two women develops into a romantic love affair.",Paul Verhoeven,/name/nm0000682/,"Virginie Efira, 
+Charlotte Rampling, 
+Daphne Patakia, 
+Lambert Wilson","/name/nm1812637/,/name/nm0001648/,/name/nm7346682/,/name/nm0933727/",21287.0,,3
+tt2719848,Everest,2015,PG-13,121 min,"Action, Adventure, Biography",7.1,"The story of New Zealand's Robert ""Rob"" Edwin Hall, who on May 10;1996, together with Scott Fischer, teamed up on a joint expedition to ascend Mount Everest.",Baltasar Kormákur,/name/nm0466349/,"Jason Clarke, 
+Ang Phula Sherpa, 
+Thomas M. Wright, 
+Martin Henderson","/name/nm0164809/,/name/nm7583273/,/name/nm0942876/,/name/nm0376540/",221984.0,43482270.0,2
+tt5580036,"I, Tonya",2017,R,119 min,"Biography, Comedy, Drama",7.5,"Competitive ice skater Tonya Harding rises amongst the ranks at the U.S. Figure Skating Championships, but her future in the activity is thrown into doubt when her ex-husband intervenes.",Craig Gillespie,/name/nm0318916/,"Margot Robbie, 
+Sebastian Stan, 
+Allison Janney, 
+Julianne Nicholson","/name/nm3053338/,/name/nm1659221/,/name/nm0005049/,/name/nm0629855/",223605.0,30014539.0,3
+tt1398426,Straight Outta Compton,2015,R,147 min,"Biography, Drama, History",7.8,"The rap group NWA emerges from the mean streets of Compton in Los Angeles, California, in the mid-1980s and revolutionizes Hip Hop culture with their music and tales about life in the hood.",F. Gary Gray,/name/nm0336620/,"O'Shea Jackson Jr., 
+Corey Hawkins, 
+Jason Mitchell, 
+Neil Brown Jr.","/name/nm6578009/,/name/nm3659660/,/name/nm4207146/,/name/nm0112932/",206522.0,161197785.0,1
+tt8721424,"tick, tick... BOOM!",2021,PG-13,120 min,"Biography, Comedy, Drama",7.5,"On the cusp of his 30th birthday, a promising young theater composer navigates love, friendship and the pressures of life as an artist in New York City.",Lin-Manuel Miranda,/name/nm0592135/,"Andrew Garfield, 
+Alexandra Shipp, 
+Robin de Jesus, 
+Vanessa Hudgens","/name/nm1940449/,/name/nm3381295/,/name/nm1296587/,/name/nm1227814/",109536.0,,3
+tt1028532,Hachi: A Dog's Tale,2009,G,93 min,"Biography, Drama, Family",8.1,A college professor bonds with an abandoned dog he takes into his home.,Lasse Hallström,/name/nm0002120/,"Richard Gere, 
+Joan Allen, 
+Cary-Hiroyuki Tagawa, 
+Sarah Roemer","/name/nm0000152/,/name/nm0000260/,/name/nm0846480/,/name/nm2105255/",290992.0,,1
+tt1213641,First Man,2018,PG-13,141 min,"Biography, Drama, History",7.3,"A look at the life of the astronaut, Neil Armstrong, and the legendary space mission that led him to become the first man to walk on the Moon on July 20, 1969.",Damien Chazelle,/name/nm3227090/,"Ryan Gosling, 
+Claire Foy, 
+Jason Clarke, 
+Kyle Chandler","/name/nm0331516/,/name/nm2946516/,/name/nm0164809/,/name/nm0151419/",192132.0,44936545.0,3
+tt1809398,Unbroken,2014,PG-13,137 min,"Action, Biography, Drama",7.2,"After a near-fatal plane crash in WWII, Olympian Louis Zamperini spends a harrowing 47 days in a raft with two fellow crewmen before he's caught by the Japanese navy and sent to a prisoner-of-war camp.",Angelina Jolie,/name/nm0001401/,"Jack O'Connell, 
+Miyavi, 
+Domhnall Gleeson, 
+Garrett Hedlund","/name/nm1925239/,/name/nm2032193/,/name/nm1727304/,/name/nm1330560/",171957.0,115637895.0,0
+tt9784798,Judas and the Black Messiah,2021,R,126 min,"Biography, Drama, History",7.4,"Offered a plea deal by the FBI, William O'Neal infiltrates the Illinois chapter of the Black Panther Party to gather intelligence on Chairman Fred Hampton.",Shaka King,/name/nm3489851/,"LaKeith Stanfield, 
+Daniel Kaluuya, 
+Jesse Plemons, 
+Dominique Fishback","/name/nm3147751/,/name/nm2257207/,/name/nm0687146/,/name/nm6195774/",83649.0,,2
+tt2005151,War Dogs,2016,R,114 min,"Biography, Comedy, Crime",7.1,"Loosely based on the true story of two young men, David Packouz and Efraim Diveroli, who won a three hundred million dollar contract from the Pentagon to arm America's allies in Afghanistan.",Todd Phillips,/name/nm0680846/,"Jonah Hill, 
+Miles Teller, 
+Steve Lantz, 
+Gregg Weiner","/name/nm1706767/,/name/nm1886602/,/name/nm3111373/,/name/nm1816775/",227188.0,43034523.0,1
+tt1860242,The Highwaymen,2019,R,132 min,"Biography, Crime, Drama",6.9,The untold true story of the legendary detectives who brought down Bonnie and Clyde.,John Lee Hancock,/name/nm0359387/,"Kevin Costner, 
+Woody Harrelson, 
+Kathy Bates, 
+John Carroll Lynch","/name/nm0000126/,/name/nm0000437/,/name/nm0000870/,/name/nm0002253/",94467.0,,1
+tt9620288,King Richard,2021,PG-13,144 min,"Biography, Drama, Sport",7.5,A look at how tennis superstars Venus and Serena Williams became who they are after the coaching from their father Richard Williams.,Reinaldo Marcus Green,/name/nm3232264/,"Will Smith, 
+Aunjanue Ellis, 
+Jon Bernthal, 
+Saniyya Sidney","/name/nm0000226/,/name/nm0254712/,/name/nm1256532/,/name/nm5181138/",118953.0,,3
+tt6285944,The Banker,2020,PG-13,120 min,"Biography, Drama",7.3,"In the 1960s, two African-American entrepreneurs hire a working-class white man to pretend to be the head of their business empire while they pose as a janitor and chauffeur.",George Nolfi,/name/nm1079776/,"Anthony Mackie, 
+Samuel L. Jackson, 
+Nicholas Hoult, 
+Nia Long","/name/nm1107001/,/name/nm0000168/,/name/nm0396558/,/name/nm0000505/",30249.0,,1
+tt4555426,Darkest Hour,2017,PG-13,125 min,"Biography, Drama, War",7.4,"In May 1940, the fate of World War II hangs on Winston Churchill, who must decide whether to negotiate with Adolf Hitler, or fight on knowing that it could mean the end of the British Empire.",Joe Wright,/name/nm0942504/,"Gary Oldman, 
+Lily James, 
+Kristin Scott Thomas, 
+Ben Mendelsohn","/name/nm0000198/,/name/nm4141252/,/name/nm0000218/,/name/nm0578853/",206672.0,56468410.0,2
+tt4648786,Harriet,2019,PG-13,125 min,"Action, Biography, Drama",6.7,"The extraordinary tale of Harriet Tubman's escape from slavery and transformation into one of America's greatest heroes, whose courage, ingenuity, and tenacity freed hundreds of slaves and changed the course of history.",Kasi Lemmons,/name/nm0501435/,"Cynthia Erivo, 
+Janelle Monáe, 
+Leslie Odom Jr., 
+Joe Alwyn","/name/nm7248827/,/name/nm1847117/,/name/nm1502434/,/name/nm7153679/",28263.0,,3
+tt3513548,Richard Jewell,2019,R,131 min,"Biography, Crime, Drama",7.5,"Security guard Richard Jewell is an instant hero after foiling a bomb attack at the 1996 Atlanta Olympics, but his life becomes a nightmare when the FBI leaks to the media that he is a suspect in the case.",Clint Eastwood,/name/nm0000142/,"Paul Walter Hauser, 
+Sam Rockwell, 
+Brandon Stanley, 
+Ryan Boz","/name/nm3236159/,/name/nm0005377/,/name/nm10263413/,/name/nm5573623/",90600.0,,3
+tt3829920,Only the Brave,2017,PG-13,134 min,"Action, Biography, Drama",7.6,"Based on the true story of the Granite Mountain Hotshots, a group of elite firefighters who risk everything to protect a town from a historic wildfire.",Joseph Kosinski,/name/nm2676052/,"Josh Brolin, 
+Miles Teller, 
+Jeff Bridges, 
+Jennifer Connelly","/name/nm0000982/,/name/nm1886602/,/name/nm0000313/,/name/nm0000124/",72037.0,18340051.0,2
+tt1152836,Public Enemies,2009,R,140 min,"Action, Biography, Crime",7.0,"The Feds try to take down notorious American gangsters John Dillinger, Baby Face Nelson, and Pretty Boy Floyd during a booming crime wave in the 1930s.",Michael Mann,/name/nm0000520/,"Christian Bale, 
+Johnny Depp, 
+Christian Stolte, 
+Jason Clarke","/name/nm0000288/,/name/nm0000136/,/name/nm0831601/,/name/nm0164809/",307752.0,97104620.0,1
+tt2334649,Fruitvale Station,2013,R,85 min,"Biography, Crime, Drama",7.5,"The story of Oscar Grant III, a 22-year-old Bay Area resident, who crosses paths with friends, enemies, family, and strangers on the last day of 2008.",Ryan Coogler,/name/nm3363032/,"Michael B. Jordan, 
+Melonie Diaz, 
+Octavia Spencer, 
+Kevin Durand","/name/nm0430107/,/name/nm0246686/,/name/nm0818055/,/name/nm0243806/",83189.0,16097842.0,3
+tt1212450,Lawless,2012,R,116 min,"Biography, Crime, Drama",7.2,"Set in Depression-era Franklin County, Virginia, a trio of bootlegging brothers are threatened by a new special deputy and other authorities angling for a cut of their profits.",John Hillcoat,/name/nm0384825/,"Tom Hardy, 
+Shia LaBeouf, 
+Guy Pearce, 
+Jason Clarke","/name/nm0362766/,/name/nm0479471/,/name/nm0001602/,/name/nm0164809/",245524.0,37400127.0,1
+tt1535109,Captain Phillips,2013,PG-13,134 min,"Action, Biography, Crime",7.8,"The true story of Captain Richard Phillips and the 2009 hijacking by Somali pirates of the U.S.-flagged MV Maersk Alabama, the first American cargo ship to be hijacked in two hundred years.",Paul Greengrass,/name/nm0339030/,"Tom Hanks, 
+Barkhad Abdi, 
+Barkhad Abdirahman, 
+Catherine Keener","/name/nm0000158/,/name/nm5831542/,/name/nm5831543/,/name/nm0001416/",468226.0,107100855.0,1
+tt2980516,The Theory of Everything,2014,PG-13,123 min,"Biography, Drama, Romance",7.7,A look at the relationship between the famous physicist Stephen Hawking and his wife.,James Marsh,/name/nm1016428/,"Eddie Redmayne, 
+Felicity Jones, 
+Tom Prior, 
+Sophie Perry","/name/nm1519666/,/name/nm0428065/,/name/nm4350114/,/name/nm6240141/",459026.0,35893537.0,3
+tt6513120,Fighting with My Family,2019,PG-13,108 min,"Biography, Comedy, Drama",7.1,A former wrestler and his family make a living performing at small venues around the country while his kids dream of joining World Wrestling Entertainment.,Stephen Merchant,/name/nm0580351/,"Dwayne Johnson, 
+Lena Headey, 
+Vince Vaughn, 
+Florence Pugh","/name/nm0425005/,/name/nm0372176/,/name/nm0000681/,/name/nm6073955/",83212.0,22958886.0,3
+tt1390411,In the Heart of the Sea,2015,PG-13,122 min,"Action, Adventure, Biography",6.9,"A recounting of a New England whaling ship's sinking by a giant whale in 1820, an experience that later inspired the great novel Moby-Dick.",Ron Howard,/name/nm0000165/,"Chris Hemsworth, 
+Cillian Murphy, 
+Brendan Gleeson, 
+Ben Whishaw","/name/nm1165110/,/name/nm0614165/,/name/nm0322407/,/name/nm0924210/",142036.0,25020758.0,1
+tt1542344,127 Hours,2010,R,94 min,"Biography, Drama",7.5,"A mountain climber becomes trapped under a boulder while canyoneering alone near Moab, Utah and resorts to desperate measures in order to survive.",Danny Boyle,/name/nm0000965/,"James Franco, 
+Amber Tamblyn, 
+Kate Mara, 
+Sean Bott","/name/nm0290556/,/name/nm0848554/,/name/nm0544718/,/name/nm2505304/",382970.0,18335230.0,3
+tt9115530,The Eyes of Tammy Faye,2021,PG-13,126 min,"Biography, Drama, Romance",6.6,"An intimate look at the extraordinary rise, fall and redemption of televangelist Tammy Faye Bakker.",Michael Showalter,/name/nm0795290/,"Jessica Chastain, 
+Andrew Garfield, 
+Cherry Jones, 
+Vincent D'Onofrio","/name/nm1567113/,/name/nm1940449/,/name/nm0427728/,/name/nm0000352/",35387.0,,3
+tt10618286,Mank,2020,R,131 min,"Biography, Comedy, Drama",6.8,1930s Hollywood is re-evaluated through the eyes of scathing social critic and alcoholic screenwriter Herman J. Mankiewicz as he races to finish the screenplay of Citizen Kane (1941).,David Fincher,/name/nm0000399/,"Gary Oldman, 
+Amanda Seyfried, 
+Lily Collins, 
+Tom Pelphrey","/name/nm0000198/,/name/nm1086543/,/name/nm2934314/,/name/nm1670601/",77388.0,,1
+tt1327773,The Butler,2013,PG-13,132 min,"Biography, Drama",7.2,"As Cecil Gaines serves eight presidents during his tenure as a butler at the White House, the civil rights movement, Vietnam, and other major events affect this man's life, family, and American society.",Lee Daniels,/name/nm0200005/,"Forest Whitaker, 
+Oprah Winfrey, 
+John Cusack, 
+Jane Fonda","/name/nm0001845/,/name/nm0001856/,/name/nm0000131/,/name/nm0000404/",116914.0,116632095.0,3
+tt3521126,The Disaster Artist,2017,R,104 min,"Biography, Comedy, Drama",7.3,"When Greg Sestero, an aspiring film actor, meets the weird and mysterious Tommy Wiseau in an acting class, they form a unique friendship and travel to Hollywood to make their dreams come true.",James Franco,/name/nm0290556/,"James Franco, 
+Dave Franco, 
+Ari Graynor, 
+Seth Rogen","/name/nm0290556/,/name/nm2002649/,/name/nm0310966/,/name/nm0736622/",156913.0,21120616.0,3
+tt2305051,Wild,2014,R,115 min,"Adventure, Biography, Drama",7.1,"A chronicle of one woman's 1,100-mile solo hike undertaken as a way to recover from a recent personal tragedy.",Jean-Marc Vallée,/name/nm0885249/,"Reese Witherspoon, 
+Laura Dern, 
+Gaby Hoffmann, 
+Michiel Huisman","/name/nm0000702/,/name/nm0000368/,/name/nm0000451/,/name/nm0401264/",131453.0,37880356.0,3
+tt12536294,Spencer,2021,R,117 min,"Biography, Drama",6.6,"Diana Spencer, struggling with mental-health problems during her Christmas holidays with the Royal Family at their Sandringham estate in Norfolk, England, decides to end her decade-long marriage to Prince Charles.",Pablo Larraín,/name/nm1883257/,"Kristen Stewart, 
+Timothy Spall, 
+Sally Hawkins, 
+Jack Nielen","/name/nm0829576/,/name/nm0001758/,/name/nm1020089/,/name/nm12670642/",70857.0,,3
+tt1212428,The Lost City of Z,2016,PG-13,141 min,"Adventure, Biography, Drama",6.6,"A true-life drama, centering on British explorer Major Percival Fawcett, who disappeared whilst searching for a mysterious city in the Amazon in the 1920s.",James Gray,/name/nm0336695/,"Charlie Hunnam, 
+Robert Pattinson, 
+Sienna Miller, 
+Tom Holland","/name/nm0402271/,/name/nm1500155/,/name/nm1092227/,/name/nm4043618/",93646.0,8580410.0,1
+tt7549996,Judy,2019,PG-13,118 min,"Biography, Drama, Music",6.8,Legendary performer Judy Garland arrives in London in the winter of 1968 to perform a series of sold-out concerts.,Rupert Goold,/name/nm3734458/,"Renée Zellweger, 
+Jessie Buckley, 
+Finn Wittrock, 
+Rufus Sewell","/name/nm0000250/,/name/nm2976580/,/name/nm1587729/,/name/nm0001722/",52059.0,,3
+tt9130508,Cherry,2021,R,142 min,"Biography, Crime, Drama",6.6,"Cherry drifts from college dropout to army medic in Iraq - anchored only by his true love, Emily. But after returning from the war with PTSD, his life spirals into drugs and crime as he struggles to find his place in the world.","Anthony Russo, 
+Joe Russo",/name/nm0751577/,"Tom Holland, 
+Ciara Bravo, 
+Jack Reynor, 
+Forrest Goodluck","/name/nm0751648/,/name/nm4043618/,/name/nm2731980/,/name/nm2930503/,/name/nm5569442/",33713.0,,0
+tt1135503,Julie & Julia,2009,PG-13,123 min,"Biography, Drama, Romance",7.0,Julia Child's story of her start in the cooking profession is intertwined with blogger Julie Powell's 2002 challenge to cook all the recipes in Child's first book.,Nora Ephron,/name/nm0001188/,"Amy Adams, 
+Meryl Streep, 
+Chris Messina, 
+Stanley Tucci","/name/nm0010736/,/name/nm0000658/,/name/nm0582149/,/name/nm0001804/",122602.0,94125426.0,3
+tt7983894,Ammonite,2020,R,120 min,"Biography, Drama, History",6.5,"1840s England, acclaimed but overlooked fossil hunter Mary Anning and a young woman sent to convalesce by the sea develop an intense relationship, altering both of their lives forever.",Francis Lee,/name/nm0497274/,"Kate Winslet, 
+Saoirse Ronan, 
+Gemma Jones, 
+James McArdle","/name/nm0000701/,/name/nm1519680/,/name/nm0428121/,/name/nm4574630/",19688.0,,3
+tt1426329,Lovelace,2013,R,93 min,"Biography, Drama",6.2,"The story of Linda Lovelace, who is used and abused by the porn industry at the behest of her coercive husband before taking control of her life.","Rob Epstein, 
+Jeffrey Friedman",/name/nm0258531/,"Amanda Seyfried, 
+Peter Sarsgaard, 
+Sharon Stone, 
+Juno Temple","/name/nm0295243/,/name/nm1086543/,/name/nm0765597/,/name/nm0000232/,/name/nm1017334/",41492.0,356582.0,3
+tt1220719,Ip Man,2008,R,106 min,"Action, Biography, Drama",8.0,"During the Japanese invasion of China, a wealthy martial artist is forced to leave his home when his city is occupied. With little means of providing for themselves, Ip Man and the remaining members of the city must find a way to survive.",Wilson Yip,/name/nm0948159/,"Donnie Yen, 
+Simon Yam, 
+Siu-Wong Fan, 
+Ka-Tung Lam","/name/nm0947447/,/name/nm0945189/,/name/nm0266658/,/name/nm0482628/",226506.0,,0
+tt4669788,On the Basis of Sex,2018,PG-13,120 min,"Biography, Drama",7.1,"The true story of Ruth Bader Ginsburg, her struggles for equal rights, and the early cases of a historic career that lead to her nomination and confirmation as U.S. Supreme Court Associate Justice.",Mimi Leder,/name/nm0001460/,"Felicity Jones, 
+Armie Hammer, 
+Justin Theroux, 
+Sam Waterston","/name/nm0428065/,/name/nm2309517/,/name/nm0857620/,/name/nm0001832/",35645.0,24622687.0,3
+tt7008872,Boy Erased,2018,R,115 min,"Biography, Drama",6.9,The son of a Baptist preacher unwillingly participates in a church-supported gay conversion program after being forcibly outed to his parents.,Joel Edgerton,/name/nm0249291/,"Lucas Hedges, 
+Nicole Kidman, 
+Joel Edgerton, 
+Russell Crowe","/name/nm2348627/,/name/nm0000173/,/name/nm0249291/,/name/nm0000128/",39909.0,6788692.0,1
+tt4761112,The Mauritanian,2021,R,129 min,"Biography, Drama, Thriller",7.4,Mohamedou Ould Slahi fights for freedom after being detained and imprisoned without charge by the U.S. Government for years.,Kevin Macdonald,/name/nm0531817/,"Tahar Rahim, 
+Nouhe Hamady Bari, 
+Saadna Hamoud, 
+Mohamed Yeslem Mousse","/name/nm2588665/,/name/nm12366935/,/name/nm12366936/,/name/nm12366937/",53636.0,,3
+tt1571222,A Dangerous Method,2011,R,99 min,"Biography, Drama, Romance",6.4,A look at how the intense relationship between Carl Jung and Sigmund Freud gives birth to psychoanalysis.,David Cronenberg,/name/nm0000343/,"Michael Fassbender, 
+Keira Knightley, 
+Viggo Mortensen, 
+Vincent Cassel","/name/nm1055413/,/name/nm0461136/,/name/nm0001557/,/name/nm0001993/",105244.0,5702083.0,3
+tt8236336,The Report,2019,R,119 min,"Biography, Crime, Drama",7.2,"Idealistic Senate staffer Daniel J. Jones, tasked by his boss to lead an investigation into the CIA's post 9/11 Detention and Interrogation Program, uncovers shocking secrets.",Scott Z. Burns,/name/nm1994243/,"Adam Driver, 
+Annette Bening, 
+Jon Hamm, 
+Ted Levine","/name/nm3485845/,/name/nm0000906/,/name/nm0358316/,/name/nm0505971/",45447.0,,0
+tt2328900,Mary Queen of Scots,2018,R,124 min,"Biography, Drama, History",6.3,"Mary Stuart's (Saoirse Ronan's) attempt to overthrow her cousin Elizabeth I (Margot Robbie), Queen of England, finds her condemned to years of imprisonment before facing execution.",Josie Rourke,/name/nm6066050/,"Saoirse Ronan, 
+Margot Robbie, 
+Jack Lowden, 
+Joe Alwyn","/name/nm1519680/,/name/nm3053338/,/name/nm4110963/,/name/nm7153679/",52184.0,16468499.0,3
+tt1355683,Black Mass,2015,R,123 min,"Biography, Crime, Drama",6.9,"The true story of Whitey Bulger, the brother of a state senator and the most infamous violent criminal in the history of South Boston, who became an FBI informant to take down a Mafia family invading his turf.",Scott Cooper,/name/nm0178376/,"Johnny Depp, 
+Benedict Cumberbatch, 
+Dakota Johnson, 
+Joel Edgerton","/name/nm0000136/,/name/nm1212722/,/name/nm0424848/,/name/nm0249291/",184323.0,62575678.0,1
+tt1100089,Foxcatcher,2014,R,134 min,"Biography, Drama, History",7.0,"U.S. Olympic wrestling champions and brothers Mark Schultz and Dave Schultz join ""Team Foxcatcher"", led by eccentric multi-millionaire John du Pont, as they train for the 1988 Olympic Games in Seoul, South Korea, but John's self-destructive behavior threatens to consume them all.",Bennett Miller,/name/nm0587955/,"Steve Carell, 
+Channing Tatum, 
+Mark Ruffalo, 
+Vanessa Redgrave","/name/nm0136797/,/name/nm1475594/,/name/nm0749263/,/name/nm0000603/",144686.0,12096300.0,1
+tt1667355,3096 Tage,2013,,111 min,"Biography, Crime, Drama",6.5,A young Austrian girl is kidnapped and held in captivity for eight years. Based on the factual case of Natascha Kampusch.,Sherry Hormann,/name/nm0394776/,"Antonia Campbell-Hughes, 
+Thure Lindhardt, 
+Amelia Pidgeon, 
+Trine Dyrholm","/name/nm2063982/,/name/nm0511892/,/name/nm5011427/,/name/nm0245988/",14849.0,,3
+tt2140373,Saving Mr. Banks,2013,PG-13,125 min,"Biography, Comedy, Drama",7.5,"Author P.L. Travers reflects on her childhood after reluctantly meeting with Walt Disney, who seeks to adapt her Mary Poppins books for the big screen.",John Lee Hancock,/name/nm0359387/,"Emma Thompson, 
+Tom Hanks, 
+Annie Rose Buckley, 
+Colin Farrell","/name/nm0000668/,/name/nm0000158/,/name/nm4003520/,/name/nm0268199/",164658.0,83301580.0,3
+tt2446980,Joy,2015,PG-13,124 min,"Biography, Drama",6.6,"Joy is the story of the title character, who rose to become founder and matriarch of a powerful family business dynasty.",David O. Russell,/name/nm0751102/,"Jennifer Lawrence, 
+Robert De Niro, 
+Bradley Cooper, 
+Edgar Ramírez","/name/nm2225369/,/name/nm0000134/,/name/nm0177896/,/name/nm1183149/",139198.0,56451232.0,3
+tt1017451,The Runaways,2010,R,106 min,"Biography, Drama, Music",6.5,A coming-of-age biographical film about the 1970s teenage all-girl rock band The Runaways. The relationship between band members Cherie Currie and Joan Jett is also explored.,Floria Sigismondi,/name/nm0797455/,"Kristen Stewart, 
+Dakota Fanning, 
+Michael Shannon, 
+Stella Maeve","/name/nm0829576/,/name/nm0266824/,/name/nm0788335/,/name/nm1886524/",49776.0,3571735.0,3
+tt2080374,Steve Jobs,2015,R,122 min,"Biography, Drama",7.2,"Steve Jobs takes us behind the scenes of the digital revolution, to paint a portrait of the man at its epicenter. The story unfolds backstage at three iconic product launches, ending in 1998 with the unveiling of the iMac.",Danny Boyle,/name/nm0000965/,"Michael Fassbender, 
+Kate Winslet, 
+Seth Rogen, 
+Jeff Daniels","/name/nm1055413/,/name/nm0000701/,/name/nm0736622/,/name/nm0001099/",172006.0,17766658.0,3
+tt2378507,The Glass Castle,2017,PG-13,127 min,"Biography, Drama",7.1,A young girl comes of age in a dysfunctional family of nonconformist nomads with a mother who's an eccentric artist and an alcoholic father who would stir the children's imagination with hope as a distraction to their poverty.,Destin Daniel Cretton,/name/nm2308774/,"Brie Larson, 
+Woody Harrelson, 
+Naomi Watts, 
+Ella Anderson","/name/nm0488953/,/name/nm0000437/,/name/nm0915208/,/name/nm3993221/",34764.0,17273059.0,3
+tt2404425,Woman in Gold,2015,PG-13,109 min,"Biography, Drama, History",7.3,"Maria Altmann, an octogenarian Jewish refugee, takes on the Austrian government to recover artwork she believes rightfully belongs to her family.",Simon Curtis,/name/nm0193508/,"Helen Mirren, 
+Ryan Reynolds, 
+Daniel Brühl, 
+Katie Holmes","/name/nm0000545/,/name/nm0005351/,/name/nm0117709/,/name/nm0005017/",60362.0,33305037.0,3
+tt3774114,Snowden,2016,R,134 min,"Biography, Crime, Drama",7.3,"The NSA's illegal surveillance techniques are leaked to the public by one of the agency's employees, Edward Snowden, in the form of thousands of classified documents distributed to the press.",Oliver Stone,/name/nm0000231/,"Joseph Gordon-Levitt, 
+Shailene Woodley, 
+Melissa Leo, 
+Zachary Quinto","/name/nm0330687/,/name/nm0940362/,/name/nm0502425/,/name/nm0704270/",155181.0,21587519.0,1
+tt1007029,The Iron Lady,2011,PG-13,105 min,"Biography, Drama",6.4,"An elderly Margaret Thatcher talks to the imagined presence of her recently deceased husband as she struggles to come to terms with his death while scenes from her past life, from girlhood to British prime minister, intervene.",Phyllida Lloyd,/name/nm1630273/,"Meryl Streep, 
+Jim Broadbent, 
+Richard E. Grant, 
+Susan Brown","/name/nm0000658/,/name/nm0000980/,/name/nm0001290/,/name/nm0114742/",110885.0,30017992.0,3
+tt2452150,Respect,2021,PG-13,145 min,"Biography, Drama, Music",6.6,"Following the rise of Aretha Franklin's career from a child singing in her father's church's choir to her international superstardom, RESPECT is the remarkable true story of the music icon's journey to find her voice.",Liesl Tommy,/name/nm8217935/,"Jennifer Hudson, 
+Forest Whitaker, 
+Marlon Wayans, 
+Tituss Burgess","/name/nm1617685/,/name/nm0001845/,/name/nm0005541/,/name/nm4270695/",15886.0,,3
+tt1355631,The Infiltrator,2016,R,127 min,"Biography, Crime, Drama",7.0,A U.S. Customs official uncovers a money laundering scheme involving Colombian drug lord Pablo Escobar.,Brad Furman,/name/nm1026778/,"Bryan Cranston, 
+John Leguizamo, 
+Diane Kruger, 
+Amy Ryan","/name/nm0186505/,/name/nm0000491/,/name/nm1208167/,/name/nm0752407/",75523.0,15425870.0,3
+tt5294550,All the Money in the World,2017,R,132 min,"Biography, Crime, Drama",6.8,The story of the kidnapping of 16-year-old John Paul Getty III and the desperate attempt by his devoted mother to convince his billionaire grandfather Jean Paul Getty to pay the ransom.,Ridley Scott,/name/nm0000631/,"Michelle Williams, 
+Christopher Plummer, 
+Mark Wahlberg, 
+Romain Duris","/name/nm0931329/,/name/nm0001626/,/name/nm0000242/,/name/nm0244151/",87053.0,25106315.0,2
+tt3553442,Whiskey Tango Foxtrot,2016,R,112 min,"Biography, Comedy, Drama",6.6,A journalist recounts her wartime coverage in Afghanistan.,"Glenn Ficarra, 
+John Requa",/name/nm0275629/,"Tina Fey, 
+Margot Robbie, 
+Martin Freeman, 
+Alfred Molina","/name/nm0720135/,/name/nm0275486/,/name/nm3053338/,/name/nm0293509/,/name/nm0000547/",53795.0,23049575.0,3
+tt2013293,The Wind Rises,2013,PG-13,126 min,"Animation, Biography, Drama",7.7,"A look at the life of Jiro Horikoshi, the man who designed Japanese fighter planes during World War II.",Hayao Miyazaki,/name/nm0594503/,"Hideaki Anno, 
+Hidetoshi Nishijima, 
+Miori Takimoto, 
+Masahiko Nishimura","/name/nm0030417/,/name/nm0632689/,/name/nm3768523/,/name/nm0632761/",88775.0,5209580.0,3
+tt10083340,Gangubai Kathiawadi,2022,TV-MA,152 min,"Biography, Crime, Drama",7.8,"Duped and sold to a brothel, a young woman fearlessly reclaims her power, using underworld connections to preside over the world she was once a pawn in.",Sanjay Leela Bhansali,/name/nm0080220/,"Alia Bhatt, 
+Shantanu Maheshwari, 
+Vijay Raaz, 
+Indira Tiwari","/name/nm1017633/,/name/nm8374266/,/name/nm0704694/,/name/nm4987678/",57151.0,,3
+tt1126590,Big Eyes,2014,PG-13,106 min,"Biography, Crime, Drama",7.0,"A drama about the awakening of painter Margaret Keane, her phenomenal success in the 1950s, and the subsequent legal difficulties she had with her husband, who claimed credit for her works in the 1960s.",Tim Burton,/name/nm0000318/,"Amy Adams, 
+Christoph Waltz, 
+Danny Huston, 
+Krysten Ritter","/name/nm0010736/,/name/nm0910607/,/name/nm0396812/,/name/nm1269983/",95355.0,14479776.0,3
+tt1057500,Invictus,2009,PG-13,134 min,"Action, Biography, Drama",7.3,"Nelson Mandela, in his first term as President of South Africa, initiates a unique venture to unite the Apartheid-torn land: enlist the national rugby team on a mission to win the 1995 Rugby World Cup.",Clint Eastwood,/name/nm0000142/,"Morgan Freeman, 
+Matt Damon, 
+Tony Kgoroge, 
+Patrick Mofokeng","/name/nm0000151/,/name/nm0000354/,/name/nm0450961/,/name/nm0595680/",162293.0,37491364.0,1
+tt1596346,Soul Surfer,2011,PG,112 min,"Biography, Drama, Family",7.0,Teenage surfer Bethany Hamilton overcomes the odds and her own fears of returning to the water after losing her left arm in a shark attack.,Sean McNamara,/name/nm0573732/,"AnnaSophia Robb, 
+Dennis Quaid, 
+Helen Hunt, 
+Carrie Underwood","/name/nm1455681/,/name/nm0000598/,/name/nm0000166/,/name/nm1863227/",50696.0,43853424.0,3
+tt4995540,Being the Ricardos,2021,R,131 min,"Biography, Drama",6.5,Follows Lucy and Desi as they face a crisis that could end their careers and another that could end their marriage.,Aaron Sorkin,/name/nm0815070/,"Nicole Kidman, 
+Javier Bardem, 
+J.K. Simmons, 
+Nina Arianda","/name/nm0000173/,/name/nm0000849/,/name/nm0799777/,/name/nm3616206/",42520.0,,3
+tt2132285,The Bling Ring,2013,R,90 min,"Biography, Crime, Drama",5.6,"Inspired by actual events, a group of fame-obsessed teenagers use the internet to track celebrities' whereabouts in order to rob their homes.",Sofia Coppola,/name/nm0001068/,"Katie Chang, 
+Israel Broussard, 
+Emma Watson, 
+Claire Julien","/name/nm4583512/,/name/nm3441152/,/name/nm0914612/,/name/nm4903197/",89154.0,5841046.0,3
+tt1013753,Milk,2008,R,128 min,"Biography, Drama, History",7.5,"The story of Harvey Milk, and his struggles as an American gay activist who fought for gay rights and became California's first openly gay elected official.",Gus Van Sant,/name/nm0001814/,"Sean Penn, 
+Josh Brolin, 
+Emile Hirsch, 
+Diego Luna","/name/nm0000576/,/name/nm0000982/,/name/nm0386472/,/name/nm0526019/",175094.0,31841299.0,1
+tt3361792,Tolkien,2019,PG-13,112 min,"Biography, Drama, Romance",6.8,"The formative years of the orphaned author J.R.R. Tolkien as he finds friendship, love and artistic inspiration among a group of fellow outcasts at school.",Dome Karukoski,/name/nm1933648/,"Nicholas Hoult, 
+Lily Collins, 
+Colm Meaney, 
+Derek Jacobi","/name/nm0396558/,/name/nm2934314/,/name/nm0000538/,/name/nm0001394/",42613.0,4535154.0,2
+tt1020072,Selma,2014,PG-13,128 min,"Biography, Drama, History",7.5,"A chronicle of Dr. Martin Luther King, Jr.'s campaign to secure equal voting rights via an epic march from Selma to Montgomery, Alabama, in 1965.",Ava DuVernay,/name/nm1148550/,"David Oyelowo, 
+Carmen Ejogo, 
+Oprah Winfrey, 
+Tom Wilkinson","/name/nm0654648/,/name/nm0252238/,/name/nm0001856/,/name/nm0929489/",92791.0,52076908.0,3
+tt7698468,A Call to Spy,2019,PG-13,123 min,"Biography, Crime, Drama",6.6,"In the beginning of WWII, with Britain becoming desperate, Churchill orders his new spy agency - SOE - to recruit and train women as spies.",Lydia Dean Pilcher,/name/nm0212990/,"Sarah Megan Thomas, 
+Stana Katic, 
+Radhika Apte, 
+Linus Roache","/name/nm2353338/,/name/nm1065664/,/name/nm2331000/,/name/nm0730070/",8496.0,,3
+tt4669296,Lords of Chaos,2018,R,118 min,"Biography, Drama, Horror",6.6,A teenager's quest to launch Norwegian Black Metal in Oslo in the early 1990s results in a very violent outcome.,Jonas Åkerlund,/name/nm0959774/,"Rory Culkin, 
+Emory Cohen, 
+Jack Kilmer, 
+Sky Ferreira","/name/nm0191412/,/name/nm1710309/,/name/nm5451410/,/name/nm3650037/",16874.0,253184.0,0
+tt3169706,Pride,2014,R,119 min,"Biography, Comedy, Drama",7.8,U.K. gay activists work to help miners during their lengthy strike of the National Union of Mineworkers in the summer of 1984.,Matthew Warchus,/name/nm0911334/,"Bill Nighy, 
+Imelda Staunton, 
+Dominic West, 
+Paddy Considine","/name/nm0631490/,/name/nm0001767/,/name/nm0922035/,/name/nm0175916/",58779.0,,3
+tt5437928,Colette,2018,R,111 min,"Biography, Drama, History",6.7,"Colette is pushed by her husband to write novels under his name. Upon their success, she fights to make her talents known, challenging gender norms.",Wash Westmoreland,/name/nm0922903/,"Keira Knightley, 
+Fiona Shaw, 
+Dominic West, 
+Robert Pugh","/name/nm0461136/,/name/nm0789716/,/name/nm0922035/,/name/nm0700059/",24681.0,5137622.0,3
+tt4005402,Colonia,2015,R,110 min,"Biography, Drama, History",7.0,"A young woman's desperate search for her abducted boyfriend draws her into the infamous Colonia Dignidad, a sect nobody has ever escaped from.",Florian Gallenberger,/name/nm0302780/,"Emma Watson, 
+Daniel Brühl, 
+Michael Nyqvist, 
+Richenda Carey","/name/nm0914612/,/name/nm0117709/,/name/nm0638824/,/name/nm0137028/",54968.0,,3
+tt2076298,Ip Man 4: The Finale,2019,Not Rated,107 min,"Action, Biography, Drama",7.0,The Kung Fu master travels to the U.S. where his student has upset the local martial arts community by opening a Wing Chun school.,Wilson Yip,/name/nm0948159/,"Donnie Yen, 
+Scott Adkins, 
+Danny Kwok-Kwan Chan, 
+Vanness Wu","/name/nm0947447/,/name/nm0012078/,/name/nm2185928/,/name/nm1488865/",33663.0,3956031.0,3
+tt2837574,The Old Man & the Gun,2018,PG-13,93 min,"Biography, Comedy, Crime",6.7,Based on the true story of Forrest Tucker and his audacious escape from San Quentin at the age of 70 to an unprecedented string of heists that confounded authorities and enchanted the public.,David Lowery,/name/nm1108007/,"Robert Redford, 
+Casey Affleck, 
+Sissy Spacek, 
+Danny Glover","/name/nm0000602/,/name/nm0000729/,/name/nm0000651/,/name/nm0000418/",47359.0,11277120.0,1
+tt2404181,Belle,2013,PG,100 min,"Biography, Drama, Romance",7.3,"The biracial daughter, Dido Elizabeth Belle (Gugu Mbatha-Raw), of Royal Navy Captain Sir John Lindsay (Matthew Goode) is raised by aristocratic Great-uncle Lord William Murray, 1st Earl of Mansfield (Tom Wilkinson) in 18th century England.",Amma Asante,/name/nm1392994/,"Gugu Mbatha-Raw, 
+Matthew Goode, 
+Emily Watson, 
+Miranda Richardson","/name/nm1813221/,/name/nm0328828/,/name/nm0001833/,/name/nm0001669/",31730.0,10726630.0,3
+tt3203606,Trumbo,2015,R,124 min,"Biography, Drama",7.4,"In 1947, Dalton Trumbo was Hollywood's top screenwriter, until he and other artists were jailed and blacklisted for their political beliefs.",Jay Roach,/name/nm0005366/,"Bryan Cranston, 
+Diane Lane, 
+Helen Mirren, 
+Louis C.K.","/name/nm0186505/,/name/nm0000178/,/name/nm0000545/,/name/nm0127373/",82620.0,7857741.0,3
+tt6133130,Professor Marston & the Wonder Women,2017,R,108 min,"Biography, Drama, History",7.0,"The story of psychologist William Moulton Marston, and his polyamorous relationship with his wife and their mistress who would inspire his creation of the superheroine, Wonder Woman.",Angela Robinson,/name/nm1286340/,"Luke Evans, 
+Rebecca Hall, 
+Bella Heathcote, 
+Connie Britton","/name/nm1812656/,/name/nm0356017/,/name/nm2757333/,/name/nm0110168/",27076.0,1585362.0,3
+tt1759744,Charlie Says,2018,R,110 min,"Biography, Crime, Drama",5.9,The tragic tale of an all-American girl who was transformed into a cold-blooded killer in the summer of 1969.,Mary Harron,/name/nm0366004/,"Hannah Murray, 
+Matt Smith, 
+Sosie Bacon, 
+Marianne Rendón","/name/nm2356940/,/name/nm1741002/,/name/nm1788739/,/name/nm8205766/",4982.0,39502.0,3
+tt1596345,Pawn Sacrifice,2014,PG-13,115 min,"Biography, Drama, History",7.0,"Set during the Cold War, American chess prodigy Bobby Fischer finds himself caught between two superpowers and his own struggles as he challenges the Soviet Empire.",Edward Zwick,/name/nm0001880/,"Tobey Maguire, 
+Liev Schreiber, 
+Peter Sarsgaard, 
+Michael Stuhlbarg","/name/nm0001497/,/name/nm0000630/,/name/nm0765597/,/name/nm0836121/",46880.0,2436062.0,1
+tt2461150,Masterminds,2016,PG-13,95 min,"Biography, Comedy, Crime",5.8,A guard at an armored car company in the Southern U.S. organizes one of the biggest bank heists in American history. Based on the October 1997 Loomis Fargo robbery.,Jared Hess,/name/nm0381478/,"Zach Galifianakis, 
+Kristen Wiig, 
+Owen Wilson, 
+Ross Kimball","/name/nm0302108/,/name/nm1325419/,/name/nm0005562/,/name/nm5155666/",56724.0,17356894.0,3
+tt4595882,Can You Ever Forgive Me?,2018,R,106 min,"Biography, Comedy, Crime",7.1,"When Lee Israel falls out of step with current tastes, she turns her art form to deception.",Marielle Heller,/name/nm1716636/,"Melissa McCarthy, 
+Richard E. Grant, 
+Dolly Wells, 
+Ben Falcone","/name/nm0565250/,/name/nm0001290/,/name/nm0920185/,/name/nm1229520/",53602.0,8803865.0,3
+tt5074352,Dangal,2016,Not Rated,161 min,"Action, Biography, Drama",8.3,Former wrestler Mahavir Singh Phogat and his two wrestler daughters struggle towards glory at the Commonwealth Games in the face of societal oppression.,Nitesh Tiwari,/name/nm4318159/,"Aamir Khan, 
+Sakshi Tanwar, 
+Fatima Sana Shaikh, 
+Sanya Malhotra","/name/nm0451148/,/name/nm2799219/,/name/nm0760778/,/name/nm7621667/",194701.0,12391761.0,3
+tt1186830,Agora,2009,R,127 min,"Adventure, Biography, Drama",7.1,"A historical drama set in Roman Egypt, concerning a slave who turns to the rising tide of Christianity in the hope of pursuing freedom while falling in love with his mistress, the philosophy and mathematics professor Hypatia of Alexandria.",Alejandro Amenábar,/name/nm0024622/,"Rachel Weisz, 
+Max Minghella, 
+Oscar Isaac, 
+Ashraf Barhom","/name/nm0001838/,/name/nm1540404/,/name/nm1209966/,/name/nm1678557/",70873.0,617840.0,1
+tt3416744,The End of the Tour,2015,R,106 min,"Biography, Drama",7.2,"The story of the five-day interview between Rolling Stone reporter David Lipsky and acclaimed novelist David Foster Wallace, which took place right after the 1996 publication of Wallace's groundbreaking epic novel, 'Infinite Jest.'",James Ponsoldt,/name/nm1242054/,"Jason Segel, 
+Jesse Eisenberg, 
+Anna Chlumsky, 
+Mamie Gummer","/name/nm0781981/,/name/nm0251986/,/name/nm0001043/,/name/nm0336701/",31429.0,2993669.0,1
+tt3322364,Concussion,2015,PG-13,123 min,"Biography, Drama, Sport",7.1,"In Pittsburgh, accomplished pathologist Dr. Bennet Omalu uncovers the truth about brain damage in football players who suffer repeated concussions in the course of normal play.",Peter Landesman,/name/nm1481618/,"Will Smith, 
+Alec Baldwin, 
+Albert Brooks, 
+David Morse","/name/nm0000226/,/name/nm0000285/,/name/nm0000983/,/name/nm0001556/",97029.0,34542474.0,1
+tt8206668,Bad Education,2019,TV-MA,108 min,"Biography, Comedy, Crime",7.1,"The beloved superintendent of New York's Roslyn school district and his staff, friends and relatives become the prime suspects in the unfolding of the single largest public school embezzlement scandal in American history.",Cory Finley,/name/nm8083973/,"Hugh Jackman, 
+Ray Romano, 
+Welker White, 
+Allison Janney","/name/nm0413168/,/name/nm0005380/,/name/nm0925578/,/name/nm0005049/",41373.0,,3
+tt6212478,American Animals,2018,R,116 min,"Biography, Crime, Drama",7.0,Four young men mistake their lives for a movie and attempt one of the most audacious heists in U.S. history.,Bart Layton,/name/nm1717925/,"Spencer Reinhard, 
+Warren Lipka, 
+Eric Borsuk, 
+Chas Allen","/name/nm9858131/,/name/nm9858130/,/name/nm9858133/,/name/nm3130746/",46391.0,2856954.0,1
+tt4950110,I'm Not Ashamed,2016,PG-13,112 min,"Biography, Drama",5.8,"The true story of Rachel Joy Scott, the first student killed in the Columbine High School shooting on April 20, 1999.",Brian Baugh,/name/nm0061982/,"Masey McLain, 
+Ben Davies, 
+Cameron McKendry, 
+Terri Minton","/name/nm4558567/,/name/nm3910031/,/name/nm4068476/,/name/nm3675178/",3889.0,2080932.0,3
+tt1704573,Bernie,2011,PG-13,104 min,"Biography, Comedy, Crime",6.8,"In small-town Texas, an affable mortician strikes up a friendship with a wealthy widow, though when she starts to become controlling, he goes to great lengths to separate himself from her grasp.",Richard Linklater,/name/nm0000500/,"Jack Black, 
+Shirley MacLaine, 
+Matthew McConaughey, 
+Brady Coleman","/name/nm0085312/,/name/nm0000511/,/name/nm0000190/,/name/nm0170952/",61291.0,9203192.0,1
+tt8404614,The Two Popes,2019,PG-13,125 min,"Biography, Comedy, Drama",7.6,"Behind Vatican walls, the conservative Pope Benedict XVI and the liberal future Pope Francis must find common ground to forge a new path for the Catholic Church.",Fernando Meirelles,/name/nm0576987/,"Jonathan Pryce, 
+Anthony Hopkins, 
+Juan Minujín, 
+Luis Gnecco","/name/nm0000596/,/name/nm0000164/,/name/nm1375877/,/name/nm0323483/",126717.0,,1
+tt3488710,The Walk,2015,PG,123 min,"Adventure, Biography, Drama",7.3,"In 1974, high-wire artist Philippe Petit recruits a team of people to help him realize his dream: to walk the immense void between the World Trade Center towers.",Robert Zemeckis,/name/nm0000709/,"Joseph Gordon-Levitt, 
+Charlotte Le Bon, 
+Guillaume Baillargeon, 
+Émilie Leclerc","/name/nm0330687/,/name/nm3114649/,/name/nm2968773/,/name/nm4487667/",130650.0,10137502.0,1
+tt1266029,Nowhere Boy,2009,R,98 min,"Biography, Drama, Music",7.1,"A chronicle of John Lennon's first years, focused mainly in his adolescence and his relationship with his stern aunt Mimi, who raised him, and his absentee mother Julia, who re-entered his life at a crucial moment in his young life.",Sam Taylor-Johnson,/name/nm0853374/,"Aaron Taylor-Johnson, 
+Kristin Scott Thomas, 
+Anne-Marie Duff, 
+David Threlfall","/name/nm1093951/,/name/nm0000218/,/name/nm0240359/,/name/nm0861915/",37626.0,1445366.0,3
+tt4136084,Florence Foster Jenkins,2016,PG-13,111 min,"Biography, Comedy, Drama",6.8,"The story of Florence Foster Jenkins, a New York heiress who dreamed of becoming an opera singer, despite having a terrible singing voice.",Stephen Frears,/name/nm0001241/,"Meryl Streep, 
+Hugh Grant, 
+Simon Helberg, 
+Rebecca Ferguson","/name/nm0000658/,/name/nm0000424/,/name/nm0374865/,/name/nm0272581/",57329.0,27383770.0,3
+tt1124037,Free State of Jones,2016,R,139 min,"Action, Biography, Drama",6.9,A disillusioned Confederate army deserter returns to Mississippi and leads a militia of fellow deserters and women in an uprising against the corrupt local Confederate government.,Gary Ross,/name/nm0002657/,"Matthew McConaughey, 
+Gugu Mbatha-Raw, 
+Mahershala Ali, 
+Keri Russell","/name/nm0000190/,/name/nm1813221/,/name/nm0991810/,/name/nm0005392/",59220.0,20758378.0,2
+tt4622512,Battle of the Sexes,2017,PG-13,121 min,"Biography, Comedy, Drama",6.7,The true story of the 1973 tennis match between World number one Billie Jean King and ex-champ and serial hustler Bobby Riggs.,"Jonathan Dayton, 
+Valerie Faris",/name/nm0206760/,"Emma Stone, 
+Steve Carell, 
+Andrea Riseborough, 
+Sarah Silverman","/name/nm0267512/,/name/nm1297015/,/name/nm0136797/,/name/nm2057859/,/name/nm0798971/",56984.0,12638526.0,3
+tt3296908,The Man with the Iron Heart,2017,R,120 min,"Action, Biography, Thriller",6.4,"As the German Fascists expand their borders, scorching Europe from end to end, two brave Czechs of the Resistance prepare for a suicide mission to assassinate Reinhard Heydrich, the hideous mastermind behind the ""Final Solution"".",Cédric Jimenez,/name/nm1473428/,"Jason Clarke, 
+Rosamund Pike, 
+Jack O'Connell, 
+Jack Reynor","/name/nm0164809/,/name/nm0683253/,/name/nm1925239/,/name/nm2930503/",17478.0,,1
+tt2273657,True Story,2015,R,99 min,"Biography, Crime, Drama",6.3,When disgraced New York Times reporter Michael Finkel meets accused killer Christian Longo - who has taken on Finkel's identity - his investigation morphs into a game of cat-and-mouse.,Rupert Goold,/name/nm3734458/,"James Franco, 
+Jonah Hill, 
+Felicity Jones, 
+Maria Dizzia","/name/nm0290556/,/name/nm1706767/,/name/nm0428065/,/name/nm1978694/",69966.0,4719695.0,1
+tt4899370,Megan Leavey,2017,PG-13,116 min,"Action, Biography, Drama",7.1,Based on the true life story of a young Marine corporal whose unique discipline and bond with her military combat dog saved many lives during their deployment in Iraq.,Gabriela Cowperthwaite,/name/nm1363250/,"Kate Mara, 
+Ramón Rodríguez, 
+Tom Felton, 
+Bradley Whitford","/name/nm0544718/,/name/nm1913125/,/name/nm0271657/,/name/nm0925966/",24727.0,13406304.0,3
+tt1028576,Secretariat,2010,PG,123 min,"Biography, Drama, Family",7.2,"Penny Chenery Tweedy and colleagues guide her long-shot but precocious stallion to set, in 1973, the unbeaten record for winning the Triple Crown.",Randall Wallace,/name/nm0908824/,"Diane Lane, 
+John Malkovich, 
+Margo Martindale, 
+Nelsan Ellis","/name/nm0000178/,/name/nm0000518/,/name/nm0553269/,/name/nm1734700/",29220.0,59713955.0,3
+tt4666726,Christine,2016,R,119 min,"Biography, Drama",6.9,"The story of Christine Chubbuck, a 1970s TV reporter struggling with depression and professional frustrations as she tries to advance her career.",Antonio Campos,/name/nm1290515/,"Rebecca Hall, 
+Michael C. Hall, 
+Tracy Letts, 
+Maria Dizzia","/name/nm0356017/,/name/nm0355910/,/name/nm0504832/,/name/nm1978694/",15828.0,298484.0,3
+tt1655420,My Week with Marilyn,2011,R,99 min,"Biography, Drama",6.9,"Colin Clark, an employee of Sir Laurence Olivier, documents the tense interaction between Olivier and Marilyn Monroe during the production of The Prince and the Showgirl (1957).",Simon Curtis,/name/nm0193508/,"Michelle Williams, 
+Eddie Redmayne, 
+Kenneth Branagh, 
+Julia Ormond","/name/nm0931329/,/name/nm1519666/,/name/nm0000110/,/name/nm0000566/",88097.0,14600347.0,3
+tt1462900,The Grandmaster,2013,PG-13,130 min,"Action, Biography, Drama",6.5,"The story of martial-arts master Ip Man, the man who trained Bruce Lee.",Kar-Wai Wong,/name/nm0939182/,"Tony Chiu-Wai Leung, 
+Ziyi Zhang, 
+Jin Zhang, 
+Chang Chen","/name/nm0504897/,/name/nm0955471/,/name/nm1018221/,/name/nm0151654/",35207.0,6594959.0,1
+tt1666185,All Eyez on Me,2017,R,139 min,"Biography, Drama, Music",5.8,"Tells the true and untold story of prolific rapper, actor, poet and activist Tupac Shakur.",Benny Boom,/name/nm1534600/,"Demetrius Shipp Jr., 
+Danai Gurira, 
+Kat Graham, 
+Annie Ilonzeh","/name/nm7447307/,/name/nm1775091/,/name/nm0334159/,/name/nm2679753/",23790.0,44922302.0,1
+tt1311071,Kill Your Darlings,2013,R,104 min,"Biography, Drama, Romance",6.4,"A murder in 1944 draws together the great poets of the beat generation: Allen Ginsberg, Jack Kerouac, and William Burroughs.",John Krokidas,/name/nm1045865/,"Daniel Radcliffe, 
+Dane DeHaan, 
+Michael C. Hall, 
+Ben Foster","/name/nm0705356/,/name/nm2851530/,/name/nm0355910/,/name/nm0004936/",39378.0,1029949.0,1
+tt2431286,Philomena,2013,PG-13,98 min,"Biography, Comedy, Drama",7.6,"A world-weary political journalist picks up the story of a woman's search for her son, who was taken away from her decades ago after she became pregnant and was forced to live in a convent.",Stephen Frears,/name/nm0001241/,"Judi Dench, 
+Steve Coogan, 
+Sophie Kennedy Clark, 
+Mare Winningham","/name/nm0001132/,/name/nm0176869/,/name/nm4080531/,/name/nm0001858/",101346.0,37707719.0,3
+tt1083452,Eddie the Eagle,2015,PG-13,106 min,"Adventure, Biography, Comedy",7.3,"The story of Eddie Edwards, the notoriously tenacious British underdog ski jumper who charmed the world at the 1988 Winter Olympics.",Dexter Fletcher,/name/nm0002077/,"Taron Egerton, 
+Hugh Jackman, 
+Tom Costello, 
+Jo Hartley","/name/nm5473782/,/name/nm0413168/,/name/nm8030441/,/name/nm0366846/",95377.0,15785632.0,2
+tt1619029,Jackie,2016,R,100 min,"Biography, Drama",6.7,"Following the assassination of President John F. Kennedy, First Lady Jacqueline Kennedy fights through grief and trauma to regain her faith, console her children, and define her husband's historic legacy.",Pablo Larraín,/name/nm1883257/,"Natalie Portman, 
+Peter Sarsgaard, 
+Greta Gerwig, 
+Billy Crudup","/name/nm0000204/,/name/nm0765597/,/name/nm1950086/,/name/nm0001082/",80949.0,13958679.0,3
+tt1291580,Behind the Candelabra,2013,TV-MA,118 min,"Biography, Drama, Music",7.0,A chronicle of the tempestuous six-year romance between megastar singer Liberace and his young lover Scott Thorson.,Steven Soderbergh,/name/nm0001752/,"Michael Douglas, 
+Matt Damon, 
+Scott Bakula, 
+Eric Zuckerman","/name/nm0000140/,/name/nm0000354/,/name/nm0000836/,/name/nm0958420/",44184.0,,1
+tt2058107,The Railway Man,2013,R,116 min,"Biography, Drama, Romance",7.1,"A former British Army officer, who was tortured as a prisoner of war at a Japanese labor camp during World War II, discovers that the man responsible for much of his treatment is still alive and sets out to confront him.",Jonathan Teplitzky,/name/nm0855300/,"Colin Firth, 
+Nicole Kidman, 
+Stellan Skarsgård, 
+Jeremy Irvine","/name/nm0000147/,/name/nm0000173/,/name/nm0001745/,/name/nm3528539/",41181.0,4438438.0,0
+tt1605798,Effie Gray,2014,PG-13,104 min,"Biography, Drama, Romance",6.0,"A look at the scandalous love triangle between Victorian art critic John Ruskin (Greg Wise), his teenage bride Euphemia ""Effie"" Gray (Dakota Fanning), and Pre-Raphaelite painter John Everett Millais (Tom Sturridge).",Richard Laxton,/name/nm0493441/,"Dakota Fanning, 
+Greg Wise, 
+Tom Sturridge, 
+Emma Thompson","/name/nm0266824/,/name/nm0936353/,/name/nm0836432/,/name/nm0000668/",6313.0,343257.0,3
+tt1929263,Heaven Is for Real,2014,PG,99 min,"Biography, Drama, Family",5.8,"A small-town father must find the courage and conviction to share his son's extraordinary, life-changing experience with the world.",Randall Wallace,/name/nm0908824/,"Greg Kinnear, 
+Kelly Reilly, 
+Thomas Haden Church, 
+Connor Corum","/name/nm0001427/,/name/nm0717709/,/name/nm0002006/,/name/nm5889877/",27639.0,91443253.0,2
+tt3289724,Welcome to Marwen,2018,PG-13,116 min,"Biography, Comedy, Drama",6.2,A victim of a brutal attack finds a unique and beautiful therapeutic outlet to help him through his recovery process.,Robert Zemeckis,/name/nm0000709/,"Steve Carell, 
+Falk Hentschel, 
+Matt O'Leary, 
+Nikolai Witschl","/name/nm0136797/,/name/nm1571804/,/name/nm0641610/,/name/nm5775621/",24705.0,10763520.0,2
+tt7615302,Red Joan,2018,R,101 min,"Biography, Drama, History",6.4,"The story of Joan Stanley, who was exposed as the K.G.B.'s longest-serving British spy.",Trevor Nunn,/name/nm0638080/,"Judi Dench, 
+Sophie Cookson, 
+Stephen Campbell Moore, 
+Tom Hughes","/name/nm0001132/,/name/nm5824400/,/name/nm1304386/,/name/nm3433735/",13228.0,1578985.0,3
+tt1658801,Freeheld,2015,PG-13,103 min,"Biography, Drama, Romance",6.6,New Jersey police lieutenant Laurel Hester and her registered domestic partner Stacie Andree battle to secure Hester's pension benefits when she is diagnosed with terminal cancer.,Peter Sollett,/name/nm0813164/,"Julianne Moore, 
+Elliot Page, 
+Steve Carell, 
+Michael Shannon","/name/nm0000194/,/name/nm0680983/,/name/nm0136797/,/name/nm0788335/",12839.0,532988.0,3
+tt1178665,A Walk in the Woods,2015,R,104 min,"Adventure, Biography, Comedy",6.3,"After spending two decades in England, Bill Bryson (Robert Redford) returns to the U.S., where he decides the best way to connect with his homeland is to hike the Appalachian Trail with one of his oldest friends, Stephen Katz (Nick Nolte).",Ken Kwapis,/name/nm0477129/,"Robert Redford, 
+Nick Nolte, 
+Emma Thompson, 
+Mary Steenburgen","/name/nm0000602/,/name/nm0000560/,/name/nm0000668/,/name/nm0005460/",27684.0,29467855.0,2
+tt3906082,Mary Shelley,2017,PG-13,120 min,"Biography, Drama, History",6.4,"Life and facts of Mary Wollstonecraft Godwin, who at 16 met 21 year old poet Percy Shelley, resulting in the writing of Frankenstein.",Haifaa Al-Mansour,/name/nm2223783/,"Elle Fanning, 
+Bel Powley, 
+Owen Richards, 
+Joanne Froggatt","/name/nm1102577/,/name/nm2525790/,/name/nm9494455/,/name/nm0296219/",16485.0,108900.0,3
+tt2006295,The 33,2015,PG-13,127 min,"Biography, Drama, History",6.9,"Based on the real-life event, when a gold and copper mine collapses, it traps 33 miners underground for 69 days.",Patricia Riggen,/name/nm0726638/,"Antonio Banderas, 
+Rodrigo Santoro, 
+Juliette Binoche, 
+James Brolin","/name/nm0000104/,/name/nm0763928/,/name/nm0000300/,/name/nm0000981/",38661.0,12188642.0,3
+tt5160938,Lizzie,2018,R,105 min,"Biography, Crime, Drama",5.9,A psychological thriller based on the infamous 1892 murders of Lizzie Andrew Borden's family.,Craig William Macneill,/name/nm1646022/,"Chloë Sevigny, 
+Kristen Stewart, 
+Jeff Perry, 
+Fiona Shaw","/name/nm0001721/,/name/nm0829576/,/name/nm0675114/,/name/nm0789716/",8487.0,642157.0,1
+tt1276419,A Royal Affair,2012,R,137 min,"Biography, Drama, History",7.5,"A young queen, who is married to an insane king, falls secretly in love with her physician - and together they start a revolution that changes a nation forever.",Nikolaj Arcel,/name/nm1064048/,"Alicia Vikander, 
+Mads Mikkelsen, 
+Mikkel Boe Følsgaard, 
+Trine Dyrholm","/name/nm2539953/,/name/nm0586568/,/name/nm3140538/,/name/nm0245988/",48616.0,1546761.0,3
+tt3268668,Captive,2015,PG-13,97 min,"Action, Biography, Crime",5.4,A single mother struggling with drug addiction is taken hostage in her own apartment by a man on the run who has broken out of jail and murdered the judge assigned to his case.,Jerry Jameson,/name/nm0417054/,"Kate Mara, 
+David Oyelowo, 
+Mimi Rogers, 
+Michael Kenneth Williams","/name/nm0544718/,/name/nm0654648/,/name/nm0000211/,/name/nm0931324/",7035.0,2557668.0,3
+tt8521718,The United States vs. Billie Holiday,2021,R,126 min,"Biography, Drama, Music",6.3,"Follows Holiday during her career as she is targeted by the Federal Department of Narcotics with an undercover sting operation led by black Federal Agent Jimmy Fletcher, with whom she has a tumultuous affair.",Lee Daniels,/name/nm0200005/,"Andra Day, 
+Trevante Rhodes, 
+Garrett Hedlund, 
+Natasha Lyonne","/name/nm7363531/,/name/nm5218990/,/name/nm1330560/,/name/nm0005169/",13746.0,,3
+tt1613750,Kon-Tiki,2012,PG-13,118 min,"Action, Adventure, Biography",7.2,"Legendary explorer Thor Heyerdahl's epic 4,300-mile crossing of the Pacific on a balsawood raft in 1947, in an effort to prove that it was possible for South Americans to settle in Polynesia in pre-Columbian times.","Joachim Rønning, 
+Espen Sandberg",/name/nm1461392/,"Pål Sverre Hagen, 
+Anders Baasmo, 
+Gustaf Skarsgård, 
+Odd-Magnus Williamson","/name/nm1650283/,/name/nm1914298/,/name/nm0471601/,/name/nm0803890/,/name/nm2322351/",50068.0,1517410.0,0
+tt1045772,I Love You Phillip Morris,2009,R,98 min,"Biography, Comedy, Crime",6.6,"A cop turns con man once he comes out of the closet. Once imprisoned, he meets the second love of his life, whom he'll stop at nothing to be with.","Glenn Ficarra, 
+John Requa",/name/nm0275629/,"Jim Carrey, 
+Ewan McGregor, 
+Leslie Mann, 
+Rodrigo Santoro","/name/nm0720135/,/name/nm0000120/,/name/nm0000191/,/name/nm0005182/,/name/nm0763928/",97237.0,2035566.0,1
+tt1386932,Ip Man 2,2010,R,108 min,"Action, Biography, Drama",7.5,Centering on Ip Man's migration to Hong Kong in 1949 as he attempts to propagate his discipline of Wing Chun martial arts.,Wilson Yip,/name/nm0948159/,"Donnie Yen, 
+Xiaoming Huang, 
+Sammo Kam-Bo Hung, 
+Lynn Xiong","/name/nm0947447/,/name/nm2119781/,/name/nm0005033/,/name/nm3237713/",107022.0,205675.0,1
+tt5816682,Victoria & Abdul,2017,PG-13,111 min,"Biography, Comedy, Drama",6.8,Queen Victoria strikes up an unlikely friendship with a young Indian clerk named Abdul Karim.,Stephen Frears,/name/nm0001241/,"Judi Dench, 
+Ali Fazal, 
+Tim Pigott-Smith, 
+Eddie Izzard","/name/nm0001132/,/name/nm3170495/,/name/nm0683116/,/name/nm0412850/",36735.0,22245070.0,2
+tt2368254,A Private War,2018,R,110 min,"Biography, Drama, War",6.7,"One of the most celebrated war correspondents of our time, Marie Colvin is an utterly fearless and rebellious spirit, driven to the frontline of conflicts across the globe to give voice to the voiceless.",Matthew Heineman,/name/nm1292648/,"Rosamund Pike, 
+Alexandra Moen, 
+Tom Hollander, 
+Faye Marsay","/name/nm0683253/,/name/nm1752186/,/name/nm0390903/,/name/nm3849670/",19961.0,1633208.0,1
+tt4645330,Denial,2016,PG-13,109 min,"Biography, Drama",6.7,"Acclaimed writer and historian Deborah E. Lipstadt must battle for historical truth to prove the Holocaust actually occurred when David Irving, a renowned denier, sues her for libel.",Mick Jackson,/name/nm0413875/,"Rachel Weisz, 
+Tom Wilkinson, 
+Timothy Spall, 
+Andrew Scott","/name/nm0001838/,/name/nm0929489/,/name/nm0001758/,/name/nm0778831/",22203.0,4072226.0,3
+tt2888046,Ip Man 3,2015,PG-13,105 min,"Action, Biography, Drama",7.0,"When a band of brutal gangsters led by a crooked property developer make a play to take over a local school, Master Ip is forced to take a stand.",Wilson Yip,/name/nm0948159/,"Donnie Yen, 
+Lynn Xiong, 
+Jin Zhang, 
+Mike Tyson","/name/nm0947447/,/name/nm3237713/,/name/nm1018221/,/name/nm0005512/",56989.0,2679437.0,1
+tt5301662,Marshall,2017,PG-13,118 min,"Biography, Crime, Drama",7.3,"The story of Thurgood Marshall, the crusading lawyer who would become the first African-American Supreme Court Justice, as he battles through one of his career-defining cases.",Reginald Hudlin,/name/nm0399737/,"Chadwick Boseman, 
+Josh Gad, 
+Kate Hudson, 
+Sterling K. Brown","/name/nm1569276/,/name/nm1265802/,/name/nm0005028/,/name/nm1250791/",25074.0,10051659.0,1
+tt1780967,Seberg,2019,R,102 min,"Biography, Drama, Thriller",5.9,"Inspired by real events in the life of French New Wave icon Jean Seberg. In the late 1960s, Hoover's FBI targeted her because of her political and romantic involvement with civil rights activist Hakim Jamal.",Benedict Andrews,/name/nm4970700/,"Kristen Stewart, 
+Yvan Attal, 
+Gabriel Sky, 
+Jack O'Connell","/name/nm0829576/,/name/nm0040939/,/name/nm9982380/,/name/nm1925239/",9435.0,,3
+tt2392830,A Quiet Passion,2016,PG-13,125 min,"Biography, Drama",6.5,"The story of American poet Emily Dickinson from her early days as a young schoolgirl to her later years as a reclusive, unrecognized artist.",Terence Davies,/name/nm0203993/,"Emma Bell, 
+Sara Vertongen, 
+Rose Williams, 
+Benjamin Wainwright","/name/nm0068187/,/name/nm0990095/,/name/nm6216593/,/name/nm7027696/",5989.0,1864266.0,3
+tt1866249,The Sessions,2012,R,95 min,"Biography, Comedy, Drama",7.2,A man in an iron lung who wishes to lose his virginity contacts a professional sex surrogate with the help of his therapist and priest.,Ben Lewin,/name/nm0506802/,"John Hawkes, 
+Helen Hunt, 
+William H. Macy, 
+Moon Bloodgood","/name/nm0370035/,/name/nm0000166/,/name/nm0000513/,/name/nm1291227/",43226.0,6002451.0,2
+tt8430598,Shirley,2020,R,107 min,"Biography, Drama, Horror",6.1,A famous horror writer finds inspiration for her next book after she and her husband take in a young couple.,Josephine Decker,/name/nm2528451/,"Elisabeth Moss, 
+Odessa Young, 
+Michael Stuhlbarg, 
+Logan Lerman","/name/nm0005253/,/name/nm3747611/,/name/nm0836121/,/name/nm0503567/",12097.0,,3
+tt2291540,My Friend Dahmer,2017,R,107 min,"Biography, Drama, Horror",6.2,A young Jeffrey Dahmer struggles to belong in high school.,Marc Meyers,/name/nm1836315/,"Ross Lynch, 
+Alex Wolff, 
+Anne Heche, 
+Vincent Kartheiser","/name/nm3515425/,/name/nm1842974/,/name/nm0000162/,/name/nm0440229/",22146.0,1355664.0,1
+tt3385524,Stan & Ollie,2018,PG,98 min,"Biography, Comedy, Drama",7.2,"Laurel and Hardy, the world's most famous comedy duo, attempt to reignite their film careers as they embark on what becomes their swan song: a grueling theatre tour of post-war Britain.",Jon S. Baird,/name/nm1580671/,"Steve Coogan, 
+John C. Reilly, 
+Shirley Henderson, 
+Nina Arianda","/name/nm0176869/,/name/nm0000604/,/name/nm0376602/,/name/nm3616206/",38271.0,5470235.0,3
+tt3721954,Maudie,2016,PG-13,115 min,"Biography, Drama, Romance",7.6,An arthritic Nova Scotia woman works as a housekeeper while she hones her skills as an artist and eventually becomes a beloved figure in the community.,Aisling Walsh,/name/nm0909532/,"Sally Hawkins, 
+Ethan Hawke, 
+Zachary Bennett, 
+Gabrielle Rose","/name/nm1020089/,/name/nm0000160/,/name/nm0072124/,/name/nm0741388/",19327.0,6170998.0,3
+tt6317656,Penguin Bloom,2020,TV-14,95 min,"Biography, Drama",6.8,A family takes in an injured Magpie that makes a profound difference in their lives.,Glendyn Ivin,/name/nm1380395/,"Naomi Watts, 
+Griffin Murray-Johnston, 
+Andrew Lincoln, 
+Essi Murray-Johnston","/name/nm0915208/,/name/nm10881822/,/name/nm0511088/,/name/nm12270579/",11100.0,,3
+tt1742044,Jersey Boys,2014,R,134 min,"Biography, Drama, Music",6.8,The story of four young men from the wrong side of the tracks in New Jersey who came together to form the iconic 1960s rock group The Four Seasons.,Clint Eastwood,/name/nm0000142/,"John Lloyd Young, 
+Erich Bergen, 
+Michael Lomenda, 
+Vincent Piazza","/name/nm1638365/,/name/nm2706992/,/name/nm4608989/,/name/nm1842344/",35446.0,47034272.0,2
+tt4183692,Woodlawn,2015,PG,123 min,"Biography, Drama, History",6.4,A gifted high-school football player must learn to embrace his talent and his faith as he battles racial tensions on and off the field.,"Andrew Erwin, 
+Jon Erwin",/name/nm3401779/,"Caleb Castille, 
+Sean Astin, 
+Jon Voight, 
+C. Thomas Howell","/name/nm2296528/,/name/nm6899488/,/name/nm0000276/,/name/nm0000685/,/name/nm0001367/",7461.0,14393862.0,1
+tt1629757,Chasing Mavericks,2012,PG,116 min,"Biography, Drama, Sport",7.1,"When young Jay Moriarity discovers that the mythic Mavericks surf break, one of the biggest waves on Earth, exists just miles from his Santa Cruz home, he enlists the help of local legend Frosty Hesson to train him to survive it.","Michael Apted, 
+Curtis Hanson",/name/nm0000776/,"Jonny Weston, 
+Gerard Butler, 
+Elisabeth Shue, 
+Abigail Spencer","/name/nm0000436/,/name/nm4103976/,/name/nm0124930/,/name/nm0000223/,/name/nm0817844/",33448.0,6002756.0,2
+tt4669986,Loving,2016,PG-13,123 min,"Biography, Drama, Romance",7.0,"The story of Richard and Mildred Loving, a couple whose arrest for interracial marriage in 1960s Virginia began a legal battle that would end with the Supreme Court's historic 1967 decision.",Jeff Nichols,/name/nm2158772/,"Ruth Negga, 
+Joel Edgerton, 
+Will Dalton, 
+Dean Mumford","/name/nm1550948/,/name/nm0249291/,/name/nm3286200/,/name/nm0612583/",35105.0,7696098.0,3
+tt4196450,The Birth of a Nation,2016,R,120 min,"Biography, Drama, History",6.5,"Nat Turner, a literate slave and preacher in the antebellum South, orchestrates an uprising.",Nate Parker,/name/nm1676649/,"Nate Parker, 
+Armie Hammer, 
+Penelope Ann Miller, 
+Jackie Earle Haley","/name/nm1676649/,/name/nm2309517/,/name/nm0000542/,/name/nm0355097/",21388.0,15858754.0,1
+tt5175450,Mark Felt: The Man Who Brought Down the White House,2017,PG-13,103 min,"Biography, Drama, History",6.4,"The story of Mark Felt, who under the name ""Deep Throat"" helped journalists Bob Woodward and Carl Bernstein uncover the Watergate scandal in 1972.",Peter Landesman,/name/nm1481618/,"Liam Neeson, 
+Diane Lane, 
+Marton Csokas, 
+Tony Goldwyn","/name/nm0000553/,/name/nm0000178/,/name/nm0190744/,/name/nm0001282/",13929.0,768946.0,2
+tt4807408,The Best of Enemies,2019,PG-13,133 min,"Biography, Drama, History",7.3,"Civil rights activist Ann Atwater faces off against C.P. Ellis, Exalted Cyclops of the Ku Klux Klan, in 1971 Durham, North Carolina over the issue of school integration.",Robin Bissell,/name/nm0084312/,"Taraji P. Henson, 
+Sam Rockwell, 
+Babou Ceesay, 
+Anne Heche","/name/nm0378245/,/name/nm0005377/,/name/nm1959501/,/name/nm0000162/",17814.0,10205616.0,3
+tt1130080,The Informant!,2009,R,108 min,"Biography, Comedy, Crime",6.5,"The U.S. government decides to go after an agro-business giant with a price-fixing accusation, based on the evidence submitted by their star witness, vice president-turned-informant Mark Whitacre.",Steven Soderbergh,/name/nm0001752/,"Matt Damon, 
+Tony Hale, 
+Patton Oswalt, 
+Lucas McHugh Carroll","/name/nm0000354/,/name/nm0355024/,/name/nm0652663/,/name/nm3488879/",65958.0,33313582.0,1
+tt2167266,Tracks,2013,PG-13,112 min,"Adventure, Biography, Drama",7.1,"A young woman goes on a 1,700-mile trek across the deserts of West Australia with four camels and her faithful dog.",John Curran,/name/nm0192845/,"Mia Wasikowska, 
+Adam Driver, 
+Lily Pearl, 
+Philip Dodd","/name/nm1985859/,/name/nm3485845/,/name/nm5659346/,/name/nm0230109/",30190.0,508806.0,3
+tt1647668,Million Dollar Arm,2014,PG,124 min,"Biography, Drama, Sport",7.0,A sports agent stages an unconventional recruitment strategy to get talented Indian cricket players to play Major League Baseball.,Craig Gillespie,/name/nm0318916/,"Jon Hamm, 
+Aasif Mandvi, 
+Alan Arkin, 
+Suraj Sharma","/name/nm0358316/,/name/nm0541902/,/name/nm0000273/,/name/nm4139037/",46700.0,36447959.0,1
+tt4084744,Battle for Sevastopol,2015,,110 min,"Action, Biography, Drama",7.0,"A story of Lyudmila Pavlichenko, the most successful female sniper in history.",Sergey Mokritskiy,/name/nm0596364/,"Yuliya Peresild, 
+Evgeniy Tsyganov, 
+Oleg Vasilkov, 
+Nikita Tarasov","/name/nm2099738/,/name/nm1142921/,/name/nm0890548/,/name/nm1649967/",12967.0,,3
+tt2473602,Get on Up,2014,PG-13,139 min,"Biography, Drama, Music",6.9,A chronicle of James Brown's rise from extreme poverty to become one of the most influential musicians in history.,Tate Taylor,/name/nm0853238/,"Chadwick Boseman, 
+Nelsan Ellis, 
+Dan Aykroyd, 
+Viola Davis","/name/nm1569276/,/name/nm1734700/,/name/nm0000101/,/name/nm0205626/",25271.0,30513940.0,2
+tt1259014,Mesrine: Killer Instinct,2008,R,113 min,"Action, Biography, Crime",7.5,"The story of the notorious French gangster Jacques Mesrine, with the focus on his life before the early 1970s and the events that led to him being declared Public Enemy No. 1 in France.",Jean-François Richet,/name/nm0724938/,"Vincent Cassel, 
+Cécile de France, 
+Gérard Depardieu, 
+Gilles Lellouche","/name/nm0001993/,/name/nm0208426/,/name/nm0000367/,/name/nm0500976/",34323.0,551660.0,1
+tt2095649,Grace of Monaco,2014,Not Rated,103 min,"Biography, Drama, Romance",5.7,"The story of former Hollywood star Grace Kelly's crisis of marriage and identity, during a political dispute between Monaco's Prince Rainier III and France's Charles De Gaulle, and a looming French invasion of Monaco in the early 1960s.",Olivier Dahan,/name/nm0196860/,"Nicole Kidman, 
+Tim Roth, 
+André Penvern, 
+Frank Langella","/name/nm0000173/,/name/nm0000619/,/name/nm0672422/,/name/nm0001449/",20512.0,,3
+tt2473794,Mr. Turner,2014,R,150 min,"Biography, Drama, History",6.8,"An exploration of the last quarter century of the great, if eccentric, British painter J.M.W. Turner's life.",Mike Leigh,/name/nm0005139/,"Timothy Spall, 
+Paul Jesson, 
+Dorothy Atkinson, 
+Marion Bailey","/name/nm0001758/,/name/nm0422234/,/name/nm0040709/,/name/nm0047392/",26325.0,3958546.0,1
+tt4341582,Queen of Katwe,2016,PG,124 min,"Biography, Drama, Sport",7.4,A Ugandan girl sees her world rapidly change after being introduced to the game of chess.,Mira Nair,/name/nm0619762/,"Madina Nalwanga, 
+David Oyelowo, 
+Lupita Nyong'o, 
+Martin Kabanza","/name/nm8136461/,/name/nm0654648/,/name/nm2143282/,/name/nm8421695/",17844.0,8805918.0,3
+tt1441953,Testament of Youth,2014,PG-13,129 min,"Biography, Drama, History",7.2,"A British woman recalls coming of age during World War I - a story of young love, the futility of war, and how to make sense of the darkest times.",James Kent,/name/nm0448757/,"Alicia Vikander, 
+Kit Harington, 
+Taron Egerton, 
+Dominic West","/name/nm2539953/,/name/nm3229685/,/name/nm5473782/,/name/nm0922035/",29457.0,1822030.0,3
+tt7262882,Master Z: The Ip Man Legacy,2018,Not Rated,107 min,"Action, Biography, Crime",6.5,"While keeping a low profile after his defeat by Ip Man, Cheung Tin Chi gets into trouble after getting in a fight with a powerful foreigner.",Woo-Ping Yuen,/name/nm0950759/,"Jin Zhang, 
+Dave Bautista, 
+Michelle Yeoh, 
+Tony Jaa","/name/nm1018221/,/name/nm1176985/,/name/nm0000706/,/name/nm1388074/",9091.0,6209454.0,3
+tt1837703,The Fifth Estate,2013,R,128 min,"Biography, Crime, Drama",6.2,A dramatic thriller based on real events that reveals the quest to expose the deceptions and corruptions of power that turned an Internet upstart into the 21st century's most fiercely debated organization.,Bill Condon,/name/nm0174374/,"Benedict Cumberbatch, 
+Daniel Brühl, 
+Carice van Houten, 
+Alicia Vikander","/name/nm1212722/,/name/nm0117709/,/name/nm0396924/,/name/nm2539953/",41749.0,3254172.0,1
+tt10307724,Madame Claude,2021,TV-MA,112 min,"Biography, Crime, Drama",5.4,"Paris, in the late 1960s. Madame Claude is at the head of a flourishing business dedicated to prostitution that gives her power over both the French political and criminal worlds. But the end of her empire is closer than she thinks.",Sylvie Verheyde,/name/nm0894173/,"Karole Rocher, 
+Garance Marillier, 
+Roschdy Zem, 
+Pierre Deladonchamps","/name/nm0430629/,/name/nm4469165/,/name/nm0954704/,/name/nm1731624/",3642.0,,3
+tt2304771,Mandela: Long Walk to Freedom,2013,PG-13,141 min,"Biography, Drama, History",7.1,A chronicle of Nelson Mandela's life journey from his childhood in a rural village through to his inauguration as the first democratically elected president of South Africa.,Justin Chadwick,/name/nm0149491/,"Idris Elba, 
+Naomie Harris, 
+Terry Pheto, 
+Robert Hobbs","/name/nm0252961/,/name/nm0365140/,/name/nm1965907/,/name/nm1193091/",28371.0,8323085.0,1
+tt1129445,Amelia,2009,PG,111 min,"Adventure, Biography, Drama",5.8,"A look at the life of legendary American pilot Amelia Earhart, who disappeared while flying over the Pacific Ocean in 1937 in an attempt to make a flight around the world.",Mira Nair,/name/nm0619762/,"Hilary Swank, 
+Richard Gere, 
+Ewan McGregor, 
+Christopher Eccleston","/name/nm0005476/,/name/nm0000152/,/name/nm0000191/,/name/nm0001172/",13029.0,14241034.0,3
+tt3722070,The Lady in the Van,2015,PG-13,104 min,"Biography, Comedy, Drama",6.7,A man forms an unexpected bond with a transient woman living in her van that's parked in his driveway.,Nicholas Hytner,/name/nm0405336/,"Maggie Smith, 
+Alex Jennings, 
+Jim Broadbent, 
+Clare Hammond","/name/nm0001749/,/name/nm0421105/,/name/nm0000980/,/name/nm5297113/",30131.0,10017675.0,3
+tt1435513,Hysteria,2011,R,100 min,"Biography, Comedy, Romance",6.7,The truth of how Mortimer Granville devised the invention of the first vibrator in the name of medical science.,Tanya Wexler,/name/nm0923330/,"Maggie Gyllenhaal, 
+Hugh Dancy, 
+Jonathan Pryce, 
+Felicity Jones","/name/nm0350454/,/name/nm0199215/,/name/nm0000596/,/name/nm0428065/",32384.0,1800000.0,3
+tt2652092,The Good Lie,2014,PG-13,110 min,"Biography, Drama",7.4,"A group of Sudanese refugees, given the chance to resettle in the U.S., arrive in Kansas City, Missouri, where their encounter with an employment agency counselor forever changes all of their lives.",Philippe Falardeau,/name/nm0265852/,"Reese Witherspoon, 
+Arnold Oceng, 
+Ger Duany, 
+Emmanuel Jal","/name/nm0000702/,/name/nm0643668/,/name/nm1563346/,/name/nm2897500/",29114.0,2716989.0,3
+tt7074886,The Front Runner,2018,R,113 min,"Biography, Drama, History",6.1,"In 1987, U.S. Senator Gary Hart's presidential campaign is derailed when he's caught in a scandalous love affair.",Jason Reitman,/name/nm0718646/,"Hugh Jackman, 
+Vera Farmiga, 
+J.K. Simmons, 
+Mark O'Brien","/name/nm0413168/,/name/nm0267812/,/name/nm0799777/,/name/nm1975628/",13616.0,2000105.0,2
+tt1127896,Taking Woodstock,2009,R,120 min,"Biography, Comedy, Drama",6.7,A man working at his parents' motel in the Catskills inadvertently sets in motion the generation-defining concert in the summer of 1969.,Ang Lee,/name/nm0000487/,"Demetri Martin, 
+Henry Goodman, 
+Edward Hibbert, 
+Imelda Staunton","/name/nm1336595/,/name/nm0329094/,/name/nm0382503/,/name/nm0001767/",29510.0,7443007.0,1
+tt9024106,Unplanned,2019,R,109 min,"Biography, Drama",5.5,"All Abby Johnson ever wanted to do was help women. As one of the youngest Planned Parenthood clinic directors in the nation, she believed in a woman's right to choose. Until the day she saw something that changed everything.","Chuck Konzelman, 
+Cary Solomon",/name/nm0465484/,"Ashley Bratcher, 
+Brooks Ryan, 
+Robia Scott, 
+Jared Lotz","/name/nm0813301/,/name/nm5123098/,/name/nm5618577/,/name/nm0478750/,/name/nm5237225/",14195.0,18988743.0,3
+tt1244754,Conviction,2010,R,107 min,"Biography, Crime, Drama",7.2,"A working mother puts herself through law school in an effort to represent her brother, who has been wrongfully convicted of murder and has exhausted his chances to appeal his conviction through public defenders.",Tony Goldwyn,/name/nm0001282/,"Hilary Swank, 
+Sam Rockwell, 
+Melissa Leo, 
+Thomas D. Mahard","/name/nm0005476/,/name/nm0005377/,/name/nm0502425/,/name/nm0536780/",44908.0,6783129.0,3
+tt5727282,Borg vs. McEnroe,2017,R,107 min,"Biography, Drama, Sport",6.9,The story of the 1980 tennis rivalry between the placid Björn Borg and the volatile John McEnroe.,Janus Metz,/name/nm2178458/,"Sverrir Gudnason, 
+Shia LaBeouf, 
+Stellan Skarsgård, 
+Tuva Novotny","/name/nm0345695/,/name/nm0479471/,/name/nm0001745/,/name/nm0637259/",32858.0,14113354.0,1
+tt2247476,When the Game Stands Tall,2014,PG,115 min,"Biography, Drama, Family",6.6,"The journey of legendary football coach Bob Ladouceur, who took the De La Salle High School Spartans from obscurity to a 151-game winning streak that shattered all records for any American sport.",Thomas Carter,/name/nm0141961/,"Jim Caviezel, 
+Alexander Ludwig, 
+Michael Chiklis, 
+Laura Dern","/name/nm0001029/,/name/nm1573253/,/name/nm0004821/,/name/nm0000368/",16344.0,30127963.0,1
+tt1035736,Coco Before Chanel,2009,PG-13,105 min,"Biography, Drama",6.7,The story of Coco Chanel's rise from obscure beginnings to the heights of the fashion world.,Anne Fontaine,/name/nm0284774/,"Audrey Tautou, 
+Benoît Poelvoorde, 
+Alessandro Nivola, 
+Marie Gillain","/name/nm0851582/,/name/nm0688143/,/name/nm0005273/,/name/nm0002100/",41141.0,6109075.0,3
+tt1430615,Big Miracle,2012,PG,107 min,"Biography, Drama, Family",6.5,"In small-town Alaska, a news reporter recruits his Greenpeace-volunteer ex-girlfriend on a campaign to save a family of gray whales trapped by rapidly-forming ice in the Arctic Circle.",Ken Kwapis,/name/nm0477129/,"Drew Barrymore, 
+John Krasinski, 
+John Pingayak, 
+Ahmaogak Sweeney","/name/nm0000106/,/name/nm1024677/,/name/nm4870585/,/name/nm4577626/",20018.0,20113965.0,3
+tt11007444,Tove,2020,,103 min,"Biography, Drama, History",6.8,"The movie centres on the life of Tove Jansson, showing both her personal relationships, and the creation of the popular Moomin books.",Zaida Bergroth,/name/nm1039438/,"Alma Pöysti, 
+Krista Kosonen, 
+Shanti Roney, 
+Joanna Haartti","/name/nm1728830/,/name/nm1279980/,/name/nm0740075/,/name/nm2478138/",3097.0,,3
+tt1254322,The Girl King,2015,Not Rated,106 min,"Biography, Drama, History",5.8,"THE GIRL KING paints a portrait of the brilliant, extravagant Kristina of Sweden, queen from age six, who fights the conservative forces that are against her ideas to modernize Sweden and who have no tolerance for her awakening sexuality.",Mika Kaurismäki,/name/nm0442455/,"Malin Buska, 
+Sarah Gadon, 
+Michael Nyqvist, 
+Lucas Bryant","/name/nm4274360/,/name/nm0300589/,/name/nm0638824/,/name/nm1674903/",4248.0,,3
+tt1700845,The Invisible Woman,2013,R,111 min,"Biography, Drama, History",6.1,"At the height of his career, Charles Dickens meets a younger woman who becomes his secret lover until his death.",Ralph Fiennes,/name/nm0000146/,"Ralph Fiennes, 
+Felicity Jones, 
+Kristin Scott Thomas, 
+Tom Hollander","/name/nm0000146/,/name/nm0428065/,/name/nm0000218/,/name/nm0390903/",10136.0,1234254.0,3
+tt1673697,The Sapphires,2012,PG-13,103 min,"Biography, Comedy, Drama",7.0,"It's 1968, and four young, talented Australian Aboriginal girls learn about love, friendship and war when their all-girl group The Sapphires entertain the US troops in Vietnam.",Wayne Blair,/name/nm0992370/,"Chris O'Dowd, 
+Deborah Mailman, 
+Jessica Mauboy, 
+Shari Sebbens","/name/nm1483369/,/name/nm0537648/,/name/nm2371735/,/name/nm3996908/",14713.0,2448455.0,3
+tt1054588,Flash of Genius,2008,PG-13,119 min,"Biography, Drama",7.0,Robert Kearns takes on the Detroit automakers who he claims stole his idea for the intermittent windshield wiper.,Marc Abraham,/name/nm0008953/,"Greg Kinnear, 
+Lauren Graham, 
+Alan Alda, 
+Tim Eddis","/name/nm0001427/,/name/nm0334179/,/name/nm0000257/,/name/nm1537811/",17379.0,4234040.0,1
+tt1054580,Desert Flower,2009,R,120 min,"Biography, Drama",7.3,"Waris Dirie, born 1965 in Somalia, flees at 13 when sold as 4th wife. She's maid at the Somalian embassy in London, then McDonald's, where she's discovered and becomes int'l top model. 1997, she speaks up against female genital mutilation.",Sherry Hormann,/name/nm0394776/,"Soraya Omar-Scego, 
+Idriss Abdillahi Houfaneh, 
+Awa Saïd Darar, 
+Roun Daher Aïnan","/name/nm3094966/,/name/nm5101259/,/name/nm5101419/,/name/nm5100267/",13578.0,44348.0,3
+tt3387266,A United Kingdom,2016,PG-13,111 min,"Biography, Drama, History",6.9,"The story of King Seretse Khama of Botswana and how his loving but controversial marriage to a British white woman, Ruth Williams, put his kingdom into political and diplomatic turmoil.",Amma Asante,/name/nm1392994/,"David Oyelowo, 
+Rosamund Pike, 
+Tom Felton, 
+Jack Davenport","/name/nm0654648/,/name/nm0683253/,/name/nm0271657/,/name/nm0202603/",16496.0,3901302.0,3
+tt3726704,Experimenter,2015,PG-13,98 min,"Biography, Drama, History",6.6,"In 1961, famed social psychologist Stanley Milgram conducted a series of radical behavior experiments that tested ordinary humans' willingness to obey authority.",Michael Almereyda,/name/nm0021899/,"John Palladino, 
+Anthony Edwards, 
+Jim Gaffigan, 
+Peter Sarsgaard","/name/nm3746649/,/name/nm0000381/,/name/nm0300712/,/name/nm0765597/",18895.0,155075.0,2
+tt3110960,Jimmy's Hall,2014,PG-13,109 min,"Biography, Drama, History",6.7,"During the Depression, Jimmy Gralton returns home to Ireland after ten years of exile in America. Seeing the levels of poverty and oppression, the activist in him reawakens and he looks to re-open the dance hall that led to his deportation.",Ken Loach,/name/nm0516360/,"Barry Ward, 
+Francis Magee, 
+Aileen Henry, 
+Simone Kirby","/name/nm0911395/,/name/nm0535837/,/name/nm5879255/,/name/nm2034064/",6647.0,560341.0,1
+tt2948840,Life,2015,R,111 min,"Biography, Drama",6.0,A photographer for LIFE Magazine is assigned to shoot pictures of James Dean.,Anton Corbijn,/name/nm0179221/,"Robert Pattinson, 
+Dane DeHaan, 
+Peter Lucas, 
+Lauren Gallagher","/name/nm1500155/,/name/nm2851530/,/name/nm0524255/,/name/nm3418305/",8576.0,,3
+tt1221208,Frankie & Alice,2010,R,101 min,"Biography, Drama",6.4,A drama centered on a go-go dancer with multiple personality disorder who struggles to remain her true self and begins working with a psychotherapist to uncover the mystery of the inner ghosts that haunt her.,Geoffrey Sax,/name/nm0768249/,"Halle Berry, 
+Stellan Skarsgård, 
+Phylicia Rashad, 
+Chandra Wilson","/name/nm0000932/,/name/nm0001745/,/name/nm0711118/,/name/nm0933156/",5648.0,693181.0,3
+tt1674773,Hannah Arendt,2012,Not Rated,113 min,"Biography, Drama",7.1,"A look at the life of philosopher and political theorist Hannah Arendt, who reported for 'The New Yorker' on the trial of the Nazi leader Adolf Eichmann in Jerusalem.",Margarethe von Trotta,/name/nm0903137/,"Barbara Sukowa, 
+Axel Milberg, 
+Janet McTeer, 
+Julia Jentsch","/name/nm0837784/,/name/nm0586923/,/name/nm0005216/,/name/nm0421799/",11591.0,714442.0,3
+tt2150332,Renoir,2012,R,111 min,"Biography, Drama, History",6.5,"Set on the French Riviera in the summer of 1915, Jean Renoir -- son of the Impressionist painter, Pierre-Auguste -- returns home to convalesce after being wounded in World War I. At his ...                See full summary »",Gilles Bourdos,/name/nm0099841/,"Michel Bouquet, 
+Christa Théret, 
+Vincent Rottiers, 
+Thomas Doret","/name/nm0099677/,/name/nm1817887/,/name/nm1196219/,/name/nm4461361/",5813.0,2291047.0,3
+tt1477855,Hyde Park on Hudson,2012,R,94 min,"Biography, Comedy, Drama",5.9,"The story of the love affair between FDR and his distant cousin Margaret ""Daisy"" Suckley, centered around the weekend in 1939 when the King and Queen of the United Kingdom visited upstate New York.",Roger Michell,/name/nm0585011/,"Bill Murray, 
+Laura Linney, 
+Olivia Williams, 
+Samuel West","/name/nm0000195/,/name/nm0001473/,/name/nm0931404/,/name/nm0922335/",12098.0,6367780.0,2
+tt1621046,Cesar Chavez,2014,PG-13,102 min,"Biography, Drama",6.4,A biography of the civil-rights activist and labor organizer Cesar Chavez.,Diego Luna,/name/nm0526019/,"Michael Peña, 
+America Ferrera, 
+Rosario Dawson, 
+John Malkovich","/name/nm0671567/,/name/nm1065229/,/name/nm0206257/,/name/nm0000518/",3496.0,5550866.0,3
+tt5687334,Godard Mon Amour,2017,R,107 min,"Biography, Comedy, Drama",6.6,"In 1967, during the making of ""La Chinoise,"" film director Jean-Luc Godard falls in love with 19-year-old actress Anne Wiazemsky and marries her.",Michel Hazanavicius,/name/nm0371890/,"Louis Garrel, 
+Stacy Martin, 
+Bérénice Bejo, 
+Micha Lescot","/name/nm0308039/,/name/nm5237479/,/name/nm0067367/,/name/nm0503919/",5669.0,82264.0,1
+tt2707858,Yves Saint Laurent,2014,R,106 min,"Biography, Drama",6.2,"A look at the life of French designer Yves Saint-Laurent from the beginning of his career in 1958 when he met his lover and business partner, Pierre Bergé.",Jalil Lespert,/name/nm0504267/,"Pierre Niney, 
+Guillaume Gallienne, 
+Charlotte Le Bon, 
+Laura Smet","/name/nm2582755/,/name/nm0302916/,/name/nm3114649/,/name/nm1357722/",12572.0,716679.0,2
+tt3977462,Full Out,2015,TV-PG,90 min,"Biography, Drama, Family",6.3,A young gymnast's Olympic aspirations are crushed after a debilitating accident.,Sean Cisterna,/name/nm1439785/,"Ana Golja, 
+Jennifer Beals, 
+Sarah Fisher, 
+Asha Ashanti","/name/nm3132111/,/name/nm0000884/,/name/nm5162352/,/name/nm4329459/",2872.0,,3
+tt2098628,Augustine,2012,Not Rated,102 min,"Biography, Drama, History",6.1,"A look at the relationship between pioneering 19th century French neurologist Dr. Jean-Martin Charcot and his star teenage patient, a kitchen maid who is left partially paralyzed after a seizure.",Alice Winocour,/name/nm1356951/,"Vincent Lindon, 
+Stéphan Wojtowicz, 
+Soko, 
+Chiara Mastroianni","/name/nm0512071/,/name/nm1904769/,/name/nm1331316/,/name/nm0557859/",1577.0,107114.0,3
+tt1438216,Oranges and Sunshine,2010,R,105 min,"Biography, Drama, History",7.1,"Set in 1980s Nottingham, social worker Margaret Humphreys holds the British government accountable for child migration schemes and reunites the children involved -- now adults living mostly in Australia -- with their parents in Britain.",Jim Loach,/name/nm1425385/,"Emily Watson, 
+Aisling Loftus, 
+Stuart Wolfenden, 
+Lorraine Ashbourne","/name/nm0001833/,/name/nm1528026/,/name/nm0938176/,/name/nm0038690/",5700.0,,3
+tt1194417,Casino Jack,2010,R,108 min,"Biography, Comedy, Crime",6.2,A hot shot Washington DC lobbyist and his protégé go down hard as their schemes to peddle influence lead to corruption and murder.,George Hickenlooper,/name/nm0382584/,"Kevin Spacey, 
+Barry Pepper, 
+Jon Lovitz, 
+Ruth Marshall","/name/nm0000228/,/name/nm0001608/,/name/nm0001484/,/name/nm0551154/",17396.0,1039869.0,1
+tt1951216,The Look of Love,2013,Not Rated,101 min,"Biography, Comedy, Drama",6.0,"The life of Paul Raymond, the controversial entrepreneur who became Britain's richest man.",Michael Winterbottom,/name/nm0935863/,"Steve Coogan, 
+Matt Lucas, 
+Anna Friel, 
+Imogen Poots","/name/nm0176869/,/name/nm0524240/,/name/nm0295484/,/name/nm1782299/",7123.0,21252.0,3
+tt4698584,Neruda,2016,R,107 min,"Biography, Crime, Drama",6.8,"An inspector hunts down Nobel Prize-winning Chilean poet, Pablo Neruda, who becomes a fugitive in his home country in the late 1940s for joining the Communist Party.",Pablo Larraín,/name/nm1883257/,"Gael García Bernal, 
+Luis Gnecco, 
+Mercedes Morán, 
+Emilio Gutiérrez Caba","/name/nm0305558/,/name/nm0323483/,/name/nm0608187/,/name/nm0349427/",10649.0,939101.0,0
+tt2401715,The Devil's Violinist,2013,R,122 min,"Biography, Drama, Musical",6.0,"19th Century violinist and composer Niccolò Paganini incurs the wrath of his diabolical manager while preparing for his debut performance in London, and falling for the daughter of an English impresario.",Bernard Rose,/name/nm0741262/,"David Garrett, 
+Jared Harris, 
+Joely Richardson, 
+Christian McKay","/name/nm1075603/,/name/nm0364813/,/name/nm0000613/,/name/nm1605114/",3668.0,,3
+tt2217458,Reaching for the Moon,2013,Not Rated,118 min,"Biography, Drama, History",6.9,A chronicle of the tragic love affair between American poet Elizabeth Bishop and Brazilian architect Lota de Macedo Soares.,Bruno Barreto,/name/nm0000853/,"Glória Pires, 
+Miranda Otto, 
+Tracy Middendorf, 
+Marcello Airoldi","/name/nm0685123/,/name/nm0001584/,/name/nm0585429/,/name/nm3610616/",3383.0,43838.0,3
+tt4258698,Southside with You,2016,PG-13,84 min,"Biography, Drama, History",6.3,"Chronicles the 1989 summer afternoon when the future President of the United States, Barack Obama, wooed his future First Lady, Michelle Obama, on a first date across Chicago's South Side.",Richard Tanne,/name/nm1973681/,"Tika Sumpter, 
+Parker Sawyers, 
+Vanessa Bell Calloway, 
+Phillip Edward Van Lear","/name/nm1754366/,/name/nm4554036/,/name/nm0068599/,/name/nm0887363/",9963.0,6303853.0,2
+tt1734110,No One Killed Jessica,2011,,136 min,"Biography, Crime, Drama",7.2,"A journalist, who is more of an activist teams up with the sister of a murdered model, as she gets interested in the case and wants to bring justice to her case.",Raj Kumar Gupta,/name/nm2955107/,"Rani Mukerji, 
+Vidya Balan, 
+Myra Karn, 
+Neil Bhoopalam","/name/nm0611552/,/name/nm1799038/,/name/nm4252343/,/name/nm2161624/",11993.0,440525.0,3
+tt1049402,Howl,2010,R,84 min,"Biography, Drama, Romance",6.6,"As Allen Ginsberg talks about his life and art, his most famous poem is illustrated in animation while the obscenity trial of the work is dramatized.","Rob Epstein, 
+Jeffrey Friedman",/name/nm0258531/,"James Franco, 
+Todd Rotondi, 
+Jon Prescott, 
+Aaron Tveit","/name/nm0295243/,/name/nm0290556/,/name/nm0745403/,/name/nm2062720/,/name/nm3117836/",13153.0,617334.0,0
+tt2094877,Haute Cuisine,2012,PG-13,95 min,"Biography, Comedy",6.4,The story of Danièle Delpeuch and how she was appointed as the private chef for François Mitterrand.,Christian Vincent,/name/nm0898603/,"Catherine Frot, 
+Arthur Dupont, 
+Jean d'Ormesson, 
+Hippolyte Girardot","/name/nm0296594/,/name/nm1570563/,/name/nm0195883/,/name/nm0320762/",6582.0,212072.0,3
+tt1920945,Good Vibrations,2012,Not Rated,103 min,"Biography, Drama, Music",7.2,"A chronicle of Terri Hooley's life, a record-store owner instrumental in developing Belfast's punk-rock scene.","Lisa Barros D'Sa, 
+Glenn Leyburn",/name/nm2443600/,"Cathal Maguire, 
+Peter Kelly, 
+Charlie Berkeley, 
+Jack Carberry","/name/nm2441296/,/name/nm5647513/,/name/nm5647518/,/name/nm5701256/,/name/nm13704883/",5282.0,,3
+tt2752688,Rosewater,2014,R,103 min,"Biography, Drama",6.6,Iranian-Canadian journalist Maziar Bahari is detained by Iranian forces who brutally interrogate him under suspicion that he is a spy.,Jon Stewart,/name/nm0829537/,"Gael García Bernal, 
+Kim Bodnia, 
+Dimitri Leonidas, 
+Haluk Bilginer","/name/nm0305558/,/name/nm0091035/,/name/nm0503059/,/name/nm0082211/",10816.0,3128941.0,1
+tt6204018,Ted - Show Me Love,2018,,120 min,"Biography, Drama, Music",7.0,The life of Swedish pop star Ted Gärdestad.,Hannes Holm,/name/nm0391502/,"Hanna Alström, 
+Adam Pålsson, 
+Jonas Karlsson, 
+Peter Viitanen","/name/nm0022609/,/name/nm1717138/,/name/nm0439642/,/name/nm0897194/",3548.0,,0
+tt1048171,Seraphine,2008,Unrated,125 min,"Biography, Drama",7.4,"In 1912 German collector Wilhelm Uhde rents a flat in Senlis to write and take a break from Parisian life. He hires a 48-year old cleaning lady, Séraphine. Some time later, he notices a small painting on wood at a local notable home.",Martin Provost,/name/nm0699095/,"Yolande Moreau, 
+Ulrich Tukur, 
+Anne Bennent, 
+Geneviève Mnich","/name/nm0603446/,/name/nm0876300/,/name/nm0071501/,/name/nm0594885/",6355.0,881839.0,3
+tt2450440,The Last of Robin Hood,2013,R,94 min,"Biography, Drama, Romance",5.7,The last days in the life of legendary Hollywood actor Errol Flynn.,"Richard Glatzer, 
+Wash Westmoreland",/name/nm0322144/,"John Hudson Messerall, 
+Brian Bascle, 
+Daniel J. Clancy, 
+Kelly O'Neal","/name/nm0922903/,/name/nm3027401/,/name/nm2267906/,/name/nm3330464/,/name/nm0641914/",2312.0,269642.0,3
+tt2018086,Camille Claudel 1915,2013,Not Rated,95 min,"Biography, Drama",6.5,"Winter, 1915. Confined by her family to an asylum in the South of France - where she will never sculpt again - the chronicle of Camille Claudel's reclusive life, as she waits for a visit from her brother, Paul Claudel.",Bruno Dumont,/name/nm0241622/,"Juliette Binoche, 
+Jean-Luc Vincent, 
+Jessica Errero, 
+Robert Leroy","/name/nm0000300/,/name/nm4885097/,/name/nm4581120/,/name/nm5478174/",3737.0,21960.0,3
+tt2412568,Ragamuffin,2014,PG-13,137 min,"Biography, Drama, Music",6.7,A musical prodigy rises to Christian music fame and fortune only to walk away and live on a Navajo reservation.,David Leo,/name/nm1932967/,"Michael Koch, 
+David Leo, 
+Mel Fair, 
+Carson Aune","/name/nm4669731/,/name/nm1932967/,/name/nm1292126/,/name/nm2827409/",1204.0,,2
+tt3257692,Starving in Suburbia,2014,TV-14,84 min,"Biography, Drama",6.1,"A 17-year-old dancer joins a ""thinspiration"" website and devotes herself to the almost religious glorification of ""thin"", until she becomes completely possessed by the dark world of anorexia.",Tara Miele,/name/nm1301113/,"Laura Wiggins, 
+Izabella Miko, 
+Callie Thorne, 
+Marcus Giamatti","/name/nm2270016/,/name/nm0005232/,/name/nm0861361/,/name/nm0316078/",1336.0,,3
+tt2495118,Ip Man: The Final Fight,2013,PG-13,100 min,"Action, Biography, Drama",6.1,"In postwar Hong Kong, legendary Wing Chun grandmaster Ip Man is reluctantly called into action once more, when what begin as simple challenges from rival kung fu styles soon draw him into ...                See full summary »",Herman Yau,/name/nm0946875/,"Anthony Chau-Sang Wong, 
+Gillian Chung, 
+Jordan Chan, 
+Eric Tsang","/name/nm0938893/,/name/nm1239735/,/name/nm0150952/,/name/nm0874676/",11349.0,37884.0,3
+tt4693588,Fahim,2019,,107 min,"Biography, Comedy, Drama",6.8,"The story of Fahim Mohammad, world junior chess champion, born in Bangladesh in 2000, and currently playing in France.",Pierre-François Martin-Laval,/name/nm0553237/,"Assad Ahmed, 
+Gérard Depardieu, 
+Mizanur Rahaman, 
+Isabelle Nanty","/name/nm5052617/,/name/nm0000367/,/name/nm10087171/,/name/nm0620964/",1612.0,,1
+tt3148952,The Circle,2014,Not Rated,102 min,"Biography, Drama, Romance",7.3,"Zurich, 1956. The young teacher Ernst Ostertag falls head over heels in love with the transvestite star Robi Rapp and finds himself torn between his bourgeois existence and his commitment ...                See full summary »",Stefan Haupt,/name/nm0369442/,"Matthias Hungerbühler, 
+Peter Jecklin, 
+Marie Leuenberger, 
+Stefan Witschi","/name/nm3747101/,/name/nm1845333/,/name/nm3325981/,/name/nm0936834/",1635.0,,1
+tt8108206,Saand Ki Aankh,2019,,146 min,"Biography, Drama",7.6,"Both over the age of 60, Chandro Tomar and Prakashi Tomar inspire other women in India when they demonstrate their expert sharpshooting skills.",Tushar Hiranandani,/name/nm1571874/,"Taapsee Pannu, 
+Bhumi Pednekar, 
+Prakash Jha, 
+Vineet Kumar Singh","/name/nm3966456/,/name/nm6277267/,/name/nm0422552/,/name/nm1277547/",5860.0,,3
+tt1653911,Mozart's Sister,2010,Not Rated,120 min,"Biography, Drama, Music",6.4,"A reimagined account of the early life of Maria Anna 'Nannerl' Mozart, five years older than Wolfgang, and a musical prodigy in her own right.",René Féret,/name/nm0299677/,"Marie Féret, 
+Marc Barbé, 
+Delphine Chuillot, 
+David Moreau","/name/nm1430115/,/name/nm0053903/,/name/nm0161046/,/name/nm4941555/",1566.0,706622.0,3
+tt3696086,The Golden Era,2014,,177 min,"Biography, Drama, Romance",6.4,"The life story of Xiao Hong, one of China's most famous essayists and novelists, who reflected the progressive thinking not frequently seen during the 1930s.",Ann Hui,/name/nm0401176/,"Tang Wei, 
+Shaofeng Feng, 
+Zhiwen Wang, 
+Yawen Zhu","/name/nm2325018/,/name/nm2682046/,/name/nm0911113/,/name/nm3301868/",1196.0,99872.0,2
+tt4319698,Little Big Master,2015,,112 min,"Biography, Drama",7.2,"Based on a true story, Little Big Master chronicles the struggles of the lowest-paid headmistress in Hong Kong history.",Adrian Kwan,/name/nm0265303/,"Miriam Chin Wah Yeung, 
+Louis Koo, 
+Winnie Yuen-Ying Ho, 
+Shun-ying Fu","/name/nm1173559/,/name/nm0465503/,/name/nm8424617/,/name/nm8732504/",803.0,,3
+tt1525915,The Great Vazquez,2010,,106 min,"Biography, Comedy",6.2,"Is it possible to live aside of the system, thinking only about the present and oneself? A feature film about Manuel Vázquez, the best comic book author in Barcelona during the sixties, but...                See full summary »",Óscar Aibar,/name/nm0014426/,"Santiago Segura, 
+Mercè Llorens, 
+Álex Angulo, 
+Enrique Villén","/name/nm0782213/,/name/nm1257719/,/name/nm0029962/,/name/nm0898420/",1061.0,,3
+tt1618390,The Disciple,2010,,101 min,"Biography, Drama, History",2.6,"From a non-mythical perspective, The Disciple presents with high production value, the life of Jesus from a daring new angle, a human, without divinity, fallible and worrying disciple of God and the People on very real ground.",Emilio Ruiz Barrachina,/name/nm1893182/,"Joel West, 
+Marisa Berenson, 
+Ruth Gabriel, 
+Juanjo Puigcorbé","/name/nm0005548/,/name/nm0001943/,/name/nm0300282/,/name/nm0700206/",175.0,,2

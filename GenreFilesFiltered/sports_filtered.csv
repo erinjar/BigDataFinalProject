@@ -1,0 +1,307 @@
+imdbid,movie_name,year,certificate,runtime,genre,rating,description,director,director_id,star,star_id,votes,gross(in $),bechdel
+tt11145118,Creed III,2023,PG-13,116 min,"Drama, Sport",,"Adonis has been thriving in both his career and family life, but when a childhood friend and former boxing prodigy resurfaces, the face-off is more than just a fight.",Michael B. Jordan,/name/nm0430107/,"Jonathan Majors, 
+Michael B. Jordan, 
+Tessa Thompson, 
+Wood Harris","/name/nm3718007/,/name/nm0430107/,/name/nm1935086/,/name/nm0365445/",,,3
+tt1950186,Ford v Ferrari,2019,UA,152 min,"Action, Biography, Drama",8.1,American car designer Carroll Shelby and driver Ken Miles battle corporate interference and the laws of physics to build a revolutionary race car for Ford in order to defeat Ferrari at the 24 Hours of Le Mans in 1966.,James Mangold,/name/nm0003506/,"Matt Damon, 
+Christian Bale, 
+Jon Bernthal, 
+Caitríona Balfe","/name/nm0000354/,/name/nm0000288/,/name/nm1256532/,/name/nm1495520/",403381.0,117624028.0,0
+tt8745676,The Swimmers,2022,UA 16+,134 min,"Biography, Drama, Sport",7.4,"From war-torn Syria to the 2016 Rio Olympics, two young sisters embark on a harrowing journey as refugees, putting both their hearts and champion swimming skills to heroic use.",Sally El Hosaini,/name/nm2260751/,"Matthias Schweighöfer, 
+Ali Suliman, 
+Manal Issa, 
+Nathalie Issa","/name/nm0777788/,/name/nm1846124/,/name/nm6997839/,/name/nm9060226/",25083.0,,3
+tt3076658,Creed,2015,UA,133 min,"Action, Drama, Sport",7.6,"The former World Heavyweight Champion Rocky Balboa serves as a trainer and mentor to Adonis Johnson, the son of his late friend and former rival Apollo Creed.",Ryan Coogler,/name/nm3363032/,"Michael B. Jordan, 
+Sylvester Stallone, 
+Tessa Thompson, 
+Phylicia Rashad","/name/nm0430107/,/name/nm0000230/,/name/nm1935086/,/name/nm0711118/",279120.0,109767581.0,2
+tt1210166,Moneyball,2011,13,133 min,"Biography, Drama, Sport",7.6,Oakland A's general manager Billy Beane's successful attempt to assemble a baseball team on a lean budget by employing computer-generated analysis to acquire new players.,Bennett Miller,/name/nm0587955/,"Brad Pitt, 
+Robin Wright, 
+Jonah Hill, 
+Philip Seymour Hoffman","/name/nm0000093/,/name/nm0000705/,/name/nm1706767/,/name/nm0000450/",430536.0,75605492.0,1
+tt1291584,Warrior,2011,UA,140 min,"Action, Drama, Sport",8.2,"The youngest son of an alcoholic former boxer returns home, where he's trained by his father for competition in a mixed martial arts tournament - a path that puts the fighter on a collision course with his estranged, older brother.",Gavin O'Connor,/name/nm0640334/,"Tom Hardy, 
+Nick Nolte, 
+Joel Edgerton, 
+Jennifer Morrison","/name/nm0362766/,/name/nm0000560/,/name/nm0249291/,/name/nm0607185/",476838.0,13657115.0,1
+tt6343314,Creed II,2018,UA,130 min,"Action, Drama, Sport",7.1,"Under the tutelage of Rocky Balboa, newly crowned heavyweight champion Adonis Creed faces off against Viktor Drago, the son of Ivan Drago.",Steven Caple Jr.,/name/nm4023702/,"Michael B. Jordan, 
+Sylvester Stallone, 
+Tessa Thompson, 
+Phylicia Rashad","/name/nm0430107/,/name/nm0000230/,/name/nm1935086/,/name/nm0711118/",129259.0,115715889.0,3
+tt5580036,"I, Tonya",2017,R,119 min,"Biography, Comedy, Drama",7.5,"Competitive ice skater Tonya Harding rises amongst the ranks at the U.S. Figure Skating Championships, but her future in the activity is thrown into doubt when her ex-husband intervenes.",Craig Gillespie,/name/nm0318916/,"Margot Robbie, 
+Sebastian Stan, 
+Allison Janney, 
+Julianne Nicholson","/name/nm3053338/,/name/nm1659221/,/name/nm0005049/,/name/nm0629855/",222315.0,30014539.0,3
+tt4209788,Molly's Game,2017,R,140 min,"Biography, Crime, Drama",7.4,"The true story of Molly Bloom, an Olympic-class skier who ran the world's most exclusive high-stakes poker game and became an FBI target.",Aaron Sorkin,/name/nm0815070/,"Jessica Chastain, 
+Idris Elba, 
+Kevin Costner, 
+Michael Cera","/name/nm1567113/,/name/nm0252961/,/name/nm0000126/,/name/nm0148418/",176226.0,28780744.0,3
+tt1809398,Unbroken,2014,18,137 min,"Action, Biography, Drama",7.2,"After a near-fatal plane crash in WWII, Olympian Louis Zamperini spends a harrowing 47 days in a raft with two fellow crewmen before he's caught by the Japanese navy and sent to a prisoner-of-war camp.",Angelina Jolie,/name/nm0001401/,"Jack O'Connell, 
+Miyavi, 
+Domhnall Gleeson, 
+Garrett Hedlund","/name/nm1925239/,/name/nm2032193/,/name/nm1727304/,/name/nm1330560/",171332.0,115637895.0,0
+tt15339570,Champions,2023,PG-13,123 min,"Comedy, Drama, Sport",,"A former minor-league basketball coach is ordered by the court to manage a team of players with intellectual disabilities. He soon realizes that despite his doubts, together, this team can go further than they ever imagined.",Bobby Farrelly,/name/nm0125803/,"Woody Harrelson, 
+Ernie Hudson, 
+Cheech Marin, 
+Matt Cook","/name/nm0000437/,/name/nm0001368/,/name/nm0001507/,/name/nm3129512/",,,0
+tt1979320,Rush,2013,R,123 min,"Action, Biography, Drama",8.1,The merciless 1970s rivalry between Formula One rivals James Hunt and Niki Lauda.,Ron Howard,/name/nm0000165/,"Daniel Brühl, 
+Chris Hemsworth, 
+Olivia Wilde, 
+Alexandra Maria Lara","/name/nm0117709/,/name/nm1165110/,/name/nm1312575/,/name/nm0487884/",484813.0,26947624.0,1
+tt1125849,The Wrestler,2008,UA,109 min,"Drama, Sport",7.9,"A faded professional wrestler must retire, but finds his quest for a new life outside the ring a dispiriting struggle.",Darren Aronofsky,/name/nm0004716/,"Mickey Rourke, 
+Marisa Tomei, 
+Evan Rachel Wood, 
+Mark Margolis","/name/nm0000620/,/name/nm0000673/,/name/nm0939697/,/name/nm0546797/",309583.0,26236603.0,1
+tt1798684,Southpaw,2015,16,124 min,"Action, Crime, Drama",7.3,"After a fatal incident sends him on a rampant path of destruction, a champion boxer fights to get custody of his daughter and revive his professional career.",Antoine Fuqua,/name/nm0298807/,"Jake Gyllenhaal, 
+Rachel McAdams, 
+Oona Laurence, 
+Forest Whitaker","/name/nm0350453/,/name/nm1046097/,/name/nm4802218/,/name/nm0001845/",242454.0,52421953.0,2
+tt9620288,King Richard,2021,UA,144 min,"Biography, Drama, Sport",7.5,A look at how tennis superstars Venus and Serena Williams became who they are after the coaching from their father Richard Williams.,Reinaldo Marcus Green,/name/nm3232264/,"Will Smith, 
+Aunjanue Ellis, 
+Jon Bernthal, 
+Saniyya Sidney","/name/nm0000226/,/name/nm0254712/,/name/nm1256532/,/name/nm5181138/",117846.0,,3
+tt2058673,Point Break,2015,UA,114 min,"Action, Adventure, Crime",5.3,"A young FBI agent infiltrates an extraordinary team of extreme sports athletes he suspects of masterminding a string of unprecedented, sophisticated corporate heists.",Ericson Core,/name/nm0179697/,"Edgar Ramírez, 
+Luke Bracey, 
+Ray Winstone, 
+Teresa Palmer","/name/nm1183149/,/name/nm3478396/,/name/nm0935653/,/name/nm1954240/",63913.0,28782481.0,0
+tt3554046,Space Jam: A New Legacy,2021,U,115 min,"Animation, Adventure, Comedy",4.5,"A rogue artificial intelligence kidnaps the son of famed basketball player LeBron James, who then has to work with Bugs Bunny to win a basketball game.",Malcolm D. Lee,/name/nm0002700/,"LeBron James, 
+Don Cheadle, 
+Cedric Joe, 
+Khris Davis","/name/nm1429908/,/name/nm0000332/,/name/nm9347978/,/name/nm7800057/",73533.0,70592228.0,3
+tt1216475,Cars 2,2011,U,106 min,"Animation, Adventure, Comedy",6.2,Star race car Lightning McQueen and his pal Mater head overseas to compete in the World Grand Prix race. But the road to the championship becomes rocky as Mater gets caught up in an intriguing adventure of his own: international espionage.,"John Lasseter, 
+Bradford Lewis",/name/nm0005124/,"Owen Wilson, 
+Larry the Cable Guy, 
+Michael Caine, 
+Emily Mortimer","/name/nm0506977/,/name/nm0005562/,/name/nm1249256/,/name/nm0000323/,/name/nm0607865/",195751.0,191452396.0,2
+tt1155076,The Karate Kid,2010,U,140 min,"Action, Drama, Family",6.2,"Work causes a single mother to move to China with her young son; in his new home, the boy embraces kung fu, taught to him by a master.",Harald Zwart,/name/nm0958969/,"Jackie Chan, 
+Jaden Smith, 
+Taraji P. Henson, 
+Wenwen Han","/name/nm0000329/,/name/nm1535523/,/name/nm0378245/,/name/nm3924219/",189057.0,176591618.0,3
+tt6513120,Fighting with My Family,2019,A,108 min,"Biography, Comedy, Drama",7.1,A former wrestler and his family make a living performing at small venues around the country while his kids dream of joining World Wrestling Entertainment.,Stephen Merchant,/name/nm0580351/,"Dwayne Johnson, 
+Lena Headey, 
+Vince Vaughn, 
+Florence Pugh","/name/nm0425005/,/name/nm0372176/,/name/nm0000681/,/name/nm6073955/",82960.0,22958886.0,3
+tt3606752,Cars 3,2017,U,102 min,"Animation, Adventure, Comedy",6.7,Lightning McQueen sets out to prove to a new generation of racers that he's still the best race car in the world.,Brian Fee,/name/nm0270263/,"Owen Wilson, 
+Cristela Alonzo, 
+Chris Cooper, 
+Nathan Fillion","/name/nm0005562/,/name/nm2242399/,/name/nm0177933/,/name/nm0277213/",104538.0,152901115.0,3
+tt1023111,Never Back Down,2008,16,113 min,"Action, Drama, Sport",6.5,"A frustrated and conflicted teenager arrives at a new high school to discover an underground fight club, and meets a classmate who begins to coerce him into fighting.",Jeff Wadlow,/name/nm0905592/,"Sean Faris, 
+Djimon Hounsou, 
+Amber Heard, 
+Cam Gigandet","/name/nm0267511/,/name/nm0005023/,/name/nm1720028/,/name/nm1544217/",103018.0,24850922.0,2
+tt1172233,Whip It,2009,PG-13,111 min,"Drama, Sport",6.9,"In Bodeen, Texas, an indie-rock-loving misfit finds a way of dealing with small-town misery after discovering a roller-derby league in nearby Austin.",Drew Barrymore,/name/nm0000106/,"Elliot Page, 
+Drew Barrymore, 
+Kristen Wiig, 
+Sarah Habel","/name/nm0680983/,/name/nm0000106/,/name/nm1325419/,/name/nm3080981/",68355.0,13043363.0,3
+tt1100089,Foxcatcher,2014,R,134 min,"Biography, Drama, History",7.0,"U.S. Olympic wrestling champions and brothers Mark Schultz and Dave Schultz join ""Team Foxcatcher"", led by eccentric multi-millionaire John du Pont, as they train for the 1988 Olympic Games in Seoul, South Korea, but John's self-destructive behavior threatens to consume them all.",Bennett Miller,/name/nm0587955/,"Steve Carell, 
+Channing Tatum, 
+Mark Ruffalo, 
+Vanessa Redgrave","/name/nm0136797/,/name/nm1475594/,/name/nm0749263/,/name/nm0000603/",144455.0,12096300.0,1
+tt2223990,Draft Day,2014,PG-13,110 min,"Drama, Sport",6.8,"At the NFL Draft, General Manager Sonny Weaver has the opportunity to rebuild his team when he trades for the number one pick. He must decide what he's willing to sacrifice on a life-changing day for a few hundred young men with NFL dreams.",Ivan Reitman,/name/nm0718645/,"Kevin Costner, 
+Chadwick Boseman, 
+Jennifer Garner, 
+Frank Langella","/name/nm0000126/,/name/nm1569276/,/name/nm0004950/,/name/nm0001449/",62150.0,28831145.0,2
+tt1478839,The Art of Racing in the Rain,2019,UA 7+,109 min,"Comedy, Drama, Romance",7.5,"Through his bond with his owner, aspiring Formula One race car driver Denny, golden retriever Enzo learns that the techniques needed on the racetrack can also be used to successfully navigate the journey of life.",Simon Curtis,/name/nm0193508/,"Kevin Costner, 
+Milo Ventimiglia, 
+Jackie Minns, 
+Marcus Hondro","/name/nm0000126/,/name/nm0893257/,/name/nm4467076/,/name/nm0393125/",33143.0,25501224.0,2
+tt1596346,Soul Surfer,2011,PG,112 min,"Biography, Drama, Family",7.0,Teenage surfer Bethany Hamilton overcomes the odds and her own fears of returning to the water after losing her left arm in a shark attack.,Sean McNamara,/name/nm0573732/,"AnnaSophia Robb, 
+Dennis Quaid, 
+Helen Hunt, 
+Carrie Underwood","/name/nm1455681/,/name/nm0000598/,/name/nm0000166/,/name/nm1863227/",50600.0,43853424.0,3
+tt1456635,Goon,2011,R,92 min,"Comedy, Drama, Sport",6.8,"Labeled an outcast by his brainy family, a bouncer overcomes long odds to lead a team of under performing misfits to semi-pro hockey glory, beating the crap out of everything that stands in his way.",Michael Dowse,/name/nm0236226/,"Seann William Scott, 
+Jay Baruchel, 
+Alison Pill, 
+Eugene Levy","/name/nm0005405/,/name/nm0059431/,/name/nm0683467/,/name/nm0506405/",88084.0,4168144.0,0
+tt1083452,Eddie the Eagle,2015,UA,106 min,"Adventure, Biography, Comedy",7.3,"The story of Eddie Edwards, the notoriously tenacious British underdog ski jumper who charmed the world at the 1988 Winter Olympics.",Dexter Fletcher,/name/nm0002077/,"Taron Egerton, 
+Hugh Jackman, 
+Tom Costello, 
+Jo Hartley","/name/nm5473782/,/name/nm0413168/,/name/nm8030441/,/name/nm0366846/",95115.0,15785632.0,2
+tt1057500,Invictus,2009,UA,134 min,"Action, Biography, Drama",7.3,"Nelson Mandela, in his first term as President of South Africa, initiates a unique venture to unite the Apartheid-torn land: enlist the national rugby team on a mission to win the 1995 Rugby World Cup.",Clint Eastwood,/name/nm0000142/,"Morgan Freeman, 
+Matt Damon, 
+Tony Kgoroge, 
+Patrick Mofokeng","/name/nm0000151/,/name/nm0000354/,/name/nm0450961/,/name/nm0595680/",161947.0,37491364.0,1
+tt3322364,Concussion,2015,PG-13,123 min,"Biography, Drama, Sport",7.1,"In Pittsburgh, accomplished pathologist Dr. Bennet Omalu uncovers the truth about brain damage in football players who suffer repeated concussions in the course of normal play.",Peter Landesman,/name/nm1481618/,"Will Smith, 
+Alec Baldwin, 
+Albert Brooks, 
+David Morse","/name/nm0000226/,/name/nm0000285/,/name/nm0000983/,/name/nm0001556/",96771.0,34542474.0,1
+tt1860353,Turbo,2013,U,96 min,"Animation, Adventure, Comedy",6.4,A freak accident might just help an everyday garden snail achieve his biggest dream: winning the Indy 500.,David Soren,/name/nm1659741/,"Ryan Reynolds, 
+Paul Giamatti, 
+Maya Rudolph, 
+Samuel L. Jackson","/name/nm0005351/,/name/nm0316079/,/name/nm0748973/,/name/nm0000168/",100671.0,83028128.0,3
+tt5074352,Dangal,2016,U,161 min,"Action, Biography, Drama",8.3,Former wrestler Mahavir Singh Phogat and his two wrestler daughters struggle towards glory at the Commonwealth Games in the face of societal oppression.,Nitesh Tiwari,/name/nm4318159/,"Aamir Khan, 
+Sakshi Tanwar, 
+Fatima Sana Shaikh, 
+Sanya Malhotra","/name/nm0451148/,/name/nm2799219/,/name/nm0760778/,/name/nm7621667/",193894.0,12391761.0,3
+tt1691917,Planes,2013,U,91 min,"Animation, Adventure, Comedy",5.7,A cropdusting plane with a fear of heights lives his dream of competing in a famous around-the-world aerial race.,Klay Hall,/name/nm0355806/,"Carlos Alazraqui, 
+Dane Cook, 
+Stacy Keach, 
+Brad Garrett","/name/nm0016141/,/name/nm0176981/,/name/nm0005078/,/name/nm0004951/",46261.0,90288712.0,1
+tt4622512,Battle of the Sexes,2017,UA,121 min,"Biography, Comedy, Drama",6.7,The true story of the 1973 tennis match between World number one Billie Jean King and ex-champ and serial hustler Bobby Riggs.,"Jonathan Dayton, 
+Valerie Faris",/name/nm0206760/,"Emma Stone, 
+Steve Carell, 
+Andrea Riseborough, 
+Sarah Silverman","/name/nm0267512/,/name/nm1297015/,/name/nm0136797/,/name/nm2057859/,/name/nm0798971/",56838.0,12638526.0,3
+tt1083456,Fired Up!,2009,UA,90 min,"Comedy, Sport",6.1,The two most popular guys in high school decide to ditch football camp for cheerleader camp. For the girls and for the glory.,Will Gluck,/name/nm0323239/,"Eric Christian Olsen, 
+Nicholas D'Agosto, 
+Sarah Roemer, 
+Molly Sims","/name/nm0647638/,/name/nm0194900/,/name/nm2105255/,/name/nm0801356/",44847.0,17231291.0,1
+tt3859304,The Bronze,2015,R,100 min,"Comedy, Drama, Sport",6.1,A foul-mouthed former gymnastics bronze medalist with local celebrity status reluctantly trains a rising Olympics aspirant.,Bryan Buckley,/name/nm1519252/,"Melissa Rauch, 
+Gary Cole, 
+Haley Lu Richardson, 
+Thomas Middleditch","/name/nm1851981/,/name/nm0170550/,/name/nm4726634/,/name/nm3042755/",12930.0,615654.0,3
+tt1596345,Pawn Sacrifice,2014,UA,115 min,"Biography, Drama, History",7.0,"Set during the Cold War, American chess prodigy Bobby Fischer finds himself caught between two superpowers and his own struggles as he challenges the Soviet Empire.",Edward Zwick,/name/nm0001880/,"Tobey Maguire, 
+Liev Schreiber, 
+Peter Sarsgaard, 
+Michael Stuhlbarg","/name/nm0001497/,/name/nm0000630/,/name/nm0765597/,/name/nm0836121/",46712.0,2436062.0,1
+tt1028576,Secretariat,2010,PG,123 min,"Biography, Drama, Family",7.2,"Penny Chenery Tweedy and colleagues guide her long-shot but precocious stallion to set, in 1973, the unbeaten record for winning the Triple Crown.",Randall Wallace,/name/nm0908824/,"Diane Lane, 
+John Malkovich, 
+Margo Martindale, 
+Nelsan Ellis","/name/nm0000178/,/name/nm0000518/,/name/nm0553269/,/name/nm1734700/",29155.0,59713955.0,3
+tt5427194,The Miracle Season,2018,PG,101 min,"Drama, Sport",6.5,"After the tragic death of star volleyball player Caroline ""Line"" Found, a team of dispirited high school girls must band together under the guidance of their tough-love coach in hopes of winning the state championship.",Sean McNamara,/name/nm0573732/,"Helen Hunt, 
+Erin Moriarty, 
+William Hurt, 
+Danika Yarosh","/name/nm0000166/,/name/nm3929195/,/name/nm0000458/,/name/nm3912822/",5727.0,10225770.0,3
+tt1487118,Chalet Girl,2011,R,97 min,"Comedy, Romance, Sport",6.2,"Former skateboard champion Kim wants to make more money after her mother's tragic death. She joins the elite posh servicing company, which sends her off to Austria.",Phil Traill,/name/nm1288766/,"Felicity Jones, 
+Ed Westwick, 
+Bill Nighy, 
+Brooke Shields","/name/nm0428065/,/name/nm2067953/,/name/nm0631490/,/name/nm0000222/",25889.0,1201.0,3
+tt1483797,Redline,2009,,102 min,"Animation, Action, Sci-Fi",7.5,"A story about the most popular racing event in the galaxy, the Redline, and the various racers who compete in it.",Takeshi Koike,/name/nm1238086/,"Takuya Kimura, 
+Yû Aoi, 
+Tadanobu Asano, 
+Yoshiyuki Morishita","/name/nm0454120/,/name/nm1066974/,/name/nm0038355/,/name/nm0605676/",15044.0,,3
+tt1629757,Chasing Mavericks,2012,UA,116 min,"Biography, Drama, Sport",7.1,"When young Jay Moriarity discovers that the mythic Mavericks surf break, one of the biggest waves on Earth, exists just miles from his Santa Cruz home, he enlists the help of local legend Frosty Hesson to train him to survive it.","Michael Apted, 
+Curtis Hanson",/name/nm0000776/,"Jonny Weston, 
+Gerard Butler, 
+Elisabeth Shue, 
+Abigail Spencer","/name/nm0000436/,/name/nm4103976/,/name/nm0124930/,/name/nm0000223/,/name/nm0817844/",33377.0,6002756.0,2
+tt1606392,Win Win,2011,R,106 min,"Comedy, Drama, Sport",7.1,A struggling lawyer and volunteer wrestling coach's chicanery comes back to haunt him when the teenage grandson of the client he has double-crossed comes into his life.,Tom McCarthy,/name/nm0565336/,"Paul Giamatti, 
+Amy Ryan, 
+Jeffrey Tambor, 
+Bobby Cannavale","/name/nm0316079/,/name/nm0752407/,/name/nm0001787/,/name/nm0134072/",54299.0,10179275.0,3
+tt1082601,Fighting,2009,PG-13,105 min,"Action, Crime, Drama",5.5,"In New York City, a young counterfeiter is introduced to the world of underground street fighting by a seasoned scam artist, who becomes his manager on the bare-knuckling brawling circuit.",Dito Montiel,/name/nm1996918/,"Channing Tatum, 
+Terrence Howard, 
+Luis Guzmán, 
+Zulay Henao","/name/nm1475594/,/name/nm0005024/,/name/nm0350079/,/name/nm1748489/",33534.0,23036320.0,1
+tt2417712,Goon: Last of the Enforcers,2017,R,101 min,"Comedy, Sport",5.8,A hockey player plagued by injuries is confronted with the possibility of retirement when a tough new player challenges his status as the league's top enforcer.,Jay Baruchel,/name/nm0059431/,"Seann William Scott, 
+Alison Pill, 
+Marc-André Grondin, 
+Liev Schreiber","/name/nm0005405/,/name/nm0683467/,/name/nm0343082/,/name/nm0000630/",14095.0,,2
+tt1647668,Million Dollar Arm,2014,PG,124 min,"Biography, Drama, Sport",7.0,A sports agent stages an unconventional recruitment strategy to get talented Indian cricket players to play Major League Baseball.,Craig Gillespie,/name/nm0318916/,"Jon Hamm, 
+Aasif Mandvi, 
+Alan Arkin, 
+Suraj Sharma","/name/nm0358316/,/name/nm0541902/,/name/nm0000273/,/name/nm4139037/",46612.0,36447959.0,1
+tt4701724,Early Man,2018,UA,89 min,"Animation, Adventure, Comedy",6.1,"Set at the dawn of time, when prehistoric creatures and woolly mammoths roamed the earth, Early Man tells the story of Dug, along with sidekick Hognob as they unite his tribe against a mighty enemy Lord Nooth and his Bronze Age City to save their home.",Nick Park,/name/nm0661910/,"Eddie Redmayne, 
+Tom Hiddleston, 
+Maisie Williams, 
+Timothy Spall","/name/nm1519666/,/name/nm1089991/,/name/nm3586035/,/name/nm0001758/",22689.0,8267544.0,1
+tt4341582,Queen of Katwe,2016,PG,124 min,"Biography, Drama, Sport",7.4,A Ugandan girl sees her world rapidly change after being introduced to the game of chess.,Mira Nair,/name/nm0619762/,"Madina Nalwanga, 
+David Oyelowo, 
+Lupita Nyong'o, 
+Martin Kabanza","/name/nm8136461/,/name/nm0654648/,/name/nm2143282/,/name/nm8421695/",17778.0,8805918.0,3
+tt1407061,Just Wright,2010,U,101 min,"Comedy, Romance, Sport",5.9,A physical therapist falls for the basketball player she is helping recover from a career-threatening injury.,Sanaa Hamri,/name/nm1065402/,"Queen Latifah, 
+Common, 
+Paula Patton, 
+James Pickens Jr.","/name/nm0001451/,/name/nm0996669/,/name/nm1745736/,/name/nm0681782/",14973.0,21520719.0,3
+tt5016946,Handsome Devil,2016,,95 min,"Comedy, Drama, Sport",7.0,Ned and Conor are forced to share a bedroom at their boarding school. The loner and the star athlete at this rugby-mad school form an unlikely friendship until it's tested by the authorities.,John Butler,/name/nm2899940/,"Fionn O'Shea, 
+Ardal O'Hanlon, 
+Amy Huberman, 
+Ruairi O'Connor","/name/nm2760330/,/name/nm0641192/,/name/nm1074508/,/name/nm4754741/",15031.0,,1
+tt2980706,Planes: Fire & Rescue,2014,U,83 min,"Animation, Adventure, Comedy",5.9,"When Dusty learns that his engine is damaged and he may never race again, he joins a forest fire and rescue unit to be trained as a firefighter, or else his air strip will be shut down.",Bobs Gannaway,/name/nm0304432/,"Dane Cook, 
+Ed Harris, 
+Julie Bowen, 
+Curtis Armstrong","/name/nm0176981/,/name/nm0000438/,/name/nm0100866/,/name/nm0035664/",18639.0,59165787.0,1
+tt4183692,Woodlawn,2015,PG,123 min,"Biography, Drama, History",6.4,A gifted high-school football player must learn to embrace his talent and his faith as he battles racial tensions on and off the field.,"Andrew Erwin, 
+Jon Erwin",/name/nm3401779/,"Caleb Castille, 
+Sean Astin, 
+Jon Voight, 
+C. Thomas Howell","/name/nm2296528/,/name/nm6899488/,/name/nm0000276/,/name/nm0000685/,/name/nm0001367/",7432.0,14393862.0,1
+tt5340300,Lean on Pete,2017,R,121 min,"Adventure, Drama, Sport",7.2,"A teenager gets a summer job working for a horse trainer and befriends the fading racehorse, Lean on Pete.",Andrew Haigh,/name/nm0354091/,"Charlie Plummer, 
+Amy Seimetz, 
+Travis Fimmel, 
+Steve Buscemi","/name/nm4055138/,/name/nm1541272/,/name/nm1379938/,/name/nm0000114/",13163.0,1163056.0,1
+tt5727282,Borg McEnroe,2017,UA,107 min,"Biography, Drama, Sport",6.9,The story of the 1980 tennis rivalry between the placid Björn Borg and the volatile John McEnroe.,Janus Metz,/name/nm2178458/,"Sverrir Gudnason, 
+Shia LaBeouf, 
+Stellan Skarsgård, 
+Tuva Novotny","/name/nm0345695/,/name/nm0479471/,/name/nm0001745/,/name/nm0637259/",32768.0,14113354.0,1
+tt2474310,Viharsarok,2014,,105 min,"Drama, Romance, Sport",6.9,"Szabolcs quits football against his father's will and returns to his country in Hungary to take charge of an inheritance from his grandfather. There, he meets Aron and they both explore their identities.",Ádám Császi,/name/nm2414670/,"András Sütö, 
+Ádám Varga, 
+Sebastian Urzendowsky, 
+Enikö Börcsök","/name/nm5364484/,/name/nm3944077/,/name/nm0773308/,/name/nm0127102/",4347.0,,1
+tt2390237,Cuban Fury,2014,R,98 min,"Comedy, Romance, Sport",6.2,"Beneath Bruce Garrett's under-confident, overweight exterior, the passionate heart of a salsa king lies dormant. Now, one woman is about to reignite his Latin fire.",James Griffiths,/name/nm2926263/,"Nick Frost, 
+Rashida Jones, 
+Chris O'Dowd, 
+Olivia Colman","/name/nm0296545/,/name/nm0429069/,/name/nm1483369/,/name/nm1469236/",19467.0,90310.0,1
+tt7636672,Float Like a Butterfly,2018,PG,104 min,"Drama, History, Sport",5.9,"From the producers of ""Once"" and ""Sing Street"", ""Float Like a Butterfly"" is a powerful, timely story of a girl's fight for freedom and belonging. In a gender-reversal of the classic film ""...                See full summary »",Carmel Winters,/name/nm1288939/,"Hazel Doupe, 
+Dara Devaney, 
+Johnny Collins, 
+Hilda Fay","/name/nm4592090/,/name/nm0959944/,/name/nm9455420/,/name/nm0269570/",352.0,,3
+tt2247476,When the Game Stands Tall,2014,PG,115 min,"Biography, Drama, Family",6.6,"The journey of legendary football coach Bob Ladouceur, who took the De La Salle High School Spartans from obscurity to a 151-game winning streak that shattered all records for any American sport.",Thomas Carter,/name/nm0141961/,"Jim Caviezel, 
+Alexander Ludwig, 
+Michael Chiklis, 
+Laura Dern","/name/nm0001029/,/name/nm1573253/,/name/nm0004821/,/name/nm0000368/",16318.0,30127963.0,1
+tt2150139,A Second Chance,2011,PG,90 min,"Adventure, Drama, Family",4.7,A young girl and her coach overcome adversity to make their way into the National Australian Gymnastics Squad.,Clay Glen,/name/nm4825581/,"Nina Pearce, 
+Adam Tuominen, 
+Emily Morris, 
+Amy Handley","/name/nm2308166/,/name/nm1270429/,/name/nm4825006/,/name/nm3577215/",1102.0,,3
+tt5274066,Raising the Bar,2016,,93 min,"Drama, Family, Sport",5.5,A teenager who gave up her spot in an elite U.S. gymnastics program when her family moved to Australia enters a competition to help a new friend.,Clay Glen,/name/nm4825581/,"Kelli Berglund, 
+Lili Karamalikis, 
+Tess Fowler, 
+Emily Morris","/name/nm2399914/,/name/nm7794622/,/name/nm7794623/,/name/nm4825006/",1643.0,,3
+tt3977462,Full Out,2015,,90 min,"Biography, Drama, Family",6.3,A young gymnast's Olympic aspirations are crushed after a debilitating accident.,Sean Cisterna,/name/nm1439785/,"Ana Golja, 
+Jennifer Beals, 
+Sarah Fisher, 
+Asha Ashanti","/name/nm3132111/,/name/nm0000884/,/name/nm5162352/,/name/nm4329459/",2864.0,,3
+tt1700808,Fast Girls,2012,,91 min,"Drama, Sport",6.2,A street smart runner develops an intense rivalry with an equally ambitious wealthy young athlete.,Regan Hall,/name/nm3834604/,"Lenora Crichlow, 
+Phil Davis, 
+Jamie Howard, 
+Jahvel Hall","/name/nm1564072/,/name/nm0205289/,/name/nm3446995/,/name/nm3104063/",3743.0,,3
+tt2070776,Populaire,2012,R,111 min,"Comedy, Romance, Sport",6.8,1958. Rose is a terrible secretary but a demon typist. Her handsome boss resolves to turn her into the fastest girl in the world.,Régis Roinsard,/name/nm1672051/,"Romain Duris, 
+Féodor Atkine, 
+Déborah François, 
+Bérénice Bejo","/name/nm0244151/,/name/nm0040545/,/name/nm1918862/,/name/nm0067367/",12397.0,175256.0,3
+tt1242545,Looking for Eric,2009,,116 min,"Comedy, Drama, Fantasy",7.1,"Eric, a football fanatic postman whose life is descending into crisis, receives some life coaching from the famously philosophical Eric Cantona.",Ken Loach,/name/nm0516360/,"Steve Evets, 
+Eric Cantona, 
+Stephanie Bishop, 
+Gerard Kearns","/name/nm0263740/,/name/nm0134642/,/name/nm2288625/,/name/nm1542551/",17432.0,55804.0,1
+tt2330546,Les reines du ring,2013,,97 min,"Comedy, Sport",5.6,"In a desperate attempt to reconnect with her estranged son who is a passionate WWE fan, Rose grabs his attention by joining a rigorous training program to learn to wrestle like a legitimate...                See full summary »",Jean-Marc Rudnicki,/name/nm2277061/,"Marilou Berry, 
+Nathalie Baye, 
+André Dussollier, 
+Audrey Fleurot","/name/nm0077622/,/name/nm0000882/,/name/nm0244707/,/name/nm1109153/",628.0,,3
+tt10782876,Swimming for Gold,2020,,91 min,"Family, Sport",5.5,A US women’s swim team Olympic hopeful suffers an injury that forces her to put aside her dreams and help the Australian men’s swim team get competition ready.,Hayley MacFarlane,/name/nm3044084/,"Peyton List, 
+Lauren Esposito, 
+Daniel Needs, 
+Candice Hill","/name/nm2572554/,/name/nm7110007/,/name/nm5911628/,/name/nm3845743/",552.0,,1
+tt2201251,The Hot Flashes,2013,R,99 min,"Comedy, Sport",5.1,A group of middle aged women play basketball and prove a point.,Susan Seidelman,/name/nm0782384/,"Brooke Shields, 
+Wanda Sykes, 
+Daryl Hannah, 
+Camryn Manheim","/name/nm0000222/,/name/nm0843100/,/name/nm0000435/,/name/nm0005179/",2061.0,,3
+tt6061074,First Match,2018,,102 min,"Drama, Sport",6.4,"Hardened by years in foster care, a teenage girl from Brooklyn's Brownsville neighborhood decides that joining the boys' wrestling team is the only way back to her estranged father.",Olivia Newman,/name/nm3229507/,"Elvire Emanuelle, 
+Yahya Abdul-Mateen II, 
+Colman Domingo, 
+Jharrel Jerome","/name/nm4235684/,/name/nm5584344/,/name/nm0231458/,/name/nm7851611/",2382.0,,3
+tt6918220,Les Crevettes Pailletées,2019,,103 min,"Comedy, Drama, Sport",6.5,"Matthias Le Goff, an Olympic champion, makes a homophobic statement on TV. His punishment: coach the Shiny Shrimps, an amateur gay water-polo team. They have only one thing in mind: to qualify for the Gay Games in Croatia.","Maxime Govare, 
+Cédric Le Gallo",/name/nm4355349/,"Nicolas Gob, 
+Alban Lenoir, 
+Michaël Abiteboul, 
+David Baïot","/name/nm9009942/,/name/nm1307409/,/name/nm1839955/,/name/nm1044641/,/name/nm3530343/",2776.0,,0
+tt6522668,Diamantino,2018,,96 min,"Comedy, Drama, Fantasy",6.3,"A fallen soccer superstar vows to adopt a refugee child, while becoming the naive unwitting centerpiece in in a bizarre plot to Make Portugal Great Again.","Gabriel Abrantes, 
+Daniel Schmidt",/name/nm4085019/,"Carloto Cotta, 
+Cleo Tavares, 
+Anabela Moreira, 
+Margarida Moreira","/name/nm4116978/,/name/nm1929018/,/name/nm8148648/,/name/nm1335025/,/name/nm1923623/",2979.0,70088.0,3
+tt2328503,Ko-ri-a,2012,,127 min,"Drama, Sport",7.2,"""As One"" is the cinematic retelling of the first ever post-war Unified Korea sports team, hastily formed to participate in the 41st World Table Tennis Championships in 1991. Following the ...                See full summary »",Hyun-Sung Moon,/name/nm4975337/,"Ha Ji-Won, 
+Bae Doona, 
+Yeri Han, 
+Yoon-young Choi","/name/nm0351710/,/name/nm0046277/,/name/nm3680658/,/name/nm4274963/",1244.0,,3
+tt1827358,Apflickorna,2011,,84 min,"Drama, Sport",5.5,Two adolescent girls on an equine acrobatics team form an intimate friendship that becomes threatened by their competitive nature.,Lisa Aschan,/name/nm2132286/,"Mathilda Paradeiser, 
+Linda Molin, 
+Isabella Lindquist, 
+Sergej Merkusjev","/name/nm4288659/,/name/nm4288209/,/name/nm4288407/,/name/nm4288737/",2367.0,,3
+tt1592876,Score: A Hockey Musical,2010,,93 min,"Comedy, Family, Musical",4.5,A teenage hockey player becomes a national sensation.,Michael McGowan,/name/nm1313340/,"John McDermott, 
+Noah Reid, 
+Hawksley Workman, 
+Dave Bidini","/name/nm0567530/,/name/nm0717383/,/name/nm1488858/,/name/nm1848474/",708.0,,2
+tt2585078,Summer League,2013,,95 min,"Comedy, Drama, Sport",5.5,"Life, death, and the healing power of beer league softball.",Phillip Lybrand,/name/nm1954634/,"Danielle Evon Ploeger, 
+Kelsey Thomas, 
+Gabriel Peña, 
+Timothy Bowman","/name/nm3172728/,/name/nm5443003/,/name/nm5082528/,/name/nm3546112/",414.0,,3
