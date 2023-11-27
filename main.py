@@ -33,5 +33,10 @@ def get_movies_by_title(title):
 # legally_blonde_id = "0250494"
 #get_movie_by_imdb_id("0111161")
 #get_movies_by_title("Titanic")
-df1 = pd.read_csv("action.csv")
-print(df1)
+
+df = pd.read_csv('masterfile.csv')
+
+# Get the number of rows in the DataFrame
+num_rows = df.shape[0]
+
+print(f'The CSV file has {num_rows} rows.')
