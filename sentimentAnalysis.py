@@ -1,3 +1,6 @@
+# this is only useful if the movie's description isnt in a file,
+# since you get rate limited by imdb fairly quickly
+
 from imdb import IMDb
 from nltk import download
 from nltk.sentiment import SentimentIntensityAnalyzer
