@@ -52,7 +52,7 @@ ax1.imshow(wordcloud, interpolation='bilinear')
 ax1.axis('off')
 ax1.set_title('Word Cloud')
 
-# plot the histogram of word frequencies
+# plot the bar graph of word frequencies
 ax2.bar(bucket_counts.keys(), bucket_counts.values(), color='skyblue')
 ax2.set_title('Word Frequency Distribution')
 ax2.set_xlabel('Frequency')
