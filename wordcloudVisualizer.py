@@ -33,7 +33,7 @@ for word, freq in word_freq.most_common()[:-11:-1]:
 # generate word cloud
 wordcloud = WordCloud(width=800, height=400, background_color='white').generate_from_frequencies(word_freq)
 
-# predefining buckets
+# predefining bins
 bins = [1, 5, 10, 15, 20, 25, 30, 35, 40, 50, 60, 70, 80, 90, 100, 200, 300, 400, 500, 600, 700]
 
 # count words falling into each bucket
