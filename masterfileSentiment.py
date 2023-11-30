@@ -26,11 +26,6 @@ def plot_sentiment_analysis(description):
 
     return sentiment_score
 
-
-def analyze_sentiment(description):
-    sentiment_result = plot_sentiment_analysis(description)
-    return sentiment_result
-
-df['sentiment'] = df['description'].apply(analyze_sentiment)
+df['sentiment'] = df['description'].apply(plot_sentiment_analysis)
 
 df.to_csv('masterfile_sentiment.csv', index=False)

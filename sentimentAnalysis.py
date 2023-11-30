@@ -2,7 +2,7 @@
 # since you get rate limited by imdb fairly quickly
 
 from imdb import IMDb
-from nltk import download
+#from nltk import download
 from nltk.sentiment import SentimentIntensityAnalyzer
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
