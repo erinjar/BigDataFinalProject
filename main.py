@@ -36,6 +36,9 @@ def get_movies_by_title(title):
 
 df = pd.read_csv('masterfile.csv')
 
+# Clean the 'year' column and convert to integer
+df['year'] = pd.to_numeric(df['year'], errors='coerce').fillna(0).astype(int)
+
 # Get the number of rows in the DataFrame
 num_rows = df.shape[0]
 
