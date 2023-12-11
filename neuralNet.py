@@ -42,7 +42,7 @@ y_test_categorical = pd.get_dummies(y_test)
 
 # Calculate class weights based on inverse class frequencies -- did not work
 # total_samples = len(y_train)
-# class_weight = {
+# class_weights = {
 #     0: total_samples / (4 * np.sum(y_train ==0)), 
 #     1: total_samples / (2 * np.sum(y_train ==0)), 
 #     2: total_samples / (4 * np.sum(y_train ==0)), 
@@ -66,6 +66,8 @@ model.compile(loss='categorical_crossentropy', optimizer=custom_optimizer, metri
 
 # Train the model
 model.fit(X_train, y_train_categorical, epochs=10, batch_size=32, validation_split=0.2)
+#Train the model with class weights
+#model.fit(X_train, y_train_categorical, epochs=10, batch_size=32, validation_split=0.2, class_weight=class_weights)
 
 #Use stratified sampling in train-test split -- didn't help
 # X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42, stratify=y)

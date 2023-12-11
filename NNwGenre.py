@@ -1,4 +1,5 @@
 
+import numpy as np
 import pandas as pd
 from sklearn.metrics import classification_report, confusion_matrix
 from sklearn.model_selection import train_test_split
@@ -27,6 +28,15 @@ X_test = scaler.transform(X_test)
 y_train_categorical = pd.get_dummies(y_train)
 y_test_categorical = pd.get_dummies(y_test)
 
+# Calculate class weights based on inverse class frequencies -- did not work
+total_samples = len(y_train)
+class_weights = {
+    0: total_samples / (4 * np.sum(y_train ==0)), 
+    1: total_samples / (2 * np.sum(y_train ==0)), 
+    2: total_samples / (4 * np.sum(y_train ==0)), 
+    3: total_samples / np.sum(y_train == 3)
+    }
+
 # Model architecture
 model = Sequential()
 model.add(Dense(128, input_dim=X_train.shape[1], activation='relu'))
@@ -43,6 +53,9 @@ model.compile(loss='categorical_crossentropy', optimizer=custom_optimizer, metri
 
 # Train the model
 model.fit(X_train, y_train_categorical, epochs=10, batch_size=32, validation_split=0.2)
+
+#Train the model with class weights
+model.fit(X_train, y_train_categorical, epochs=10, batch_size=32, validation_split=0.2, class_weight=class_weights)
 
 # Evaluate the model on the test set
 loss, accuracy = model.evaluate(X_test, y_test_categorical)
