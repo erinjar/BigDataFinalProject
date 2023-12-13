@@ -37,7 +37,7 @@ wordcloud = WordCloud(width=800, height=400, background_color='white').generate_
 buckets = [1, 5, 10, 15, 20, 25, 30, 35, 40, 50, 60, 70, 80, 90, 100, 200, 300, 400, 500, 600, 700]
 
 # count words falling into each buckets
-bucket_counts = {f'{start}-{end}': sum(1 for freq in word_freq.values() if start <= freq <= end) for start, end in zip(buckets, buckets[1:])}
+bucket_counts = {f'{start}-{end} times': sum(1 for freq in word_freq.values() if start <= freq <= end) for start, end in zip(buckets, buckets[1:])}
 
 # display the bucket counts
 print("\nBucket Counts:")
@@ -52,13 +52,13 @@ ax1.imshow(wordcloud, interpolation='bilinear')
 ax1.axis('off')
 ax1.set_title('Word Cloud')
 
-# plot the bar graph of word frequencies
-ax2.bar(bucket_counts.keys(), bucket_counts.values(), color='skyblue')
-ax2.set_title('Word Frequency Distribution')
-ax2.set_xlabel('Frequency')
-ax2.set_yscale('log')
-ax2.tick_params(axis='x', rotation=45, labelsize=6)  # Corrected line
-ax2.set_ylabel('Number of Words')
+## plot the bar graph of word frequencies
+#ax2.bar(bucket_counts.keys(), bucket_counts.values(), color='skyblue')
+#ax2.set_title('Word Frequency Distribution')
+#ax2.set_xlabel('Frequency')
+#ax2.set_yscale('log')
+#ax2.tick_params(axis='x', rotation=45, labelsize=6)  # Corrected line
+#ax2.set_ylabel('Number of Words')
 
 plt.tight_layout()
 plt.show()
